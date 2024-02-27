@@ -39,7 +39,7 @@ public class BasicRandomNoise : MonoBehaviour
                 Random.Range(randomRange.y, randomRange.w));
             spriteRenderer.material.SetVector("_NoiseOffset", newOffset);
             currentLength = 0;
-            print("change noise! " + newOffset);
+            //print("change noise! " + newOffset);
         }
         
     }

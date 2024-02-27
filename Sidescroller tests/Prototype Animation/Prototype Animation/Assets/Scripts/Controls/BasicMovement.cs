@@ -10,6 +10,8 @@ public class BasicMovement : MonoBehaviour
 
     [SerializeField]
     private float moveSpeed = 1;
+    private bool isMoving = false;
+    private InputAction.CallbackContext context;
     
     // Start is called before the first frame update
     void Start()
@@ -24,11 +26,21 @@ public class BasicMovement : MonoBehaviour
     {
         
     }
-
-    public void Move(InputAction.CallbackContext context)
+    private void FixedUpdate()
     {
-        print("Move");
-        rb.velocity= context.ReadValue<Vector2>() * moveSpeed;
+        if(isMoving)
+        {
+            rb.MovePosition(transform.position + new Vector3(context.ReadValue<Vector2>().x, context.ReadValue<Vector2>().y) * moveSpeed *Time.deltaTime);
+        }
+    }
+
+    public void Move(InputAction.CallbackContext newContext)
+    {
+        isMoving = true;
+
+        context= newContext;
+        /*print("Move");
+        rb.velocity+= context.ReadValue<Vector2>() * moveSpeed;*/
 
         //rb.velocity = moveSpeed;
     }
