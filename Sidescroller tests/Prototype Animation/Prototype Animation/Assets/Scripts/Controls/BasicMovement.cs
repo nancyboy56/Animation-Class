@@ -42,7 +42,7 @@ public class BasicMovement : MonoBehaviour
         if (isMoving)
         {
             MoveWithPosition();
-           // print("moving");
+           print("moving");
 
         }else
         {
@@ -76,11 +76,7 @@ public class BasicMovement : MonoBehaviour
                 print("Move pressed");
 
             }
-            else
-            {
-                isMoving = !isMoving;
-                //print("not performed");
-            }
+           
 
         }
         
