@@ -12,32 +12,39 @@ public class BasicJump : MonoBehaviour
 
     [SerializeField]
     private float jumpHeight = 7;
-    private bool isJumping = false;
+    private bool jumping = false;
+    private bool ceiling = false;
+    private bool grounded = true;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        jumping = false;
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (isJumping)
+        if (jumping)
         {
+            // ForceMode2D.Impulse means that all force is applied in one hit not over time
             rb.AddForce((Vector2.up) * jumpHeight, ForceMode2D.Impulse);
-            isJumping = false;
+            jumping = false;
 
         }
     }
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if (context.performed)
+        
+        if (context.action.name =="Jump" && context.performed)
         {
             print("Jump");
-            isJumping = true;
+            jumping = true;
         }
+
+        
     }
 
 

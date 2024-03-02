@@ -10,15 +10,24 @@ public class BasicMovement : MonoBehaviour
 
     [SerializeField]
     private float moveSpeed = 1;
+
     private bool isMoving = false;
     private InputAction.CallbackContext context;
-    
+
+    [SerializeField]
+
+    private int called = 0;
+
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
     // Start is called before the first frame update
     void Start()
     {
-        //print("Start Movement!");
-        rb =GetComponent<Rigidbody2D>();
-      
+        isMoving = false;
+
     }
 
     // Update is called once per frame
@@ -26,22 +35,63 @@ public class BasicMovement : MonoBehaviour
     {
         
     }
+
     private void FixedUpdate()
     {
-       /* if(isMoving)
+
+        if (isMoving)
         {
-            
-            //rb.MovePosition(transform.position + new Vector3(context.ReadValue<Vector2>().x, 0) * moveSpeed *Time.deltaTime);
-            isMoving = false;
-        }*/
+            MoveWithPosition();
+           // print("moving");
+
+        }else
+        {
+            //print("not moving");
+        }
+
+    }
+
+    private void MoveWithVelocity()
+    {
+        
+        rb.AddForce(new Vector3(context.ReadValue<Vector2>().x, 0) * moveSpeed * Time.deltaTime);
+        
+        //print(rb.velocity);
+    }
+
+    private void MoveWithPosition()
+    {
+        rb.MovePosition(transform.position + new Vector3(context.ReadValue<Vector2>().x, 0) * moveSpeed * Time.deltaTime);
     }
 
     public void Move(InputAction.CallbackContext newContext)
     {
-        isMoving = true;
-        print("Move");
-        context= newContext;
-        rb.AddForce(new Vector3(context.ReadValue<Vector2>().x, 0) * moveSpeed * Time.deltaTime);
+        ++called;
+        context = newContext;
+        if(newContext.action.name== "Move")
+        {
+            if (newContext.performed)
+            {
+                isMoving = !isMoving;
+                print("Move pressed");
+
+            }
+            else
+            {
+                isMoving = !isMoving;
+                //print("not performed");
+            }
+
+        }
+        
+        
+        
+
+       
+        //isMoving = true;
+        
+        
+        
         /*print("Move");
         rb.velocity+= context.ReadValue<Vector2>() * moveSpeed;*/
 
