@@ -18,6 +18,13 @@ public class BasicMovement : MonoBehaviour
 
     private int called = 0;
 
+    [SerializeField]
+    private int groundLayer = 9;
+
+    [SerializeField]
+    private int raycastDistance = 1;
+
+
 
     private void Awake()
     {
@@ -70,14 +77,13 @@ public class BasicMovement : MonoBehaviour
         context = newContext;
         if(newContext.action.name== "Move")
         {
-            if (newContext.performed)
+            int layerMask = 1 << groundLayer;
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.TransformDirection(Vector3.down), raycastDistance, layerMask);
+            if (newContext.performed && hit.collider != null)
             {
                 isMoving = !isMoving;
                 print("Move pressed");
-
             }
-           
-
         }
         
         

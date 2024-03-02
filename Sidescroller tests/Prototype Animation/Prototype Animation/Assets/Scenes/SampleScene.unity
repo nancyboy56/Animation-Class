@@ -155,8 +155,9 @@ Transform:
   - {fileID: 1687227088}
   - {fileID: 422054048}
   - {fileID: 201426996}
-  - {fileID: 430743053}
   - {fileID: 647118943}
+  - {fileID: 2124248234}
+  - {fileID: 430743053}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &130938295
@@ -337,6 +338,7 @@ GameObject:
   - component: {fileID: 396502925}
   - component: {fileID: 396502926}
   - component: {fileID: 396502924}
+  - component: {fileID: 396502927}
   m_Layer: 0
   m_Name: Basic Body
   m_TagString: Untagged
@@ -368,7 +370,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 396502919}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: bc60eb109ae091147b995392274aede6, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -419,7 +421,7 @@ Rigidbody2D:
   m_Mass: 10
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 10
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -430,7 +432,7 @@ Rigidbody2D:
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &396502923
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -490,13 +492,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396502919}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 94fe0d05f265f5e4ab297ad7b20bf74e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
+  moveSpeed: 15
   called: 0
+  groundLayer: 9
+  raycastDistance: 1
 --- !u!114 &396502925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -524,8 +528,8 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 396502926}
-        m_TargetAssemblyTypeName: BasicJump, Assembly-CSharp
+      - m_Target: {fileID: 396502927}
+        m_TargetAssemblyTypeName: Movement, Assembly-CSharp
         m_MethodName: Jump
         m_Mode: 0
         m_Arguments:
@@ -544,8 +548,8 @@ MonoBehaviour:
     m_ActionName: UI/Jump[/Keyboard/space]
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 396502924}
-        m_TargetAssemblyTypeName: BasicMovement, Assembly-CSharp
+      - m_Target: {fileID: 396502927}
+        m_TargetAssemblyTypeName: Movement, Assembly-CSharp
         m_MethodName: Move
         m_Mode: 0
         m_Arguments:
@@ -570,12 +574,36 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396502919}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f93683d0cdc44f43b34bf2cf69d8c67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpHeight: 100
+  jumpHeight: 250
+  maxJump: 3
+  jumpCount: 0
+  groundLayer: 9
+  raycastDistance: 1
+--- !u!114 &396502927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396502919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa6fec768e2f774695605b855e81d5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpHeight: 250
+  maxJump: 3
+  jumpCount: 0
+  groundLayer: 9
+  raycastDistance: 1
+  moveDown: -1
+  moveSpeed: 10
+  called: 0
 --- !u!1 &422054047
 GameObject:
   m_ObjectHideFlags: 0
@@ -638,7 +666,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 523508851}
-  - {fileID: 2124248234}
   m_Father: {fileID: 8642458}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
@@ -1021,7 +1048,39 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 396502920}
+  - {fileID: 733493986}
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &733493985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 733493986}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &733493986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 733493985}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.54, y: 1.27, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 702685098}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &862573984
 GameObject:
@@ -1196,7 +1255,7 @@ GameObject:
   - component: {fileID: 962036348}
   - component: {fileID: 962036349}
   - component: {fileID: 962036350}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Platform 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1407,8 +1466,8 @@ GameObject:
   - component: {fileID: 1426077144}
   - component: {fileID: 1426077146}
   - component: {fileID: 1426077147}
-  m_Layer: 0
-  m_Name: Platform 1 (2)
+  m_Layer: 9
+  m_Name: Platform 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1599,8 +1658,8 @@ GameObject:
   - component: {fileID: 1798882614}
   - component: {fileID: 1798882616}
   - component: {fileID: 1798882617}
-  m_Layer: 0
-  m_Name: Platform 1 (1)
+  m_Layer: 9
+  m_Name: Platform 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1729,7 +1788,7 @@ GameObject:
   - component: {fileID: 1897937730}
   - component: {fileID: 1897937732}
   - component: {fileID: 1897937731}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Basic Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1857,7 +1916,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2124248234}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1872,7 +1931,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2124248233}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1880,7 +1939,7 @@ Transform:
   - {fileID: 962036348}
   - {fileID: 1798882614}
   - {fileID: 1426077144}
-  m_Father: {fileID: 430743053}
+  m_Father: {fileID: 8642458}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
