@@ -6,26 +6,17 @@ using UnityEngine.InputSystem;
 public class Movement : MonoBehaviour
 {
 
-    private Rigidbody2D rb;
-
     [SerializeField]
     private float jumpHeight = 7;
-    private bool jumping = false;
-    private bool ceiling = false;
-    private bool grounded = true;
 
     [SerializeField]
     private int maxJump = 3;
 
     [SerializeField]
-    private int jumpCount = 0;
-
-    [SerializeField]
-    private int groundLayer;
+    private int groundLayer = 9;
 
     [SerializeField]
     private int raycastDistance = 1;
-
 
     [SerializeField]
     private float moveDown = -1;
@@ -33,12 +24,18 @@ public class Movement : MonoBehaviour
     [SerializeField]
     private float moveSpeed = 1;
 
-    private bool isMoving = false;
-    private InputAction.CallbackContext context;
+    [SerializeField]
+    private float fallSpeed = 3;
 
     [SerializeField]
-    private int called = 0;
+    private float lowJumpSpeed = 3;
 
+    private bool jumping = false;
+    private bool isMoving = false;
+    private int jumpCount = 0;
+    private Rigidbody2D rb;
+    private InputAction.CallbackContext context;
+    private bool holding = false;
 
     private void Awake()
     {
@@ -63,9 +60,10 @@ public class Movement : MonoBehaviour
     {
         if (jumping)
         {
-            Jump();
+            BasicJump();
         }
-
+        FastFall();
+ // HoldingJump();
         if (isMoving)
         {
             MoveWithPosition();
@@ -96,7 +94,25 @@ public class Movement : MonoBehaviour
        
     }
 
-    private void Jump()
+    private void FastFall()
+    {
+        if (rb.velocity.y < 0)
+        {
+            rb.velocity +=Vector2.up * Physics2D.gravity.y * fallSpeed * Time.deltaTime;
+
+           // rb.velocity.y = 0;
+        } 
+    }
+
+    private void HoldingJump()
+    {
+        if(rb.velocity.y>0 && holding)
+        {
+            rb.velocity += Vector2.up * Physics2D.gravity.y * lowJumpSpeed * Time.deltaTime;
+        }
+    }
+
+    private void BasicJump()
     {
         jumpCount++;
         // ForceMode2D.Impulse means that all force is applied in one hit not over time
@@ -108,6 +124,7 @@ public class Movement : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
+        holding =!holding;
         if ( context.performed)
         {
             RaycastHit2D hit = GroundedRaycast();
@@ -133,7 +150,7 @@ public class Movement : MonoBehaviour
 
     public void Move(InputAction.CallbackContext newContext)
     {
-        ++called;
+        
         context = newContext;
         
             if (newContext.performed )
