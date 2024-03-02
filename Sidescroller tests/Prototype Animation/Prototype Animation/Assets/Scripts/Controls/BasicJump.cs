@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -11,6 +12,7 @@ public class BasicJump : MonoBehaviour
 
     [SerializeField]
     private float jumpHeight = 7;
+    private bool isJumping = false;
 
     // Start is called before the first frame update
     void Start()
@@ -19,9 +21,14 @@ public class BasicJump : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        
+        if (isJumping)
+        {
+            rb.AddForce((Vector2.up) * jumpHeight, ForceMode2D.Impulse);
+            isJumping = false;
+
+        }
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -29,7 +36,9 @@ public class BasicJump : MonoBehaviour
         if (context.performed)
         {
             print("Jump");
-            rb.AddForce(Vector2.up* jumpHeight, ForceMode2D.Impulse);
+            isJumping = true;
         }
     }
+
+
 }
