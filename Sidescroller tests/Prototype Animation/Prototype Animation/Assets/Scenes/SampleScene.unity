@@ -336,8 +336,6 @@ GameObject:
   - component: {fileID: 396502922}
   - component: {fileID: 396502921}
   - component: {fileID: 396502925}
-  - component: {fileID: 396502926}
-  - component: {fileID: 396502924}
   - component: {fileID: 396502927}
   m_Layer: 0
   m_Name: Basic Body
@@ -418,10 +416,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 10
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 10
+  m_GravityScale: 1.2
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -485,22 +483,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &396502924
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 396502919}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94fe0d05f265f5e4ab297ad7b20bf74e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 15
-  called: 0
-  groundLayer: 9
-  raycastDistance: 1
 --- !u!114 &396502925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -567,23 +549,6 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 519420031}
---- !u!114 &396502926
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 396502919}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f93683d0cdc44f43b34bf2cf69d8c67, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jumpHeight: 250
-  maxJump: 3
-  jumpCount: 0
-  groundLayer: 9
-  raycastDistance: 1
 --- !u!114 &396502927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -596,14 +561,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfa6fec768e2f774695605b855e81d5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpHeight: 250
+  jumpHeight: 10
   maxJump: 3
-  jumpCount: 0
   groundLayer: 9
   raycastDistance: 1
   moveDown: -1
   moveSpeed: 10
-  called: 0
+  fallSpeed: 5
+  lowJumpSpeed: 3
 --- !u!1 &422054047
 GameObject:
   m_ObjectHideFlags: 0

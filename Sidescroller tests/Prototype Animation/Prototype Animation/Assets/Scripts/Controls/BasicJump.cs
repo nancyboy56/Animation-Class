@@ -52,6 +52,13 @@ public class BasicJump : MonoBehaviour
 
         }
 
+        if (isMoving)
+        {
+            MoveWithPosition();
+            print("moving");
+
+        }
+
 
     }
 

@@ -148,6 +148,7 @@ public class Movement : MonoBehaviour
         }
     }
 
+    //When WASD is pressed the player moves and when WASD is released the player stops
     public void Move(InputAction.CallbackContext newContext)
     {
         
@@ -165,6 +166,7 @@ public class Movement : MonoBehaviour
         
     }
 
+    //Checks if the
     private RaycastHit2D GroundedRaycast()
     {
         int layerMask = 1 << groundLayer;
