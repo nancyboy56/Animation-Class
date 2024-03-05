@@ -178,7 +178,7 @@ public class Movement : MonoBehaviour
             RaycastHit2D hit = GroundedRaycast();
             if (hit.collider != null || jumpCount == 1)
             {
-                isMoving = !isMoving;
+                isMoving= !isMoving;
                 print("Move pressed");
             }
         }

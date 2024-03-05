@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Vol Shape 3 Colours
-  m_Shader: {fileID: -6465566751694194690, guid: c2e6d211dd3270c4f88c9e7b1fcac005, type: 3}
+  m_Name: Moving Colours
+  m_Shader: {fileID: -6465566751694194690, guid: 7b5753253dd858044860f7fa7b899aea, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: -8328923581568760697, guid: 589e4f58d5401a944a0ce1bae80f9539, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
@@ -53,25 +53,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Constrast: 1.2
     - _EnableExternalAlpha: 0
+    - _NoiseMultiple: 0.095
+    - _NoiseScale: 10000
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScaleNoise: 1000
-    - _TimeMulltipler: 2
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Colour1: {r: 0.30082586, g: 0.44277558, b: 0.9547169, a: 0}
-    - _Colour1Values: {r: 0, g: 0.2, b: 0, a: 0}
-    - _Colour2: {r: 0.40141082, g: 1, b: 0, a: 0}
-    - _Colour2Values: {r: 0.2, g: 0.8, b: 0, a: 0}
-    - _Colour3: {r: 0.70517534, g: 0.74509805, b: 0.26666665, a: 0}
-    - _Colour3Values: {r: 0.8, g: 1, b: 0, a: 0}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Tiling: {r: 2, g: 2, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _TimeScale: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &3416553407899217348
+--- !u!114 &8732331859740823433
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
