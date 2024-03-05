@@ -616,13 +616,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfa6fec768e2f774695605b855e81d5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpHeight: 10
+  jumpHeight: 12
   maxJump: 3
   groundLayer: 9
   raycastDistance: 1
   moveDown: -1
   moveSpeed: 10
-  fallSpeed: 5
+  fallSpeed: 10
   lowJumpSpeed: 3
 --- !u!1 &422054047
 GameObject:
