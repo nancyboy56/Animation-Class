@@ -52,12 +52,12 @@ public class BasicJump : MonoBehaviour
 
         }
 
-        if (isMoving)
+        /*if (isMoving)
         {
             MoveWithPosition();
             print("moving");
 
-        }
+        }*/
 
 
     }

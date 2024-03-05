@@ -36,6 +36,7 @@ public class Movement : MonoBehaviour
     private Rigidbody2D rb;
     private InputAction.CallbackContext context;
     private bool holding = false;
+    private int called = 0;
 
     private void Awake()
     {
@@ -63,7 +64,7 @@ public class Movement : MonoBehaviour
             BasicJump();
         }
         FastFall();
- // HoldingJump();
+        HoldingJump();
         if (isMoving)
         {
             MoveWithPosition();
@@ -106,8 +107,9 @@ public class Movement : MonoBehaviour
 
     private void HoldingJump()
     {
-        if(rb.velocity.y>0 && holding)
+        if(rb.velocity.y>0 && holding == false)
         {
+            
             rb.velocity += Vector2.up * Physics2D.gravity.y * lowJumpSpeed * Time.deltaTime;
         }
     }
@@ -124,16 +126,19 @@ public class Movement : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        holding =!holding;
-        if ( context.performed)
+        if (context.started)
         {
+            holding = !holding;
+            print("jump started");
+
             RaycastHit2D hit = GroundedRaycast();
 
             if (hit.collider != null && jumpCount < maxJump)
             {
+
                 jumping = true;
                 jumpCount = 0;
-                print("Jump");
+
             }
             else if (jumpCount > 0 && jumpCount < maxJump)
             {
@@ -141,11 +146,26 @@ public class Movement : MonoBehaviour
             }
             else
             {
-                print("dont jump");
+
                 jumpCount = 0;
             }
-
         }
+        else if ( context.performed)
+        {
+            print("jump performed");
+           /* called++;
+
+            print("called" + called);*/
+
+            
+
+        } else if (context.canceled)
+        {
+            holding = !holding;
+            print("jump cancelled");
+        }
+
+       // print("Holding: " + holding);
     }
 
     //When WASD is pressed the player moves and when WASD is released the player stops
@@ -153,16 +173,22 @@ public class Movement : MonoBehaviour
     {
         
         context = newContext;
-        
-            if (newContext.performed )
+        if (context.started)
+        {
+            RaycastHit2D hit = GroundedRaycast();
+            if (hit.collider != null || jumpCount == 1)
             {
-                RaycastHit2D hit = GroundedRaycast();
-                if (hit.collider != null || jumpCount==1)
-                {
-                    isMoving = !isMoving;
-                    print("Move pressed");
-                }
+                isMoving = !isMoving;
+                print("Move pressed");
             }
+        }
+        else if (newContext.performed )
+        {
+           
+        } else if (newContext.canceled)
+        {
+            isMoving = false;
+        }
         
     }
 
