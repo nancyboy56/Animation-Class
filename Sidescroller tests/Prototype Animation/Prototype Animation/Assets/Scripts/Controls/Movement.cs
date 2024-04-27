@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -30,7 +31,15 @@ public class Movement : MonoBehaviour
     [SerializeField]
     private float lowJumpSpeed = 3;
 
-   
+    private SpriteRenderer sr;
+
+    //this is not good code!!!
+    //change later!!!
+   /* public SpriteRenderer headSr;
+    public SpriteRenderer bootsSr;
+    public SpriteRenderer hairSr;
+    public SpriteRenderer collarSr;*/
+
 
     private bool jumping = false;
     private bool isMoving = false;
@@ -43,6 +52,7 @@ public class Movement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
 
@@ -66,7 +76,8 @@ public class Movement : MonoBehaviour
         if (isMoving)
         {
             MoveWithPosition();
-            print("moving");
+            FlipSprite();
+            //print("moving");
 
         }
 
@@ -97,7 +108,32 @@ public class Movement : MonoBehaviour
         {
             rb.MovePosition(transform.position + new Vector3(context.ReadValue<Vector2>().x, 0) * moveSpeed * Time.deltaTime);
         }
-       
+        
+    }
+
+    // dont like this function 
+    // bad code!!
+    //cahnge assets to always be one
+    private void FlipSprite()
+    {
+        float x = context.ReadValue<Vector2>().x;
+        if (x < 0){
+            sr.flipX = true;
+           /* headSr.flipX = true;
+            hairSr.flipX = true;
+            bootsSr.flipX = true;
+            collarSr.flipX = true;*/
+        }
+        else
+        {
+            sr.flipX = false;
+          /*  headSr.flipX = false;
+            hairSr.flipX = false;
+            bootsSr.flipX = false;
+            collarSr.flipX = false;*/
+        }
+        
+        
     }
 
     private void FastFall()

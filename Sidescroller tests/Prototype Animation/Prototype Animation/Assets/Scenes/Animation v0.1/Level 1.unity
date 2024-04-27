@@ -237,67 +237,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
---- !u!1001 &1179088856
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 6.93
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7593590045431204875, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9129587640449371141, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_Name
-      value: Player - Vampire
-      objectReference: {fileID: 0}
-    - target: {fileID: 9129587640449371141, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5c7c2f97584b3744fa519a76ff50f619, type: 3}
 --- !u!1 &1670291583
 GameObject:
   m_ObjectHideFlags: 0
@@ -360,7 +299,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 20
+  orthographic size: 15
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -385,7 +324,7 @@ Transform:
   m_GameObject: {fileID: 1670291583}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 16.82, z: -10}
+  m_LocalPosition: {x: 0, y: 12.87, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -492,6 +431,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
+--- !u!1001 &2128430483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7593590045431204875, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129587640449371141, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
+      propertyPath: m_Name
+      value: Vampire v0.3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa87f4f02de2f7e4a91c001211d32543, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -500,4 +496,4 @@ SceneRoots:
   - {fileID: 510571386}
   - {fileID: 741895950}
   - {fileID: 1787801449}
-  - {fileID: 1179088856}
+  - {fileID: 2128430483}
