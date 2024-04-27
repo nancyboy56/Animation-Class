@@ -30,6 +30,8 @@ public class Movement : MonoBehaviour
     [SerializeField]
     private float lowJumpSpeed = 3;
 
+   
+
     private bool jumping = false;
     private bool isMoving = false;
     private int jumpCount = 0;
@@ -54,23 +56,26 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * raycastDistance, Color.yellow);
+        Debug.DrawRay(transform.position, Vector3.down *raycastDistance, Color.yellow);
+        
     }
 
     void FixedUpdate()
     {
+        //Debug.DrawRay(transform.position, transform.position + Vector3.down, Color.green);
+        if (isMoving)
+        {
+            MoveWithPosition();
+            print("moving");
+
+        }
+
         if (jumping)
         {
             BasicJump();
         }
         FastFall();
         HoldingJump();
-        if (isMoving)
-        {
-            MoveWithPosition();
-            //print("moving");
-
-        }
 
     }
 
@@ -195,8 +200,12 @@ public class Movement : MonoBehaviour
     //Checks if the
     private RaycastHit2D GroundedRaycast()
     {
+        //print("drawing");
         int layerMask = 1 << groundLayer;
-        return Physics2D.Raycast(transform.position, transform.TransformDirection(Vector3.down), raycastDistance, layerMask);
+        RaycastHit2D ray = Physics2D.Raycast(transform.position, transform.TransformDirection(Vector3.down), raycastDistance, layerMask);
+        
+        return ray;
+            
 
     }
 }
