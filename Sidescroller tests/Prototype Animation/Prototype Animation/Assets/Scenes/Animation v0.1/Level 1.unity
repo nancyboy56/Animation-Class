@@ -246,6 +246,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1482127315915344505, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4840103278990380236, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
       propertyPath: m_Name
       value: Drawn Ground Basic
@@ -573,6 +577,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1482127315915344505, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4840103278990380236, guid: df6456badf56fe244a5be97a60a6ef21, type: 3}
       propertyPath: m_Name
       value: Drawn Ground Basic (2)
