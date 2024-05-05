@@ -1,0 +1,1934 @@
+fileFormatVersion: 2
+guid: c0ab23a2ae90e1b4c95e8305747325fb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: v3 Vampire 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 661
+      height: 1076
+    spriteID: 5a52ec0ff04267245972168419d621de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 548, y: 2}
+  - name: 'v3 Vampire 9 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6508
+      width: 651
+      height: 1076
+    spriteID: 7806a933ef176a34c8201a7dfe12683b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6508}
+    spritePosition: {x: 553, y: 2}
+  - name: 'v3 Vampire 8 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4340
+      width: 654
+      height: 1076
+    spriteID: a0e4e03f9c09c8d4bb995a5d341b3c52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4340}
+    spritePosition: {x: 552, y: 2}
+  - name: 'v3 Vampire 7 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 1088
+      width: 650
+      height: 1076
+    spriteID: dd907d69862a4d148b9864b4063e207f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 1088}
+    spritePosition: {x: 555, y: 2}
+  - name: 'v3 Vampire 6 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 4
+      width: 642
+      height: 1077
+    spriteID: 60c534114e6823d4197bf9d498c3045f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 4}
+    spritePosition: {x: 564, y: 1}
+  - name: 'v3 Vampire 5 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 658
+      height: 1076
+    spriteID: a13a6d98e67f96643a7a7992867a4308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 552, y: 2}
+  - name: 'v3 Vampire 4 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 3256
+      width: 646
+      height: 1076
+    spriteID: a9225cf3283d3c4428bd9f60c10f5e01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 3256}
+    spritePosition: {x: 555, y: 2}
+  - name: 'v3 Vampire 3 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 5424
+      width: 644
+      height: 1076
+    spriteID: cca21bc9c2a113b4f81eda77a7b9ee6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 5424}
+    spritePosition: {x: 555, y: 2}
+  - name: ' v3 Vampire 2'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 2174
+      width: 636
+      height: 1076
+    spriteID: a7ad1849f9058a243bfe28e03171909f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 2174}
+    spritePosition: {x: 561, y: 2}
+  - name: 'v3 Vampire 1 '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 4342
+      width: 632
+      height: 1076
+    spriteID: 98fb4cacad1e20546a0f94a3862c2928
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 4342}
+    spritePosition: {x: 566, y: 2}
+  - name: Vampire 10 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1088
+      width: 661
+      height: 1076
+    spriteID: 26a7cc0bbbe73b947be2df9c850c2b9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1088}
+    spritePosition: {x: 548, y: 2}
+  - name: Vampire 9 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 4
+      width: 651
+      height: 1076
+    spriteID: 978c8a9daf2ee834e85abd6a278dee6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 4}
+    spritePosition: {x: 553, y: 2}
+  - name: Vampire 8 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5424
+      width: 654
+      height: 1076
+    spriteID: 3e0a853d585581f4abb90b03361e7853
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5424}
+    spritePosition: {x: 552, y: 2}
+  - name: Vampire 7 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 2172
+      width: 650
+      height: 1076
+    spriteID: 40835867996391243bda170887064541
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 2172}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 6 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 1089
+      width: 642
+      height: 1077
+    spriteID: 1d6d9700dd125d645b783d40ab6d793c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 1089}
+    spritePosition: {x: 564, y: 1}
+  - name: Vampire 5 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3256
+      width: 658
+      height: 1076
+    spriteID: 7c31ca192a860404db5615838229cdbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3256}
+    spritePosition: {x: 552, y: 2}
+  - name: Vampire 4 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 4340
+      width: 646
+      height: 1076
+    spriteID: cdf5b86f05c390847acbbd4e2a296551
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 4340}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 3 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 6508
+      width: 644
+      height: 1076
+    spriteID: 7fdb2dd969ed04a429b4da7349f666a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 6508}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 2 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 3258
+      width: 636
+      height: 1076
+    spriteID: 605233b2bdce62649b1743a57461def3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 3258}
+    spritePosition: {x: 561, y: 2}
+  - name: Vampire 1 v2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 5426
+      width: 632
+      height: 1076
+    spriteID: 1b9c5ded247b2314c84256dfbf91a8b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 5426}
+    spritePosition: {x: 566, y: 2}
+  - name: Vampire 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3300
+      y: 4
+      width: 661
+      height: 919
+    spriteID: 2444042abb842134881a75f505f4d8bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3300, y: 4}
+    spritePosition: {x: 548, y: 22}
+  - name: Vampire 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 2824
+      width: 651
+      height: 919
+    spriteID: d1b3205bb71f898409530b43f4fedac9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 2824}
+    spritePosition: {x: 553, y: 27}
+  - name: Vampire 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 1899
+      width: 654
+      height: 917
+    spriteID: ebed24c6c6b0fe84fa80ef604dfb805e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 1899}
+    spritePosition: {x: 552, y: 24}
+  - name: Vampire 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 3751
+      width: 650
+      height: 909
+    spriteID: c24ae358c086e794abb607733740ac09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 3751}
+    spritePosition: {x: 555, y: 25}
+  - name: Vampire 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 6510
+      width: 642
+      height: 956
+    spriteID: 9a2cce5e84fe78a4496edd2986a5efe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 6510}
+    spritePosition: {x: 564, y: 1}
+  - name: Vampire 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 4
+      width: 658
+      height: 940
+    spriteID: 1366aa3d0820f464f8c25473f8baba32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 4}
+    spritePosition: {x: 552, y: 15}
+  - name: Vampire 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 952
+      width: 646
+      height: 939
+    spriteID: 9a9b1ebfc5f1b9049b3e271c4f231d9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 952}
+    spritePosition: {x: 555, y: 18}
+  - name: Vampire 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1982
+      y: 4
+      width: 644
+      height: 983
+    spriteID: 47722cd7130badf4490fb97c1e7bf55a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1982, y: 4}
+    spritePosition: {x: 555, y: 4}
+  - name: Vampire 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1982
+      y: 995
+      width: 636
+      height: 962
+    spriteID: f7ad2936a49a182478135d73fce5082c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1982, y: 995}
+    spritePosition: {x: 561, y: 2}
+  - name: Vampire 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 4668
+      width: 632
+      height: 927
+    spriteID: 1314e6505c8d21a4fb481a1d04e2cb1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2634, y: 4668}
+    spritePosition: {x: 566, y: 27}
+  - name: Red Eye
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1269
+      y: 7760
+      width: 8
+      height: 8
+    spriteID: 6b33b62a969a4464ab0cb28ffe350b67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1269, y: 7760}
+    spritePosition: {x: 990, y: 1005}
+  - name: collar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1038
+      y: 7760
+      width: 223
+      height: 99
+    spriteID: 30b91641b20535f448886a632b4d1ab1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1038, y: 7760}
+    spritePosition: {x: 843, y: 888}
+  - name: hair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 7760
+      width: 180
+      height: 170
+    spriteID: 2f8f6bb2c0bb27340a884680c64c97d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 7760}
+    spritePosition: {x: 833, y: 908}
+  - name: head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 7760
+      width: 169
+      height: 190
+    spriteID: ce5feeb86e003cb42801b8f5f4920b46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 7760}
+    spritePosition: {x: 854, y: 871}
+  - name: boots
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 7592
+      width: 444
+      height: 160
+    spriteID: 1f41514615ea66a4cbc05273647add7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 7592}
+    spritePosition: {x: 570, y: 2}
+  rigSpriteImportData:
+  - name: Vampire 10 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 661
+      height: 1076
+    spriteID: de65f9725d3fd534ca77443cdb1010bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 548, y: 2}
+  - name: Vampire 9 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 4
+      width: 651
+      height: 1076
+    spriteID: 6f2d0b310f81a6648967d26bc4490c7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 4}
+    spritePosition: {x: 553, y: 2}
+  - name: Vampire 8 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 654
+      height: 1076
+    spriteID: 74c74da156add7246a827bdc9f0f0594
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 552, y: 2}
+  - name: Vampire 7 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 1088
+      width: 650
+      height: 1076
+    spriteID: 10b0051812785f04f90514a9196de1ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 1088}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 6 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 1088
+      width: 642
+      height: 1077
+    spriteID: 54bcf1e0fe47b364f9c601f2fbc94f87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 1088}
+    spritePosition: {x: 564, y: 1}
+  - name: Vampire 5 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1088
+      width: 658
+      height: 1076
+    spriteID: b4c96e045c5ebc3478116cb85573c298
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1088}
+    spritePosition: {x: 552, y: 2}
+  - name: Vampire 4 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 673
+      y: 2172
+      width: 646
+      height: 1076
+    spriteID: 63ff518a13c77cc4cbd9a60bed11938a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 673, y: 2172}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 3 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 4
+      width: 644
+      height: 1076
+    spriteID: c217726887cb8024bbdb79687f0e778b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 4}
+    spritePosition: {x: 555, y: 2}
+  - name: Vampire 2 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1332
+      y: 2173
+      width: 636
+      height: 1076
+    spriteID: 12f947f275295be44a31a736820f22af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1332, y: 2173}
+    spritePosition: {x: 561, y: 2}
+  - name: Vampire 1 v3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1984
+      y: 4
+      width: 632
+      height: 1076
+    spriteID: 1cf144ea0a0540d48a9992489b1cb556
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1984, y: 4}
+    spritePosition: {x: 566, y: 2}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Vampire v3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 664bba66b6e11c54dbb370861d143ca6
+    layerID: 194
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: v3 Vampire 10
+    spriteName: v3 Vampire 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5a52ec0ff04267245972168419d621de
+    layerID: 193
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 9 '
+    spriteName: 'v3 Vampire 9 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7806a933ef176a34c8201a7dfe12683b
+    layerID: 192
+    mosaicPosition: {x: 4, y: 6508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 8 '
+    spriteName: 'v3 Vampire 8 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a0e4e03f9c09c8d4bb995a5d341b3c52
+    layerID: 191
+    mosaicPosition: {x: 4, y: 4340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 7 '
+    spriteName: 'v3 Vampire 7 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dd907d69862a4d148b9864b4063e207f
+    layerID: 190
+    mosaicPosition: {x: 673, y: 1088}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 6 '
+    spriteName: 'v3 Vampire 6 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 60c534114e6823d4197bf9d498c3045f
+    layerID: 189
+    mosaicPosition: {x: 1332, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 5 '
+    spriteName: 'v3 Vampire 5 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a13a6d98e67f96643a7a7992867a4308
+    layerID: 188
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 4 '
+    spriteName: 'v3 Vampire 4 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9225cf3283d3c4428bd9f60c10f5e01
+    layerID: 187
+    mosaicPosition: {x: 673, y: 3256}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 3 '
+    spriteName: 'v3 Vampire 3 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cca21bc9c2a113b4f81eda77a7b9ee6b
+    layerID: 186
+    mosaicPosition: {x: 673, y: 5424}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ' v3 Vampire 2'
+    spriteName: ' v3 Vampire 2'
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a7ad1849f9058a243bfe28e03171909f
+    layerID: 185
+    mosaicPosition: {x: 1332, y: 2174}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'v3 Vampire 1 '
+    spriteName: 'v3 Vampire 1 '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 98fb4cacad1e20546a0f94a3862c2928
+    layerID: 184
+    mosaicPosition: {x: 1332, y: 4342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire v2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ea1c7c51097c6b34db53ced65cf1b249
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vampire 10 v2
+    spriteName: Vampire 10 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 26a7cc0bbbe73b947be2df9c850c2b9f
+    layerID: 170
+    mosaicPosition: {x: 4, y: 1088}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 9 v2
+    spriteName: Vampire 9 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 978c8a9daf2ee834e85abd6a278dee6b
+    layerID: 169
+    mosaicPosition: {x: 673, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 8 v2
+    spriteName: Vampire 8 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 3e0a853d585581f4abb90b03361e7853
+    layerID: 168
+    mosaicPosition: {x: 4, y: 5424}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 7 v2
+    spriteName: Vampire 7 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 40835867996391243bda170887064541
+    layerID: 167
+    mosaicPosition: {x: 673, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 6 v2
+    spriteName: Vampire 6 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 1d6d9700dd125d645b783d40ab6d793c
+    layerID: 166
+    mosaicPosition: {x: 1332, y: 1089}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 5 v2
+    spriteName: Vampire 5 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 7c31ca192a860404db5615838229cdbc
+    layerID: 165
+    mosaicPosition: {x: 4, y: 3256}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 4 v2
+    spriteName: Vampire 4 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: cdf5b86f05c390847acbbd4e2a296551
+    layerID: 164
+    mosaicPosition: {x: 673, y: 4340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 3 v2
+    spriteName: Vampire 3 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 7fdb2dd969ed04a429b4da7349f666a2
+    layerID: 163
+    mosaicPosition: {x: 673, y: 6508}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 2 v2
+    spriteName: Vampire 2 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 605233b2bdce62649b1743a57461def3
+    layerID: 160
+    mosaicPosition: {x: 1332, y: 3258}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 1 v2
+    spriteName: Vampire 1 v2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 1b9c5ded247b2314c84256dfbf91a8b7
+    layerID: 159
+    mosaicPosition: {x: 1332, y: 5426}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire Idle 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 75487da7fb3491c48934efdff247bc6d
+    layerID: 130
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vampire Cloak Animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: 22
+    spriteID: f221c30da39408d4ba8f361da6c5a027
+    layerID: 129
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 10
+    spriteName: Vampire 10
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 2444042abb842134881a75f505f4d8bd
+    layerID: 128
+    mosaicPosition: {x: 3300, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 9
+    spriteName: Vampire 9
+    isGroup: 0
+    parentIndex: 23
+    spriteID: d1b3205bb71f898409530b43f4fedac9
+    layerID: 127
+    mosaicPosition: {x: 2634, y: 2824}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 8
+    spriteName: Vampire 8
+    isGroup: 0
+    parentIndex: 23
+    spriteID: ebed24c6c6b0fe84fa80ef604dfb805e
+    layerID: 126
+    mosaicPosition: {x: 2634, y: 1899}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 7
+    spriteName: Vampire 7
+    isGroup: 0
+    parentIndex: 23
+    spriteID: c24ae358c086e794abb607733740ac09
+    layerID: 125
+    mosaicPosition: {x: 2634, y: 3751}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 6
+    spriteName: Vampire 6
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 9a2cce5e84fe78a4496edd2986a5efe1
+    layerID: 124
+    mosaicPosition: {x: 1332, y: 6510}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 5
+    spriteName: Vampire 5
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 1366aa3d0820f464f8c25473f8baba32
+    layerID: 123
+    mosaicPosition: {x: 2634, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 4
+    spriteName: Vampire 4
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 9a9b1ebfc5f1b9049b3e271c4f231d9a
+    layerID: 122
+    mosaicPosition: {x: 2634, y: 952}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 3
+    spriteName: Vampire 3
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 47722cd7130badf4490fb97c1e7bf55a
+    layerID: 121
+    mosaicPosition: {x: 1982, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 2
+    spriteName: Vampire 2
+    isGroup: 0
+    parentIndex: 23
+    spriteID: f7ad2936a49a182478135d73fce5082c
+    layerID: 120
+    mosaicPosition: {x: 1982, y: 995}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 1
+    spriteName: Vampire 1
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 1314e6505c8d21a4fb481a1d04e2cb1f
+    layerID: 119
+    mosaicPosition: {x: 2634, y: 4668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire Idle Static
+    spriteName: 
+    isGroup: 1
+    parentIndex: 22
+    spriteID: 82921f9d161ea11419a91f987fca4a12
+    layerID: 117
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Red Eye
+    spriteName: Red Eye
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 6b33b62a969a4464ab0cb28ffe350b67
+    layerID: 116
+    mosaicPosition: {x: 1269, y: 7760}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: collar
+    spriteName: collar
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 30b91641b20535f448886a632b4d1ab1
+    layerID: 115
+    mosaicPosition: {x: 1038, y: 7760}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hair
+    spriteName: hair
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 2f8f6bb2c0bb27340a884680c64c97d9
+    layerID: 114
+    mosaicPosition: {x: 850, y: 7760}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: head
+    spriteName: head
+    isGroup: 0
+    parentIndex: 34
+    spriteID: ce5feeb86e003cb42801b8f5f4920b46
+    layerID: 113
+    mosaicPosition: {x: 673, y: 7760}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: boots
+    spriteName: boots
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 1f41514615ea66a4cbc05273647add7c
+    layerID: 112
+    mosaicPosition: {x: 673, y: 7592}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Vampire v3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c9b6e063fa808564893dce7acc5e3ea7
+    layerID: 194
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 10 v3
+    spriteName: Vampire 10 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: de65f9725d3fd534ca77443cdb1010bc
+    layerID: 193
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 9 v3
+    spriteName: Vampire 9 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6f2d0b310f81a6648967d26bc4490c7e
+    layerID: 192
+    mosaicPosition: {x: 673, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 8 v3
+    spriteName: Vampire 8 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 74c74da156add7246a827bdc9f0f0594
+    layerID: 191
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 7 v3
+    spriteName: Vampire 7 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 10b0051812785f04f90514a9196de1ad
+    layerID: 190
+    mosaicPosition: {x: 673, y: 1088}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 6 v3
+    spriteName: Vampire 6 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 54bcf1e0fe47b364f9c601f2fbc94f87
+    layerID: 189
+    mosaicPosition: {x: 1332, y: 1088}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 5 v3
+    spriteName: Vampire 5 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b4c96e045c5ebc3478116cb85573c298
+    layerID: 188
+    mosaicPosition: {x: 4, y: 1088}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 4 v3
+    spriteName: Vampire 4 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 63ff518a13c77cc4cbd9a60bed11938a
+    layerID: 187
+    mosaicPosition: {x: 673, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 3 v3
+    spriteName: Vampire 3 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c217726887cb8024bbdb79687f0e778b
+    layerID: 186
+    mosaicPosition: {x: 1332, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 2 v3
+    spriteName: Vampire 2 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 12f947f275295be44a31a736820f22af
+    layerID: 185
+    mosaicPosition: {x: 1332, y: 2173}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire 1 v3
+    spriteName: Vampire 1 v3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1cf144ea0a0540d48a9992489b1cb556
+    layerID: 184
+    mosaicPosition: {x: 1984, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vampire v2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 84f8b4be316254f40b0c388dd4835903
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vampire 10 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: c7bd338bf45378843ac86d1466707184
+    layerID: 170
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 9 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 0227d744dcff03143b87abda5f66d2ae
+    layerID: 169
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 8 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 19501a6f066feeb488c9f739f6556e41
+    layerID: 168
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 7 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 40268f4c822bc4547b3678f24aee4065
+    layerID: 167
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 6 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: e2cbcb10249d6d345bd4c4af503b4e00
+    layerID: 166
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 5 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 0a337526e39600a4189cd2e45e568191
+    layerID: 165
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 4 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 639a18c7b69c18145b2351f040eb2fc1
+    layerID: 164
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 3 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: c042ad86d7a56684eb18476182307885
+    layerID: 163
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 2 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 55804559f8484a64e8417fdf574b5c28
+    layerID: 160
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 1 v2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 3395c06a7efceaf4485f83288534e000
+    layerID: 159
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire Idle 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3266fd0a7733e70469ea101491ab02ac
+    layerID: 130
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Vampire Cloak Animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: 22
+    spriteID: f6da2e4226b4e90418ddc129bb2be562
+    layerID: 129
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 5ce516201de96554f9247a8b54f804d8
+    layerID: 128
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: a2752e42fdee6e54bbedf5f0178dd3b1
+    layerID: 127
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 8e57f94b1b406f84093ee35514077a6b
+    layerID: 126
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 3a755636f7a49264e9f23c38047f3ba8
+    layerID: 125
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: bcec4b68a92fcf94abedb39d3a679aec
+    layerID: 124
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: ff16a1fae3c28594ca1ec6693d68175a
+    layerID: 123
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: c329da860832fb04f97a3ecd54ee45aa
+    layerID: 122
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: a3405d0808fce854a9584f9e62cb4352
+    layerID: 121
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: a146ceb58460b434f860a97f4f06af4e
+    layerID: 120
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 23
+    spriteID: d7578a08577c3314395f969fb598275e
+    layerID: 119
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vampire Idle Static
+    spriteName: 
+    isGroup: 1
+    parentIndex: 22
+    spriteID: 95b81add49692b24d9180f5fc1ef124d
+    layerID: 117
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Red Eye
+    spriteName: 
+    isGroup: 0
+    parentIndex: 34
+    spriteID: bca493be263878c4a85345d02655184d
+    layerID: 116
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: collar
+    spriteName: 
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 82bd8039ef1756d408d13a2e7ddba2d5
+    layerID: 115
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: hair
+    spriteName: 
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 5a53ba1f24109e449ac1055c4fa16edf
+    layerID: 114
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: head
+    spriteName: 
+    isGroup: 0
+    parentIndex: 34
+    spriteID: 51b0475a7b087f2468d809472b04f185
+    layerID: 113
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: boots
+    spriteName: 
+    isGroup: 0
+    parentIndex: 34
+    spriteID: d18f105e0088d93458eada753587fcd9
+    layerID: 112
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638498530859660529
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

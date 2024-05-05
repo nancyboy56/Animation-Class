@@ -1,0 +1,3782 @@
+fileFormatVersion: 2
+guid: 7a398544f0d39d34791c2f494a8627ab
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Loading words 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2641
+      y: 1698
+      width: 700
+      height: 108
+    spriteID: 0edacb556bea3504e8b5ea5728942fb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2641, y: 1698}
+    spritePosition: {x: 611, y: 526}
+  - name: Loading words 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2641
+      y: 1579
+      width: 708
+      height: 108
+    spriteID: d65754d093c11594a8b83d578c9f8213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2641, y: 1579}
+    spritePosition: {x: 606, y: 527}
+  - name: Loading words 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3357
+      y: 1459
+      width: 696
+      height: 112
+    spriteID: a744ea9c52c3fd14b8b401f268a8ec87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3357, y: 1459}
+    spritePosition: {x: 611, y: 523}
+  - name: Loading words 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3357
+      y: 1579
+      width: 703
+      height: 108
+    spriteID: 56d74d8bf18c159498c47beaf7b4d4ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3357, y: 1579}
+    spritePosition: {x: 606, y: 528}
+  - name: Loading words 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2642
+      y: 1338
+      width: 703
+      height: 112
+    spriteID: 1d18c924b1007424dad3b3bccafdd1c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2642, y: 1338}
+    spritePosition: {x: 609, y: 522}
+  - name: Loading Wobble 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1698
+      width: 701
+      height: 108
+    spriteID: 2b04035d08833904fadebcdcbb477006
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1698}
+    spritePosition: {x: 611, y: 528}
+  - name: Loading Wobble 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3353
+      y: 1338
+      width: 702
+      height: 112
+    spriteID: 25ce3ed6aaef9c846a749547b73fea41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3353, y: 1338}
+    spritePosition: {x: 614, y: 523}
+  - name: Loading Wobble 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1338
+      width: 702
+      height: 113
+    spriteID: 0f51ee6c6f3b0104a9602a1a9a18269a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1338}
+    spritePosition: {x: 614, y: 524}
+  - name: Loading Wobble 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3439
+      width: 705
+      height: 137
+    spriteID: fec14eeae7461a849b305aaec0bc2579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3439}
+    spritePosition: {x: 612, y: 526}
+  - name: Loading Wobble 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3584
+      width: 698
+      height: 136
+    spriteID: fc47f3e7aa782bd42b35dc9686bd67f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3584}
+    spritePosition: {x: 615, y: 527}
+  - name: Loading Wobble 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 3584
+      width: 704
+      height: 134
+    spriteID: 4d445623cc3766c4b82aaf1ddbe2e14c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 710, y: 3584}
+    spritePosition: {x: 612, y: 531}
+  - name: Loading Wobble 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3728
+      width: 697
+      height: 135
+    spriteID: adb0aaea322be93409c6ac2b05f53542
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3728}
+    spritePosition: {x: 613, y: 528}
+  - name: Loading Wobble 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 717
+      y: 3439
+      width: 700
+      height: 136
+    spriteID: 7e9829916df66634a8f7ec58a7b76bce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 717, y: 3439}
+    spritePosition: {x: 612, y: 528}
+  - name: Loading Wobble 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 773
+      y: 3268
+      width: 705
+      height: 138
+    spriteID: bb96becde6b661b41b94c90381dd402d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 773, y: 3268}
+    spritePosition: {x: 610, y: 523}
+  - name: Loading Wobble 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 3728
+      width: 710
+      height: 130
+    spriteID: 899da433074d0ff4dbd5f87375e00793
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 3728}
+    spritePosition: {x: 607, y: 532}
+  - name: Loading words 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3361
+      y: 1091
+      width: 699
+      height: 116
+    spriteID: 365137ba79049fc449a1dd50ba1c3dfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3361, y: 1091}
+    spritePosition: {x: 611, y: 525}
+  - name: Loading words 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1091
+      width: 707
+      height: 116
+    spriteID: 773d74c63ea729a4c9c1c58a14b8b021
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1091}
+    spritePosition: {x: 612, y: 523}
+  - name: Loading words 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1215
+      width: 698
+      height: 115
+    spriteID: 0859bac6199954e429f7b8911ca72beb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1215}
+    spritePosition: {x: 613, y: 522}
+  - name: Loading words 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1579
+      width: 701
+      height: 111
+    spriteID: de2d4722ab2bacf46855008ef3d97785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1579}
+    spritePosition: {x: 610, y: 526}
+  - name: Loading words 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3350
+      y: 1215
+      width: 710
+      height: 112
+    spriteID: 2452445f414c5f24497a940ea92788a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3350, y: 1215}
+    spritePosition: {x: 609, y: 523}
+  - name: Loading Words 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2642
+      y: 1459
+      width: 707
+      height: 111
+    spriteID: 47ce5a510f8d23a49bae49679869e244
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2642, y: 1459}
+    spritePosition: {x: 607, y: 526}
+  - name: Loading Words 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2647
+      y: 1091
+      width: 706
+      height: 116
+    spriteID: 1d1835e2b0dd42f4dbb8cefb9ed1655f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2647, y: 1091}
+    spritePosition: {x: 609, y: 522}
+  - name: Loading Words 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1459
+      width: 702
+      height: 112
+    spriteID: 4c5232e3410172f44b35d74d0ec32c63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1459}
+    spritePosition: {x: 607, y: 527}
+  - name: Loading Words 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2638
+      y: 1215
+      width: 704
+      height: 113
+    spriteID: fe20821795e57f94c91e8475f6115b94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2638, y: 1215}
+    spritePosition: {x: 608, y: 522}
+  - name: Loading Words 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3349
+      y: 1698
+      width: 706
+      height: 105
+    spriteID: ef261c13a008e5f43990663263c5f78f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3349, y: 1698}
+    spritePosition: {x: 608, y: 527}
+  - name: Loading Words Old
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2646
+      y: 1814
+      width: 713
+      height: 97
+    spriteID: f5376d5f92a0e844d9ce4912a60b6a5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2646, y: 1814}
+    spritePosition: {x: 588, y: 529}
+  - name: Layer 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: ec6cb8b631e8c5d4e92796d2774aacfe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Loading Words 1 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1814
+      width: 706
+      height: 105
+    spriteID: 0f51545f78d0898499045305d26c55a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1814}
+    spritePosition: {x: 608, y: 527}
+  - name: Wod Guides
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3268
+      width: 761
+      height: 163
+    spriteID: af9217ea99b7a264d836da01109f2412
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3268}
+    spritePosition: {x: 576, y: 518}
+  - name: Loading Bar 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3367
+      y: 1814
+      width: 660
+      height: 100
+    spriteID: c799beeaf3416f8488028db18730b63b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3367, y: 1814}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1927
+      width: 660
+      height: 100
+    spriteID: d1e61fa4fb98dc24f8b889623a6eee10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1927}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2600
+      y: 1927
+      width: 660
+      height: 100
+    spriteID: 365e30cb531a8e34e808785cb4d03a57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2600, y: 1927}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 1927
+      width: 660
+      height: 100
+    spriteID: aa1ac3fe84dd4ca4882b66bb0b427fca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 1927}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2035
+      width: 660
+      height: 100
+    spriteID: 944e37268f48ee74db27cace0fef2902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2035}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1427
+      y: 3728
+      width: 495
+      height: 100
+    spriteID: 6a769ed872090f7408c95eac4165f7b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1427, y: 3728}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1422
+      y: 3584
+      width: 495
+      height: 100
+    spriteID: 432a2ad566bef3343b58b16b32d65be3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1422, y: 3584}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1425
+      y: 3439
+      width: 495
+      height: 100
+    spriteID: ac87081afb6d4224481f169494db8945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1425, y: 3439}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 3871
+      width: 495
+      height: 100
+    spriteID: 5a2fe6cbda89ace49a79f73a4c987ceb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1405, y: 3871}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 3979
+      width: 495
+      height: 100
+    spriteID: 17f2b3604271c1d459e6a60f049cdafa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1405, y: 3979}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1486
+      y: 3268
+      width: 332
+      height: 100
+    spriteID: 0a7adfe7866d8a1478556641223ff4b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1486, y: 3268}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2600
+      y: 2035
+      width: 332
+      height: 100
+    spriteID: 3df6e19bfd3691c42b0277b9e58f6187
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2600, y: 2035}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2940
+      y: 2035
+      width: 332
+      height: 100
+    spriteID: f8a46bf6b07aaaa469d6e7d3e105c6fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2940, y: 2035}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3280
+      y: 2035
+      width: 332
+      height: 100
+    spriteID: a7028596fe5410c43b9da0b746d9faae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3280, y: 2035}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3620
+      y: 2035
+      width: 332
+      height: 100
+    spriteID: 52f490d0bc5ce3342a57db8a6f8332f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3620, y: 2035}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 4
+      width: 149
+      height: 101
+    spriteID: 21a8d39e917e10d40a371688bfec41ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 4}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 113
+      width: 149
+      height: 101
+    spriteID: e7ce38eb82212e2408e2c84268cfd477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 113}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 222
+      width: 149
+      height: 101
+    spriteID: 0eecbfb601ea6e44ca7f7d50daecfc6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 222}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 331
+      width: 149
+      height: 101
+    spriteID: 7db49d5c8898d5043bcc618ca798512c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 331}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 440
+      width: 149
+      height: 101
+    spriteID: e6d1a9d7340c40a42940d6a849561109
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 440}
+    spritePosition: {x: 605, y: 387}
+  - name: Layer 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1908
+      y: 3871
+      width: 0
+      height: 0
+    spriteID: f4f5d5028ab72444594d0e7bc7b886bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1908, y: 3871}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1908
+      y: 3879
+      width: 0
+      height: 0
+    spriteID: e2fb86af74427f64d860544b6bd9b04e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1908, y: 3879}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1908
+      y: 3887
+      width: 0
+      height: 0
+    spriteID: 095edcac896f71d4b847f2d4bba04341
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1908, y: 3887}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1908
+      y: 3895
+      width: 0
+      height: 0
+    spriteID: 7741be9f172d1d64da707c2c81ca24c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1908, y: 3895}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1908
+      y: 3903
+      width: 0
+      height: 0
+    spriteID: f3199259a0e1cc44084e68a13a12fda6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1908, y: 3903}
+    spritePosition: {x: 0, y: 1080}
+  - name: Loading Bar 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 703
+      y: 3871
+      width: 694
+      height: 123
+    spriteID: 97861420397907f4ca527b6a90987102
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 703, y: 3871}
+    spritePosition: {x: 589, y: 377}
+  - name: Loading Bar 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3871
+      width: 691
+      height: 129
+    spriteID: 4cd5547f1d0c9d44da5b88b21034cd9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3871}
+    spritePosition: {x: 587, y: 375}
+  - name: Texture
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1920
+      height: 1079
+    spriteID: 5a3f2cc8f1c1fb64ba4d10d06abc6a19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 0, y: 1}
+  - name: Background with Noise
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: 342b1fa8463bb4744be30043a00e5688
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1920
+      height: 1080
+    spriteID: 80ebe5245178f9446b96d76fb2e785c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2180}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: Loading words 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 484
+      width: 700
+      height: 108
+    spriteID: c0863b051ac551e4cac4fc8e6753b987
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 484}
+    spritePosition: {x: 611, y: 526}
+  - name: Loading words 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3356
+      y: 245
+      width: 708
+      height: 108
+    spriteID: 82ef4c60e6999884d9487e22aa568dc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3356, y: 245}
+    spritePosition: {x: 606, y: 527}
+  - name: Loading words 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 364
+      width: 696
+      height: 112
+    spriteID: 942fef01566f6554aaa0ab4fe0ccec93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 364}
+    spritePosition: {x: 611, y: 523}
+  - name: Loading words 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2636
+      y: 364
+      width: 703
+      height: 108
+    spriteID: b9e6441625132304eb98f8d0d8597643
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2636, y: 364}
+    spritePosition: {x: 606, y: 528}
+  - name: Loading words 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 125
+      width: 703
+      height: 112
+    spriteID: 332774f0de92777438e4ebaece6cf3fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 125}
+    spritePosition: {x: 609, y: 522}
+  - name: Loading Wobble 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3347
+      y: 364
+      width: 701
+      height: 108
+    spriteID: 9b19c7293d51f1145b773ce2eb77a4b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3347, y: 364}
+    spritePosition: {x: 611, y: 528}
+  - name: Loading Wobble 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2643
+      y: 125
+      width: 702
+      height: 112
+    spriteID: b0ea0c5c23a1e89499645830d28c9277
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2643, y: 125}
+    spritePosition: {x: 614, y: 523}
+  - name: Loading Wobble 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3362
+      y: 4
+      width: 702
+      height: 113
+    spriteID: e8e4bb67d42049f48b510f9f4ad3ed1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3362, y: 4}
+    spritePosition: {x: 614, y: 524}
+  - name: Loading Wobble 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 717
+      y: 3268
+      width: 705
+      height: 137
+    spriteID: 0686ff10b9d867847aa6d9f6906b324a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 717, y: 3268}
+    spritePosition: {x: 612, y: 526}
+  - name: Loading Wobble 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 712
+      y: 3414
+      width: 698
+      height: 136
+    spriteID: 535d73e6e88215643b9de72fcf64565c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 712, y: 3414}
+    spritePosition: {x: 615, y: 527}
+  - name: Loading Wobble 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3558
+      width: 704
+      height: 134
+    spriteID: 4afacb6fda4c4d84785fb4cb30d50a91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3558}
+    spritePosition: {x: 612, y: 531}
+  - name: Loading Wobble 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3700
+      width: 697
+      height: 135
+    spriteID: 73b5db0201737a9469ac0f53fb7fc46b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3700}
+    spritePosition: {x: 613, y: 528}
+  - name: Loading Wobble 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3414
+      width: 700
+      height: 136
+    spriteID: 3f1eb016a9b252840817f13b6dc1661a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3414}
+    spritePosition: {x: 612, y: 528}
+  - name: Loading Wobble 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3268
+      width: 705
+      height: 138
+    spriteID: c1690c9f2a364bb49b32c37866f57153
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3268}
+    spritePosition: {x: 610, y: 523}
+  - name: Loading Wobble 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 716
+      y: 3558
+      width: 710
+      height: 130
+    spriteID: 4f6561b6a8d27374d9b8576e055fa7b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 716, y: 3558}
+    spritePosition: {x: 607, y: 532}
+  - name: Loading words 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3967
+      width: 699
+      height: 116
+    spriteID: 0a537c3b5f7186342a68c0d7266d0708
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3967}
+    spritePosition: {x: 611, y: 525}
+  - name: Loading words 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3843
+      width: 707
+      height: 116
+    spriteID: d9347962352889f46af2eb3ee86a011b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3843}
+    spritePosition: {x: 612, y: 523}
+  - name: Loading words 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 711
+      y: 3967
+      width: 698
+      height: 115
+    spriteID: d8083f809a645894da717a45e715deaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 711, y: 3967}
+    spritePosition: {x: 613, y: 522}
+  - name: Loading words 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2647
+      y: 245
+      width: 701
+      height: 111
+    spriteID: 05185d37b530a6b4b83bbef4126e8218
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2647, y: 245}
+    spritePosition: {x: 610, y: 526}
+  - name: Loading words 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2644
+      y: 4
+      width: 710
+      height: 112
+    spriteID: 19cd09424a2edb443876c062b778951c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2644, y: 4}
+    spritePosition: {x: 609, y: 523}
+  - name: Loading Words 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 245
+      width: 707
+      height: 111
+    spriteID: aec5b49d4392baa45b403352ab850671
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 245}
+    spritePosition: {x: 607, y: 526}
+  - name: Loading Words 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 719
+      y: 3843
+      width: 706
+      height: 116
+    spriteID: 741a09ccd1b917d499230f2a7a9837d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 719, y: 3843}
+    spritePosition: {x: 609, y: 522}
+  - name: Loading Words 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3353
+      y: 125
+      width: 702
+      height: 112
+    spriteID: d7144afaf6aecdd459e2ed4720679ad1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3353, y: 125}
+    spritePosition: {x: 607, y: 527}
+  - name: Loading Words 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 704
+      height: 113
+    spriteID: 9427f16579a8fc44f8cc4eac59873359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 608, y: 522}
+  - name: Loading Words 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2640
+      y: 484
+      width: 706
+      height: 105
+    spriteID: 4e4d3c17845c59c489cea48a2e995d57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2640, y: 484}
+    spritePosition: {x: 608, y: 527}
+  - name: Layer 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 8d9b44f285f5cd945bf75ccce0b255ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Loading Bar 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3354
+      y: 484
+      width: 660
+      height: 100
+    spriteID: c79df290d933fe343b59042106a47151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3354, y: 484}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 600
+      width: 660
+      height: 100
+    spriteID: 9797320161998884bb6a49217034456f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 600}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2600
+      y: 600
+      width: 660
+      height: 100
+    spriteID: ee9a45684359e414abda9e6c29e5b642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2600, y: 600}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 600
+      width: 660
+      height: 100
+    spriteID: 901035988ba13c64bbf504c9ee970d06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 600}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 708
+      width: 660
+      height: 100
+    spriteID: 3aa9f519da6175648b82416e33cc87c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 708}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1417
+      y: 3967
+      width: 495
+      height: 100
+    spriteID: 0a02af2cec2b1df418900fd868dc749e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1417, y: 3967}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1418
+      y: 3414
+      width: 495
+      height: 100
+    spriteID: 8cb684b699a807640a0abe9ffbeaafb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1418, y: 3414}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1411
+      y: 3700
+      width: 495
+      height: 100
+    spriteID: 07c747d6637d55a428248a83215fae8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1411, y: 3700}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2600
+      y: 708
+      width: 495
+      height: 100
+    spriteID: 85462389739c47b40bf9d11812cac687
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2600, y: 708}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3103
+      y: 708
+      width: 495
+      height: 100
+    spriteID: 2e468f8593944024db2cca8fc9d495f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3103, y: 708}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3606
+      y: 708
+      width: 332
+      height: 100
+    spriteID: ebecf072383de184e885d6a5cd5eb8f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3606, y: 708}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1433
+      y: 3843
+      width: 332
+      height: 100
+    spriteID: 87a804ec771632845b05ae8d3bcae3b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1433, y: 3843}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1434
+      y: 3558
+      width: 332
+      height: 100
+    spriteID: c5372e84be223f549af09355781ff914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1434, y: 3558}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1430
+      y: 3268
+      width: 332
+      height: 100
+    spriteID: e41f73f13bffcce4d911beeebea4a383
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1430, y: 3268}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 816
+      width: 332
+      height: 100
+    spriteID: 914e60cd9e982c14fb1f3961e5b36c0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 816}
+    spritePosition: {x: 605, y: 388}
+  - name: Loading Bar 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1773
+      y: 3843
+      width: 149
+      height: 101
+    spriteID: eee6e88e8a484654a8c44550e678c6b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1773, y: 3843}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1774
+      y: 3558
+      width: 149
+      height: 101
+    spriteID: 3b095ebc45e4aaf42af887f5256ca4ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1774, y: 3558}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1770
+      y: 3268
+      width: 149
+      height: 101
+    spriteID: 019bdc05456c7db4d8c76958563d2148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1770, y: 3268}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 924
+      width: 149
+      height: 101
+    spriteID: a68fc3ae73c045c4e85ec1505660f291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 924}
+    spritePosition: {x: 605, y: 387}
+  - name: Loading Bar 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1033
+      width: 149
+      height: 101
+    spriteID: 56fada5af75bfd54da5c2439ec4ea7eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1033}
+    spritePosition: {x: 605, y: 387}
+  - name: Layer 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1921
+      y: 3414
+      width: 0
+      height: 0
+    spriteID: b7e5e4ff3389a074898df971cef718db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1921, y: 3414}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1921
+      y: 3422
+      width: 0
+      height: 0
+    spriteID: c7b4998cdd5790e44a8ba6d09325202c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1921, y: 3422}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1921
+      y: 3430
+      width: 0
+      height: 0
+    spriteID: d394178335c498c4897354fb27c89fcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1921, y: 3430}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1921
+      y: 3438
+      width: 0
+      height: 0
+    spriteID: a616f7a301e7422479f3818a64b5d628
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1921, y: 3438}
+    spritePosition: {x: 0, y: 1080}
+  - name: Layer 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1921
+      y: 3446
+      width: 0
+      height: 0
+    spriteID: b6606875a6df342429911eed61a7b71f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1921, y: 3446}
+    spritePosition: {x: 0, y: 1080}
+  - name: Loading Bar 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 709
+      y: 3700
+      width: 694
+      height: 123
+    spriteID: 3bdf2fa0720df7141afac3d2a9726421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 709, y: 3700}
+    spritePosition: {x: 589, y: 377}
+  - name: Background with Noise
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: a3d49aad84799504d84e204151b48437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1920
+      height: 1080
+    spriteID: 04253c32e6998f24d856c8092c7f9dae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2180}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Loading Words
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8404be7fe45d1944c9b934157c514c25
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Loading words 15
+    spriteName: Loading words 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0edacb556bea3504e8b5ea5728942fb3
+    layerID: 80
+    mosaicPosition: {x: 2641, y: 1698}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 14
+    spriteName: Loading words 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d65754d093c11594a8b83d578c9f8213
+    layerID: 79
+    mosaicPosition: {x: 2641, y: 1579}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 13
+    spriteName: Loading words 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a744ea9c52c3fd14b8b401f268a8ec87
+    layerID: 78
+    mosaicPosition: {x: 3357, y: 1459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 12
+    spriteName: Loading words 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 56d74d8bf18c159498c47beaf7b4d4ed
+    layerID: 77
+    mosaicPosition: {x: 3357, y: 1579}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 11
+    spriteName: Loading words 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d18c924b1007424dad3b3bccafdd1c6
+    layerID: 76
+    mosaicPosition: {x: 2642, y: 1338}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 10
+    spriteName: Loading Wobble 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2b04035d08833904fadebcdcbb477006
+    layerID: 47
+    mosaicPosition: {x: 1932, y: 1698}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 9
+    spriteName: Loading Wobble 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 25ce3ed6aaef9c846a749547b73fea41
+    layerID: 45
+    mosaicPosition: {x: 3353, y: 1338}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 8
+    spriteName: Loading Wobble 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0f51ee6c6f3b0104a9602a1a9a18269a
+    layerID: 44
+    mosaicPosition: {x: 1932, y: 1338}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 7
+    spriteName: Loading Wobble 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fec14eeae7461a849b305aaec0bc2579
+    layerID: 43
+    mosaicPosition: {x: 4, y: 3439}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 6
+    spriteName: Loading Wobble 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fc47f3e7aa782bd42b35dc9686bd67f2
+    layerID: 42
+    mosaicPosition: {x: 4, y: 3584}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 5
+    spriteName: Loading Wobble 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4d445623cc3766c4b82aaf1ddbe2e14c
+    layerID: 41
+    mosaicPosition: {x: 710, y: 3584}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 4
+    spriteName: Loading Wobble 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: adb0aaea322be93409c6ac2b05f53542
+    layerID: 40
+    mosaicPosition: {x: 4, y: 3728}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 3
+    spriteName: Loading Wobble 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7e9829916df66634a8f7ec58a7b76bce
+    layerID: 39
+    mosaicPosition: {x: 717, y: 3439}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 2
+    spriteName: Loading Wobble 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bb96becde6b661b41b94c90381dd402d
+    layerID: 38
+    mosaicPosition: {x: 773, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 1
+    spriteName: Loading Wobble 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 899da433074d0ff4dbd5f87375e00793
+    layerID: 34
+    mosaicPosition: {x: 709, y: 3728}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 10
+    spriteName: Loading words 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 365137ba79049fc449a1dd50ba1c3dfc
+    layerID: 75
+    mosaicPosition: {x: 3361, y: 1091}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 9
+    spriteName: Loading words 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 773d74c63ea729a4c9c1c58a14b8b021
+    layerID: 74
+    mosaicPosition: {x: 1932, y: 1091}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 8
+    spriteName: Loading words 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0859bac6199954e429f7b8911ca72beb
+    layerID: 73
+    mosaicPosition: {x: 1932, y: 1215}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 7
+    spriteName: Loading words 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: de2d4722ab2bacf46855008ef3d97785
+    layerID: 72
+    mosaicPosition: {x: 1932, y: 1579}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 6
+    spriteName: Loading words 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2452445f414c5f24497a940ea92788a3
+    layerID: 71
+    mosaicPosition: {x: 3350, y: 1215}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 5
+    spriteName: Loading Words 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 47ce5a510f8d23a49bae49679869e244
+    layerID: 51
+    mosaicPosition: {x: 2642, y: 1459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 4
+    spriteName: Loading Words 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d1835e2b0dd42f4dbb8cefb9ed1655f
+    layerID: 50
+    mosaicPosition: {x: 2647, y: 1091}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 3
+    spriteName: Loading Words 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4c5232e3410172f44b35d74d0ec32c63
+    layerID: 49
+    mosaicPosition: {x: 1932, y: 1459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 2
+    spriteName: Loading Words 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fe20821795e57f94c91e8475f6115b94
+    layerID: 48
+    mosaicPosition: {x: 2638, y: 1215}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 1
+    spriteName: Loading Words 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ef261c13a008e5f43990663263c5f78f
+    layerID: 35
+    mosaicPosition: {x: 3349, y: 1698}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words Old
+    spriteName: Loading Words Old
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5376d5f92a0e844d9ce4912a60b6a5d
+    layerID: 5
+    mosaicPosition: {x: 2646, y: 1814}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 13
+    spriteName: Layer 13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ec6cb8b631e8c5d4e92796d2774aacfe
+    layerID: 54
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 1 copy
+    spriteName: Loading Words 1 copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f51545f78d0898499045305d26c55a5
+    layerID: 53
+    mosaicPosition: {x: 1932, y: 1814}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Wod Guides
+    spriteName: Wod Guides
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af9217ea99b7a264d836da01109f2412
+    layerID: 33
+    mosaicPosition: {x: 4, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Loading Bar
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 98c39d22d4b99ed408cb3cc3a0f5d6a9
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Loading Bar 20
+    spriteName: Loading Bar 20
+    isGroup: 0
+    parentIndex: 30
+    spriteID: c799beeaf3416f8488028db18730b63b
+    layerID: 32
+    mosaicPosition: {x: 3367, y: 1814}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 19
+    spriteName: Loading Bar 19
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d1e61fa4fb98dc24f8b889623a6eee10
+    layerID: 31
+    mosaicPosition: {x: 1932, y: 1927}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 18
+    spriteName: Loading Bar 18
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 365e30cb531a8e34e808785cb4d03a57
+    layerID: 30
+    mosaicPosition: {x: 2600, y: 1927}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 17
+    spriteName: Loading Bar 17
+    isGroup: 0
+    parentIndex: 30
+    spriteID: aa1ac3fe84dd4ca4882b66bb0b427fca
+    layerID: 29
+    mosaicPosition: {x: 3268, y: 1927}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 16
+    spriteName: Loading Bar 16
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 944e37268f48ee74db27cace0fef2902
+    layerID: 28
+    mosaicPosition: {x: 1932, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 15
+    spriteName: Loading Bar 15
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 6a769ed872090f7408c95eac4165f7b8
+    layerID: 27
+    mosaicPosition: {x: 1427, y: 3728}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 14
+    spriteName: Loading Bar 14
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 432a2ad566bef3343b58b16b32d65be3
+    layerID: 26
+    mosaicPosition: {x: 1422, y: 3584}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 13
+    spriteName: Loading Bar 13
+    isGroup: 0
+    parentIndex: 30
+    spriteID: ac87081afb6d4224481f169494db8945
+    layerID: 25
+    mosaicPosition: {x: 1425, y: 3439}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 12
+    spriteName: Loading Bar 12
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 5a2fe6cbda89ace49a79f73a4c987ceb
+    layerID: 24
+    mosaicPosition: {x: 1405, y: 3871}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 11
+    spriteName: Loading Bar 11
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 17f2b3604271c1d459e6a60f049cdafa
+    layerID: 23
+    mosaicPosition: {x: 1405, y: 3979}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 10
+    spriteName: Loading Bar 10
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 0a7adfe7866d8a1478556641223ff4b3
+    layerID: 22
+    mosaicPosition: {x: 1486, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar9
+    spriteName: Loading Bar9
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 3df6e19bfd3691c42b0277b9e58f6187
+    layerID: 21
+    mosaicPosition: {x: 2600, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 8
+    spriteName: Loading Bar 8
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f8a46bf6b07aaaa469d6e7d3e105c6fd
+    layerID: 20
+    mosaicPosition: {x: 2940, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 7
+    spriteName: Loading Bar 7
+    isGroup: 0
+    parentIndex: 30
+    spriteID: a7028596fe5410c43b9da0b746d9faae
+    layerID: 19
+    mosaicPosition: {x: 3280, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 6
+    spriteName: Loading Bar 6
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 52f490d0bc5ce3342a57db8a6f8332f1
+    layerID: 18
+    mosaicPosition: {x: 3620, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 5
+    spriteName: Loading Bar 5
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 21a8d39e917e10d40a371688bfec41ac
+    layerID: 16
+    mosaicPosition: {x: 3860, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 4
+    spriteName: Loading Bar 4
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e7ce38eb82212e2408e2c84268cfd477
+    layerID: 15
+    mosaicPosition: {x: 3860, y: 113}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 3
+    spriteName: Loading Bar 3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 0eecbfb601ea6e44ca7f7d50daecfc6f
+    layerID: 14
+    mosaicPosition: {x: 3860, y: 222}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 2
+    spriteName: Loading Bar 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 7db49d5c8898d5043bcc618ca798512c
+    layerID: 10
+    mosaicPosition: {x: 3860, y: 331}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 1
+    spriteName: Loading Bar 1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e6d1a9d7340c40a42940d6a849561109
+    layerID: 11
+    mosaicPosition: {x: 3860, y: 440}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 18
+    spriteName: Layer 18
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f4f5d5028ab72444594d0e7bc7b886bd
+    layerID: 69
+    mosaicPosition: {x: 1908, y: 3871}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 17
+    spriteName: Layer 17
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e2fb86af74427f64d860544b6bd9b04e
+    layerID: 68
+    mosaicPosition: {x: 1908, y: 3879}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 16
+    spriteName: Layer 16
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 095edcac896f71d4b847f2d4bba04341
+    layerID: 67
+    mosaicPosition: {x: 1908, y: 3887}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 15
+    spriteName: Layer 15
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 7741be9f172d1d64da707c2c81ca24c3
+    layerID: 66
+    mosaicPosition: {x: 1908, y: 3895}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 14
+    spriteName: Layer 14
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f3199259a0e1cc44084e68a13a12fda6
+    layerID: 65
+    mosaicPosition: {x: 1908, y: 3903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 2
+    spriteName: Loading Bar 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 97861420397907f4ca527b6a90987102
+    layerID: 17
+    mosaicPosition: {x: 703, y: 3871}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 1
+    spriteName: Loading Bar 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4cd5547f1d0c9d44da5b88b21034cd9c
+    layerID: 6
+    mosaicPosition: {x: 4, y: 3871}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Texture
+    spriteName: Texture
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a3f2cc8f1c1fb64ba4d10d06abc6a19
+    layerID: 4
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Background with Noise
+    spriteName: Background with Noise
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 342b1fa8463bb4744be30043a00e5688
+    layerID: 9
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80ebe5245178f9446b96d76fb2e785c3
+    layerID: 3
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Loading Words
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 08300950b0dea2a4bb1761b8803d93c5
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Loading words 15
+    spriteName: Loading words 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c0863b051ac551e4cac4fc8e6753b987
+    layerID: 80
+    mosaicPosition: {x: 1932, y: 484}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 14
+    spriteName: Loading words 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 82ef4c60e6999884d9487e22aa568dc7
+    layerID: 79
+    mosaicPosition: {x: 3356, y: 245}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 13
+    spriteName: Loading words 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 942fef01566f6554aaa0ab4fe0ccec93
+    layerID: 78
+    mosaicPosition: {x: 1932, y: 364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 12
+    spriteName: Loading words 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b9e6441625132304eb98f8d0d8597643
+    layerID: 77
+    mosaicPosition: {x: 2636, y: 364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 11
+    spriteName: Loading words 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 332774f0de92777438e4ebaece6cf3fe
+    layerID: 76
+    mosaicPosition: {x: 1932, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 10
+    spriteName: Loading Wobble 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9b19c7293d51f1145b773ce2eb77a4b8
+    layerID: 47
+    mosaicPosition: {x: 3347, y: 364}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 9
+    spriteName: Loading Wobble 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b0ea0c5c23a1e89499645830d28c9277
+    layerID: 45
+    mosaicPosition: {x: 2643, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 8
+    spriteName: Loading Wobble 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e8e4bb67d42049f48b510f9f4ad3ed1d
+    layerID: 44
+    mosaicPosition: {x: 3362, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 7
+    spriteName: Loading Wobble 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0686ff10b9d867847aa6d9f6906b324a
+    layerID: 43
+    mosaicPosition: {x: 717, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 6
+    spriteName: Loading Wobble 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 535d73e6e88215643b9de72fcf64565c
+    layerID: 42
+    mosaicPosition: {x: 712, y: 3414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 5
+    spriteName: Loading Wobble 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4afacb6fda4c4d84785fb4cb30d50a91
+    layerID: 41
+    mosaicPosition: {x: 4, y: 3558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 4
+    spriteName: Loading Wobble 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 73b5db0201737a9469ac0f53fb7fc46b
+    layerID: 40
+    mosaicPosition: {x: 4, y: 3700}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 3
+    spriteName: Loading Wobble 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3f1eb016a9b252840817f13b6dc1661a
+    layerID: 39
+    mosaicPosition: {x: 4, y: 3414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 2
+    spriteName: Loading Wobble 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c1690c9f2a364bb49b32c37866f57153
+    layerID: 38
+    mosaicPosition: {x: 4, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Wobble 1
+    spriteName: Loading Wobble 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4f6561b6a8d27374d9b8576e055fa7b8
+    layerID: 34
+    mosaicPosition: {x: 716, y: 3558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 10
+    spriteName: Loading words 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0a537c3b5f7186342a68c0d7266d0708
+    layerID: 75
+    mosaicPosition: {x: 4, y: 3967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 9
+    spriteName: Loading words 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d9347962352889f46af2eb3ee86a011b
+    layerID: 74
+    mosaicPosition: {x: 4, y: 3843}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 8
+    spriteName: Loading words 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d8083f809a645894da717a45e715deaa
+    layerID: 73
+    mosaicPosition: {x: 711, y: 3967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 7
+    spriteName: Loading words 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 05185d37b530a6b4b83bbef4126e8218
+    layerID: 72
+    mosaicPosition: {x: 2647, y: 245}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading words 6
+    spriteName: Loading words 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 19cd09424a2edb443876c062b778951c
+    layerID: 71
+    mosaicPosition: {x: 2644, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 5
+    spriteName: Loading Words 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: aec5b49d4392baa45b403352ab850671
+    layerID: 51
+    mosaicPosition: {x: 1932, y: 245}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 4
+    spriteName: Loading Words 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 741a09ccd1b917d499230f2a7a9837d8
+    layerID: 50
+    mosaicPosition: {x: 719, y: 3843}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 3
+    spriteName: Loading Words 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d7144afaf6aecdd459e2ed4720679ad1
+    layerID: 49
+    mosaicPosition: {x: 3353, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 2
+    spriteName: Loading Words 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9427f16579a8fc44f8cc4eac59873359
+    layerID: 48
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 1
+    spriteName: Loading Words 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4e4d3c17845c59c489cea48a2e995d57
+    layerID: 35
+    mosaicPosition: {x: 2640, y: 484}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words Old
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 36cf7169ad92f4c4da220b804f47f292
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 13
+    spriteName: Layer 13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8d9b44f285f5cd945bf75ccce0b255ec
+    layerID: 54
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Words 1 copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d2aadca9e9b747d4889750d4c33b94ba
+    layerID: 53
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Wod Guides
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1c6d4cbabd35f76439322e60f419e085
+    layerID: 33
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Loading Bar
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 67e20b6cd706b0344b6301f2bd222a30
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Loading Bar 20
+    spriteName: Loading Bar 20
+    isGroup: 0
+    parentIndex: 30
+    spriteID: c79df290d933fe343b59042106a47151
+    layerID: 32
+    mosaicPosition: {x: 3354, y: 484}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 19
+    spriteName: Loading Bar 19
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 9797320161998884bb6a49217034456f
+    layerID: 31
+    mosaicPosition: {x: 1932, y: 600}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 18
+    spriteName: Loading Bar 18
+    isGroup: 0
+    parentIndex: 30
+    spriteID: ee9a45684359e414abda9e6c29e5b642
+    layerID: 30
+    mosaicPosition: {x: 2600, y: 600}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 17
+    spriteName: Loading Bar 17
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 901035988ba13c64bbf504c9ee970d06
+    layerID: 29
+    mosaicPosition: {x: 3268, y: 600}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 16
+    spriteName: Loading Bar 16
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 3aa9f519da6175648b82416e33cc87c6
+    layerID: 28
+    mosaicPosition: {x: 1932, y: 708}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 15
+    spriteName: Loading Bar 15
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 0a02af2cec2b1df418900fd868dc749e
+    layerID: 27
+    mosaicPosition: {x: 1417, y: 3967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 14
+    spriteName: Loading Bar 14
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 8cb684b699a807640a0abe9ffbeaafb9
+    layerID: 26
+    mosaicPosition: {x: 1418, y: 3414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 13
+    spriteName: Loading Bar 13
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 07c747d6637d55a428248a83215fae8a
+    layerID: 25
+    mosaicPosition: {x: 1411, y: 3700}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 12
+    spriteName: Loading Bar 12
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 85462389739c47b40bf9d11812cac687
+    layerID: 24
+    mosaicPosition: {x: 2600, y: 708}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 11
+    spriteName: Loading Bar 11
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 2e468f8593944024db2cca8fc9d495f4
+    layerID: 23
+    mosaicPosition: {x: 3103, y: 708}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 10
+    spriteName: Loading Bar 10
+    isGroup: 0
+    parentIndex: 30
+    spriteID: ebecf072383de184e885d6a5cd5eb8f6
+    layerID: 22
+    mosaicPosition: {x: 3606, y: 708}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar9
+    spriteName: Loading Bar9
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 87a804ec771632845b05ae8d3bcae3b6
+    layerID: 21
+    mosaicPosition: {x: 1433, y: 3843}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 8
+    spriteName: Loading Bar 8
+    isGroup: 0
+    parentIndex: 30
+    spriteID: c5372e84be223f549af09355781ff914
+    layerID: 20
+    mosaicPosition: {x: 1434, y: 3558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 7
+    spriteName: Loading Bar 7
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e41f73f13bffcce4d911beeebea4a383
+    layerID: 19
+    mosaicPosition: {x: 1430, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 6
+    spriteName: Loading Bar 6
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 914e60cd9e982c14fb1f3961e5b36c0d
+    layerID: 18
+    mosaicPosition: {x: 1932, y: 816}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 5
+    spriteName: Loading Bar 5
+    isGroup: 0
+    parentIndex: 30
+    spriteID: eee6e88e8a484654a8c44550e678c6b3
+    layerID: 16
+    mosaicPosition: {x: 1773, y: 3843}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 4
+    spriteName: Loading Bar 4
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 3b095ebc45e4aaf42af887f5256ca4ec
+    layerID: 15
+    mosaicPosition: {x: 1774, y: 3558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 3
+    spriteName: Loading Bar 3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 019bdc05456c7db4d8c76958563d2148
+    layerID: 14
+    mosaicPosition: {x: 1770, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 2
+    spriteName: Loading Bar 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: a68fc3ae73c045c4e85ec1505660f291
+    layerID: 10
+    mosaicPosition: {x: 1932, y: 924}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 1
+    spriteName: Loading Bar 1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 56fada5af75bfd54da5c2439ec4ea7eb
+    layerID: 11
+    mosaicPosition: {x: 1932, y: 1033}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 18
+    spriteName: Layer 18
+    isGroup: 0
+    parentIndex: 30
+    spriteID: b7e5e4ff3389a074898df971cef718db
+    layerID: 69
+    mosaicPosition: {x: 1921, y: 3414}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 17
+    spriteName: Layer 17
+    isGroup: 0
+    parentIndex: 30
+    spriteID: c7b4998cdd5790e44a8ba6d09325202c
+    layerID: 68
+    mosaicPosition: {x: 1921, y: 3422}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 16
+    spriteName: Layer 16
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d394178335c498c4897354fb27c89fcc
+    layerID: 67
+    mosaicPosition: {x: 1921, y: 3430}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 15
+    spriteName: Layer 15
+    isGroup: 0
+    parentIndex: 30
+    spriteID: a616f7a301e7422479f3818a64b5d628
+    layerID: 66
+    mosaicPosition: {x: 1921, y: 3438}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 14
+    spriteName: Layer 14
+    isGroup: 0
+    parentIndex: 30
+    spriteID: b6606875a6df342429911eed61a7b71f
+    layerID: 65
+    mosaicPosition: {x: 1921, y: 3446}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 2
+    spriteName: Loading Bar 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3bdf2fa0720df7141afac3d2a9726421
+    layerID: 17
+    mosaicPosition: {x: 709, y: 3700}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Loading Bar 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 547cabf2c1b917e4d898e1050d06010f
+    layerID: 6
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Texture
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5955db2c15409843aa5353f80e93ed4
+    layerID: 4
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Background with Noise
+    spriteName: Background with Noise
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a3d49aad84799504d84e204151b48437
+    layerID: 9
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 04253c32e6998f24d856c8092c7f9dae
+    layerID: 3
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638505228052507270
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

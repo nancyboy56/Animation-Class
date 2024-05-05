@@ -1,0 +1,2233 @@
+fileFormatVersion: 2
+guid: 98cee5b6db1527c49bd0497f77d8bd1c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: White Ground 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4012
+      width: 1920
+      height: 220
+    spriteID: 41dc95fe5b624b3448a10c1813fb0980
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4012}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5836
+      width: 1920
+      height: 219
+    spriteID: b3f1726a2b2ce3548a9e8682396cff74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5836}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1920
+      height: 221
+    spriteID: 3aff713271d544445bcc6d31d7a33ba8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2180}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6063
+      width: 1920
+      height: 219
+    spriteID: ba41dc468e93a3a4a9e3bf618bbf3f5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6063}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6290
+      width: 1920
+      height: 219
+    spriteID: 6d0fa2091e65f1d45925bf7941db900c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6290}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1920
+      height: 218
+    spriteID: 45bf6778f11488d47991de1e160db339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2409
+      width: 1920
+      height: 221
+    spriteID: dbefb9ede7f3217418c519a65b929579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2409}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2638
+      width: 1920
+      height: 221
+    spriteID: d56d0d34e98b2fa4c90d788beaaf36dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2638}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 230
+      width: 1920
+      height: 218
+    spriteID: 2d7385a0c82938b48845f9cccd899ac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 230}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6517
+      width: 1920
+      height: 219
+    spriteID: 18fd4d56bd8302040afd5c3dcbd1802d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6517}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4240
+      width: 1920
+      height: 220
+    spriteID: 18f058e83c8d4fa4d86435a2e47fb2a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4240}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4468
+      width: 1920
+      height: 220
+    spriteID: 17d472152b6abca47b0acfeb55b447e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4468}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6744
+      width: 1920
+      height: 219
+    spriteID: 78cf19d4354c1414ab36fbb8b554cf15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6744}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4696
+      width: 1920
+      height: 220
+    spriteID: 91f8ff914719f5a48b7073a6191b9e66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4696}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2867
+      width: 1920
+      height: 221
+    spriteID: 084601855047a344299ad478df10b9ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2867}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4924
+      width: 1920
+      height: 220
+    spriteID: fbb6ccb9eba77d14180ac8d1a368454d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4924}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6971
+      width: 1920
+      height: 219
+    spriteID: 9b757292d91eefa4ab33b381765c77a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6971}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3096
+      width: 1920
+      height: 221
+    spriteID: de2cb541f725242499441f9d5374359a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3096}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7198
+      width: 1920
+      height: 219
+    spriteID: 327dc6628fac1c44cb59e4f17cedebc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7198}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7425
+      width: 1920
+      height: 219
+    spriteID: 9ab5ffa4a2ead694fb6139f2078b4685
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7425}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 456
+      width: 1920
+      height: 218
+    spriteID: 78e2e7bf35cc3b1408587dfbb3989633
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 456}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3325
+      width: 1920
+      height: 221
+    spriteID: 6f23e29d0e7a85a43a6303610d98a5e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3325}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3554
+      width: 1920
+      height: 221
+    spriteID: fb673dd82e8c2ec429a4c43a90b2b8ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3554}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 682
+      width: 1920
+      height: 218
+    spriteID: 94fa458542a555744ad3a5ae75c1d290
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 682}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7652
+      width: 1920
+      height: 219
+    spriteID: fbbb21766ca2ef2489340117e7906340
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7652}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5152
+      width: 1920
+      height: 220
+    spriteID: b5cb96128161eae41b24fd6379caef04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5152}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5380
+      width: 1920
+      height: 220
+    spriteID: 5394b9efac5bf0743923217ba8024aeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5380}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7879
+      width: 1920
+      height: 219
+    spriteID: afa32ccb4ddcef24195435bfe51c6046
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7879}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5608
+      width: 1920
+      height: 220
+    spriteID: c91baffb87956cb4abe7a49659b315be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5608}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3783
+      width: 1920
+      height: 221
+    spriteID: 2d899d9762c94984eb5fb483612fc852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3783}
+    spritePosition: {x: 0, y: 0}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8106
+      width: 1920
+      height: 27
+    spriteID: 39f787c4ba2ca4d42bb0dbbd8e38852f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 8106}
+    spritePosition: {x: 0, y: 196}
+  - name: White Background copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: f91de6d481a327b4eb348df9ed996571
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: White Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: 1eb4f95740aeb0a489c35e2ab593d074
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: White Ground 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2924
+      width: 1920
+      height: 220
+    spriteID: 151226d1dd8ddd44c81304f502bc2631
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2924}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 688
+      width: 1920
+      height: 219
+    spriteID: 1d1997442fbcee444ab602f50ca456cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 688}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 221
+    spriteID: f20145d40a6efb84ba65d5fbca442625
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 915
+      width: 1920
+      height: 219
+    spriteID: af0b5da2fd27b0e44903118f83b2b49b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 915}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1142
+      width: 1920
+      height: 219
+    spriteID: 1833b65f3ed0cd34980ad0d28508fce7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1142}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2958
+      width: 1920
+      height: 218
+    spriteID: d728a38d01a5791458e8992e7b6809cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2958}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1321
+      width: 1920
+      height: 221
+    spriteID: 07213393fbfbea041925a258b59c0dae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1321}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1550
+      width: 1920
+      height: 221
+    spriteID: d14491f0f3f4b9e479d02c805ddb7d49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1550}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3184
+      width: 1920
+      height: 218
+    spriteID: 87b593c079550b04a8f3fb7449bde935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3184}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1369
+      width: 1920
+      height: 219
+    spriteID: 907ca6c8f1079bd4fa26c3211b7ed875
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1369}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3152
+      width: 1920
+      height: 220
+    spriteID: 4e211936b90a2cc4c9230e3a5ab260d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3152}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3380
+      width: 1920
+      height: 220
+    spriteID: ede5059c806ca534b905e85ad6be2416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3380}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1596
+      width: 1920
+      height: 219
+    spriteID: 015b81fb3ee0fbe458d968806eb1eeee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1596}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3608
+      width: 1920
+      height: 220
+    spriteID: 64541e5d80871f542a5e67ae72d720f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3608}
+    spritePosition: {x: 0, y: 0}
+  - name: White Ground 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1779
+      width: 1920
+      height: 221
+    spriteID: 3bf655d4b8b32534d9b9a8d0f0be0631
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1779}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3836
+      width: 1920
+      height: 220
+    spriteID: 715724cc861346146b76e74811b84ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3836}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1823
+      width: 1920
+      height: 219
+    spriteID: e617223b2176fd74aa8f58ec338c7910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1823}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2008
+      width: 1920
+      height: 221
+    spriteID: cfe96cb5d3f09f7469ce4f75d617216d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2008}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2050
+      width: 1920
+      height: 219
+    spriteID: 9eb738ba8d2490c4d80b7c210cb885e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2050}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2277
+      width: 1920
+      height: 219
+    spriteID: edf34d9d18a256244be7b12a7417a705
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2277}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3410
+      width: 1920
+      height: 218
+    spriteID: 782b83dd8768faf4f8abcbbf56ee76a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3410}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2237
+      width: 1920
+      height: 221
+    spriteID: eb33cd91500cb7443be87754aa9d9fb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2237}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2466
+      width: 1920
+      height: 221
+    spriteID: 103faa52ace84774ab5d62a512a08684
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2466}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3636
+      width: 1920
+      height: 218
+    spriteID: d317774dc235fcd4cab974daeaab808a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3636}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2504
+      width: 1920
+      height: 219
+    spriteID: 240adefed1667e24cb5feafa6082550e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2504}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1920
+      height: 220
+    spriteID: b7815c6a7d4def8429abe5d1dbaee977
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 232
+      width: 1920
+      height: 220
+    spriteID: 4dfa54f970d9f934c93b48eafb9c8948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 232}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2731
+      width: 1920
+      height: 219
+    spriteID: e5d6d657d22b09341bd78c16be1b2f1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2731}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 460
+      width: 1920
+      height: 220
+    spriteID: 5d1cd43a2bde1a347ac17a6987539f45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 460}
+    spritePosition: {x: 0, y: 0}
+  - name: Black Ground 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2695
+      width: 1920
+      height: 221
+    spriteID: b79fa6cf8096c2149b2bd9b5b6d6a6d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2695}
+    spritePosition: {x: 0, y: 0}
+  - name: White Background copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 5559ffc06fff32e41b33cf55f4d77dca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: White Ground 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 851fb77d00308ca4e886308daaee764d
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: White Ground 15
+    spriteName: White Ground 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 41dc95fe5b624b3448a10c1813fb0980
+    layerID: 61
+    mosaicPosition: {x: 4, y: 4012}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 14
+    spriteName: White Ground 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b3f1726a2b2ce3548a9e8682396cff74
+    layerID: 60
+    mosaicPosition: {x: 4, y: 5836}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 13
+    spriteName: White Ground 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3aff713271d544445bcc6d31d7a33ba8
+    layerID: 59
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 12
+    spriteName: White Ground 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ba41dc468e93a3a4a9e3bf618bbf3f5e
+    layerID: 58
+    mosaicPosition: {x: 4, y: 6063}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 11
+    spriteName: White Ground 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6d0fa2091e65f1d45925bf7941db900c
+    layerID: 57
+    mosaicPosition: {x: 4, y: 6290}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 10
+    spriteName: White Ground 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 45bf6778f11488d47991de1e160db339
+    layerID: 56
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 9
+    spriteName: White Ground 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dbefb9ede7f3217418c519a65b929579
+    layerID: 55
+    mosaicPosition: {x: 4, y: 2409}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 8
+    spriteName: White Ground 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d56d0d34e98b2fa4c90d788beaaf36dc
+    layerID: 54
+    mosaicPosition: {x: 4, y: 2638}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 7
+    spriteName: White Ground 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2d7385a0c82938b48845f9cccd899ac7
+    layerID: 53
+    mosaicPosition: {x: 1932, y: 230}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 6
+    spriteName: White Ground 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 18fd4d56bd8302040afd5c3dcbd1802d
+    layerID: 52
+    mosaicPosition: {x: 4, y: 6517}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 5
+    spriteName: White Ground 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 18f058e83c8d4fa4d86435a2e47fb2a6
+    layerID: 51
+    mosaicPosition: {x: 4, y: 4240}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 4
+    spriteName: White Ground 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 17d472152b6abca47b0acfeb55b447e8
+    layerID: 50
+    mosaicPosition: {x: 4, y: 4468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 3
+    spriteName: White Ground 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 78cf19d4354c1414ab36fbb8b554cf15
+    layerID: 49
+    mosaicPosition: {x: 4, y: 6744}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 2
+    spriteName: White Ground 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 91f8ff914719f5a48b7073a6191b9e66
+    layerID: 48
+    mosaicPosition: {x: 4, y: 4696}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 1
+    spriteName: White Ground 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 084601855047a344299ad478df10b9ea
+    layerID: 47
+    mosaicPosition: {x: 4, y: 2867}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4d3e7b43dd5315f439a387ec3c1ca995
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Black Ground 15
+    spriteName: Black Ground 15
+    isGroup: 0
+    parentIndex: 16
+    spriteID: fbb6ccb9eba77d14180ac8d1a368454d
+    layerID: 21
+    mosaicPosition: {x: 4, y: 4924}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 14
+    spriteName: Black Ground 14
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 9b757292d91eefa4ab33b381765c77a8
+    layerID: 20
+    mosaicPosition: {x: 4, y: 6971}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 13
+    spriteName: Black Ground 13
+    isGroup: 0
+    parentIndex: 16
+    spriteID: de2cb541f725242499441f9d5374359a
+    layerID: 19
+    mosaicPosition: {x: 4, y: 3096}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 12
+    spriteName: Black Ground 12
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 327dc6628fac1c44cb59e4f17cedebc3
+    layerID: 17
+    mosaicPosition: {x: 4, y: 7198}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 11
+    spriteName: Black Ground 11
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 9ab5ffa4a2ead694fb6139f2078b4685
+    layerID: 16
+    mosaicPosition: {x: 4, y: 7425}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 10
+    spriteName: Black Ground 10
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 78e2e7bf35cc3b1408587dfbb3989633
+    layerID: 15
+    mosaicPosition: {x: 1932, y: 456}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 9
+    spriteName: Black Ground 9
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 6f23e29d0e7a85a43a6303610d98a5e8
+    layerID: 14
+    mosaicPosition: {x: 4, y: 3325}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 8
+    spriteName: Black Ground 8
+    isGroup: 0
+    parentIndex: 16
+    spriteID: fb673dd82e8c2ec429a4c43a90b2b8ab
+    layerID: 13
+    mosaicPosition: {x: 4, y: 3554}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 7
+    spriteName: Black Ground 7
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 94fa458542a555744ad3a5ae75c1d290
+    layerID: 12
+    mosaicPosition: {x: 1932, y: 682}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 6
+    spriteName: Black Ground 6
+    isGroup: 0
+    parentIndex: 16
+    spriteID: fbbb21766ca2ef2489340117e7906340
+    layerID: 11
+    mosaicPosition: {x: 4, y: 7652}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 5
+    spriteName: Black Ground 5
+    isGroup: 0
+    parentIndex: 16
+    spriteID: b5cb96128161eae41b24fd6379caef04
+    layerID: 10
+    mosaicPosition: {x: 4, y: 5152}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 4
+    spriteName: Black Ground 4
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 5394b9efac5bf0743923217ba8024aeb
+    layerID: 9
+    mosaicPosition: {x: 4, y: 5380}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 3
+    spriteName: Black Ground 3
+    isGroup: 0
+    parentIndex: 16
+    spriteID: afa32ccb4ddcef24195435bfe51c6046
+    layerID: 8
+    mosaicPosition: {x: 4, y: 7879}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 2
+    spriteName: Black Ground 2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: c91baffb87956cb4abe7a49659b315be
+    layerID: 4
+    mosaicPosition: {x: 4, y: 5608}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 1
+    spriteName: Black Ground 1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 2d899d9762c94984eb5fb483612fc852
+    layerID: 3
+    mosaicPosition: {x: 4, y: 3783}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 39f787c4ba2ca4d42bb0dbbd8e38852f
+    layerID: 7
+    mosaicPosition: {x: 4, y: 8106}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: White Background copy
+    spriteName: White Background copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f91de6d481a327b4eb348df9ed996571
+    layerID: 24
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Background
+    spriteName: White Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1eb4f95740aeb0a489c35e2ab593d074
+    layerID: 2
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  rigPSDLayers:
+  - name: White Ground 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 704c8116c1a2a2b44bebd0c49a03f2f2
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: White Ground 15
+    spriteName: White Ground 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 151226d1dd8ddd44c81304f502bc2631
+    layerID: 61
+    mosaicPosition: {x: 4, y: 2924}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 14
+    spriteName: White Ground 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d1997442fbcee444ab602f50ca456cc
+    layerID: 60
+    mosaicPosition: {x: 1932, y: 688}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 13
+    spriteName: White Ground 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f20145d40a6efb84ba65d5fbca442625
+    layerID: 59
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 12
+    spriteName: White Ground 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: af0b5da2fd27b0e44903118f83b2b49b
+    layerID: 58
+    mosaicPosition: {x: 1932, y: 915}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 11
+    spriteName: White Ground 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1833b65f3ed0cd34980ad0d28508fce7
+    layerID: 57
+    mosaicPosition: {x: 1932, y: 1142}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 10
+    spriteName: White Ground 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d728a38d01a5791458e8992e7b6809cc
+    layerID: 56
+    mosaicPosition: {x: 1932, y: 2958}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 9
+    spriteName: White Ground 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 07213393fbfbea041925a258b59c0dae
+    layerID: 55
+    mosaicPosition: {x: 4, y: 1321}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 8
+    spriteName: White Ground 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d14491f0f3f4b9e479d02c805ddb7d49
+    layerID: 54
+    mosaicPosition: {x: 4, y: 1550}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 7
+    spriteName: White Ground 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 87b593c079550b04a8f3fb7449bde935
+    layerID: 53
+    mosaicPosition: {x: 1932, y: 3184}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 6
+    spriteName: White Ground 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 907ca6c8f1079bd4fa26c3211b7ed875
+    layerID: 52
+    mosaicPosition: {x: 1932, y: 1369}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 5
+    spriteName: White Ground 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4e211936b90a2cc4c9230e3a5ab260d4
+    layerID: 51
+    mosaicPosition: {x: 4, y: 3152}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 4
+    spriteName: White Ground 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ede5059c806ca534b905e85ad6be2416
+    layerID: 50
+    mosaicPosition: {x: 4, y: 3380}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 3
+    spriteName: White Ground 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 015b81fb3ee0fbe458d968806eb1eeee
+    layerID: 49
+    mosaicPosition: {x: 1932, y: 1596}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 2
+    spriteName: White Ground 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 64541e5d80871f542a5e67ae72d720f0
+    layerID: 48
+    mosaicPosition: {x: 4, y: 3608}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Ground 1
+    spriteName: White Ground 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3bf655d4b8b32534d9b9a8d0f0be0631
+    layerID: 47
+    mosaicPosition: {x: 4, y: 1779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ed237720fd02c50488a13bd53fc486a2
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Black Ground 15
+    spriteName: Black Ground 15
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 715724cc861346146b76e74811b84ed3
+    layerID: 21
+    mosaicPosition: {x: 4, y: 3836}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 14
+    spriteName: Black Ground 14
+    isGroup: 0
+    parentIndex: 16
+    spriteID: e617223b2176fd74aa8f58ec338c7910
+    layerID: 20
+    mosaicPosition: {x: 1932, y: 1823}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 13
+    spriteName: Black Ground 13
+    isGroup: 0
+    parentIndex: 16
+    spriteID: cfe96cb5d3f09f7469ce4f75d617216d
+    layerID: 19
+    mosaicPosition: {x: 4, y: 2008}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 12
+    spriteName: Black Ground 12
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 9eb738ba8d2490c4d80b7c210cb885e3
+    layerID: 17
+    mosaicPosition: {x: 1932, y: 2050}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 11
+    spriteName: Black Ground 11
+    isGroup: 0
+    parentIndex: 16
+    spriteID: edf34d9d18a256244be7b12a7417a705
+    layerID: 16
+    mosaicPosition: {x: 1932, y: 2277}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 10
+    spriteName: Black Ground 10
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 782b83dd8768faf4f8abcbbf56ee76a0
+    layerID: 15
+    mosaicPosition: {x: 1932, y: 3410}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 9
+    spriteName: Black Ground 9
+    isGroup: 0
+    parentIndex: 16
+    spriteID: eb33cd91500cb7443be87754aa9d9fb0
+    layerID: 14
+    mosaicPosition: {x: 4, y: 2237}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 8
+    spriteName: Black Ground 8
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 103faa52ace84774ab5d62a512a08684
+    layerID: 13
+    mosaicPosition: {x: 4, y: 2466}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 7
+    spriteName: Black Ground 7
+    isGroup: 0
+    parentIndex: 16
+    spriteID: d317774dc235fcd4cab974daeaab808a
+    layerID: 12
+    mosaicPosition: {x: 1932, y: 3636}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 6
+    spriteName: Black Ground 6
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 240adefed1667e24cb5feafa6082550e
+    layerID: 11
+    mosaicPosition: {x: 1932, y: 2504}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 5
+    spriteName: Black Ground 5
+    isGroup: 0
+    parentIndex: 16
+    spriteID: b7815c6a7d4def8429abe5d1dbaee977
+    layerID: 10
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 4
+    spriteName: Black Ground 4
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4dfa54f970d9f934c93b48eafb9c8948
+    layerID: 9
+    mosaicPosition: {x: 1932, y: 232}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 3
+    spriteName: Black Ground 3
+    isGroup: 0
+    parentIndex: 16
+    spriteID: e5d6d657d22b09341bd78c16be1b2f1f
+    layerID: 8
+    mosaicPosition: {x: 1932, y: 2731}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 2
+    spriteName: Black Ground 2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 5d1cd43a2bde1a347ac17a6987539f45
+    layerID: 4
+    mosaicPosition: {x: 1932, y: 460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Black Ground 1
+    spriteName: Black Ground 1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: b79fa6cf8096c2149b2bd9b5b6d6a6d5
+    layerID: 3
+    mosaicPosition: {x: 4, y: 2695}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba6a6368d5a5b794e87b53f8964e6864
+    layerID: 7
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: White Background copy
+    spriteName: White Background copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5559ffc06fff32e41b33cf55f4d77dca
+    layerID: 24
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White Background
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 240217888c726674d9e1e60635d2494f
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638501102722584959
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

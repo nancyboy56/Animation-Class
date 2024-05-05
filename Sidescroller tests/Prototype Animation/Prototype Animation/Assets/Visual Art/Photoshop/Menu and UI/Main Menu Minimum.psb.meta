@@ -1,0 +1,3430 @@
+fileFormatVersion: 2
+guid: ae7d65a97d4ed1f4987c2b9ef4f48228
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Quit Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7210
+      y: 2311
+      width: 581
+      height: 325
+    spriteID: e5e3da8469fb33c48a45f92b4dea289b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7210, y: 2311}
+    spritePosition: {x: 701, y: 3}
+  - name: Options Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6848
+      y: 2901
+      width: 1196
+      height: 436
+    spriteID: 7e4a0669ba58f36419048f336d7fece1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6848, y: 2901}
+    spritePosition: {x: 573, y: 81}
+  - name: Play Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7463
+      y: 1092
+      width: 448
+      height: 510
+    spriteID: c3d79424557cba8458eb69d8578879bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7463, y: 1092}
+    spritePosition: {x: 19, y: 19}
+  - name: Bright Red Overlay copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 74bc1cee110137c4d94a1d88dc890438
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Orange
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 47446bfdd95ff8b49be279add61fad75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Smoke 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7919
+      y: 1092
+      width: 50
+      height: 241
+    spriteID: e6c5524b3a4c14544ab39090d60272f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7919, y: 1092}
+    spritePosition: {x: 258, y: 719}
+  - name: Smoke 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8052
+      y: 2901
+      width: 58
+      height: 250
+    spriteID: d59960da70e887846b0b189a85654bff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8052, y: 2901}
+    spritePosition: {x: 252, y: 728}
+  - name: Smoke 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7977
+      y: 1092
+      width: 42
+      height: 253
+    spriteID: 88657c84f9ba19345b4926c4a2f29ad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7977, y: 1092}
+    spritePosition: {x: 249, y: 730}
+  - name: Smoke 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8095
+      y: 2311
+      width: 63
+      height: 249
+    spriteID: a22af5439831d8944ad81c8b6b79358a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8095, y: 2311}
+    spritePosition: {x: 225, y: 724}
+  - name: Smoke 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8118
+      y: 3168
+      width: 44
+      height: 276
+    spriteID: df64134754e6e65499da2c28c7620a49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8118, y: 3168}
+    spritePosition: {x: 253, y: 724}
+  - name: Smoke 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7955
+      y: 2311
+      width: 65
+      height: 275
+    spriteID: d35182721d020dd48aa81510066a5e2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7955, y: 2311}
+    spritePosition: {x: 250, y: 724}
+  - name: Smoke 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8052
+      y: 3159
+      width: 52
+      height: 272
+    spriteID: 500d6ff4f83e79e4e8ca516072edd5d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8052, y: 3159}
+    spritePosition: {x: 240, y: 727}
+  - name: Smoke 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8028
+      y: 2311
+      width: 59
+      height: 281
+    spriteID: bf3713e8454dcba47993c4ee7351a951
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8028, y: 2311}
+    spritePosition: {x: 227, y: 734}
+  - name: Smoke 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8118
+      y: 2901
+      width: 49
+      height: 259
+    spriteID: 948f3d8727aa9864e9431ccbc5993d2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8118, y: 2901}
+    spritePosition: {x: 239, y: 733}
+  - name: Smoke 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7919
+      y: 1341
+      width: 45
+      height: 258
+    spriteID: e32fba92474ecaa409fc7b09dc2b896d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7919, y: 1341}
+    spritePosition: {x: 244, y: 733}
+  - name: Orange Windows 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8118
+      y: 3452
+      width: 0
+      height: 0
+    spriteID: 30291d88e22049f4796352e6f5c42213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8118, y: 3452}
+    spritePosition: {x: 199, y: 636}
+  - name: Orange Windows 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7799
+      y: 2505
+      width: 74
+      height: 33
+    spriteID: 8021762863e91ed4c855241aee652a1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7799, y: 2505}
+    spritePosition: {x: 197, y: 637}
+  - name: Orange Windows 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7463
+      y: 1610
+      width: 75
+      height: 29
+    spriteID: 943c933bcdbef0d4ea61879425e72d7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7463, y: 1610}
+    spritePosition: {x: 196, y: 639}
+  - name: Orange Windows 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7799
+      y: 2466
+      width: 81
+      height: 31
+    spriteID: 362e1f9c914645a478789d750ffd48b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7799, y: 2466}
+    spritePosition: {x: 194, y: 637}
+  - name: Orange Windows 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7799
+      y: 2584
+      width: 75
+      height: 30
+    spriteID: f5c2ab2cd0c41a24bb881a3ef2851300
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7799, y: 2584}
+    spritePosition: {x: 196, y: 635}
+  - name: Orange Windows 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8095
+      y: 2568
+      width: 75
+      height: 34
+    spriteID: c022b7450ee4ec34fabb5437a64661db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8095, y: 2568}
+    spritePosition: {x: 197, y: 637}
+  - name: Orange Windows 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7546
+      y: 1610
+      width: 75
+      height: 29
+    spriteID: 561ef0742afbeca45951956091e1ca17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7546, y: 1610}
+    spritePosition: {x: 196, y: 639}
+  - name: Orange Windows 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7799
+      y: 2546
+      width: 77
+      height: 30
+    spriteID: 92fd81fcf4f78c7449a2dfbc0e838bed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7799, y: 2546}
+    spritePosition: {x: 198, y: 639}
+  - name: Orange Windows 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7629
+      y: 1610
+      width: 74
+      height: 29
+    spriteID: 7e297faeb41c43a48b8c9c3218c4ecae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7629, y: 1610}
+    spritePosition: {x: 199, y: 638}
+  - name: Orange Windows 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7711
+      y: 1610
+      width: 75
+      height: 28
+    spriteID: a8782585cfba5bb479077d33fb2e105d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7711, y: 1610}
+    spritePosition: {x: 199, y: 639}
+  - name: House
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7799
+      y: 2311
+      width: 148
+      height: 147
+    spriteID: dceb9a44f72b87640894b8a18ededdaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7799, y: 2311}
+    spritePosition: {x: 164, y: 573}
+  - name: River 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1675
+      y: 2311
+      width: 1671
+      height: 578
+    spriteID: d5f3cbe29e4b2bf41be72b153d3777fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1675, y: 2311}
+    spritePosition: {x: 249, y: 0}
+  - name: River 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2311
+      width: 1663
+      height: 582
+    spriteID: ffe6044ecffeed4439bcb5326dc501d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2311}
+    spritePosition: {x: 249, y: 0}
+  - name: River 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5788
+      y: 1092
+      width: 1667
+      height: 589
+    spriteID: 246200862be5d9441a74eb49cda2df97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5788, y: 1092}
+    spritePosition: {x: 253, y: 0}
+  - name: River 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1678
+      y: 1715
+      width: 1673
+      height: 584
+    spriteID: d31729b98efc4a94588c3bfac9a7ab0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1678, y: 1715}
+    spritePosition: {x: 247, y: 0}
+  - name: River 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3359
+      y: 1715
+      width: 1658
+      height: 587
+    spriteID: 654a4f7d62cdb0241ade963abc489177
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3359, y: 1715}
+    spritePosition: {x: 245, y: 0}
+  - name: River 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2901
+      width: 1634
+      height: 590
+    spriteID: 09ab755e6db786846b49df17cd30db62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2901}
+    spritePosition: {x: 250, y: 0}
+  - name: River 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1646
+      y: 2901
+      width: 1631
+      height: 589
+    spriteID: 70628d718df022a48822393981d9b9e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1646, y: 2901}
+    spritePosition: {x: 257, y: 0}
+  - name: River 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1715
+      width: 1666
+      height: 588
+    spriteID: 219913bb759764245995aaf7e4e52cb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1715}
+    spritePosition: {x: 254, y: 0}
+  - name: River 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5025
+      y: 1715
+      width: 1665
+      height: 583
+    spriteID: 4686f9ca5213c654f949d7d7ae513a26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5025, y: 1715}
+    spritePosition: {x: 255, y: 0}
+  - name: River 1 REAL  copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3285
+      y: 2901
+      width: 1627
+      height: 585
+    spriteID: 76edb40039b734e439ca67f6c34ed3a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3285, y: 2901}
+    spritePosition: {x: 246, y: 0}
+  - name: Hill Outline 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3499
+      width: 1920
+      height: 394
+    spriteID: 727c5a37dbfb28d4ca25e1ccbe6ed15b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3499}
+    spritePosition: {x: 0, y: 240}
+  - name: Hill Outline 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3901
+      width: 1920
+      height: 374
+    spriteID: 4119b1a4766699b4c8e309fa2c2f705d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3901}
+    spritePosition: {x: 0, y: 249}
+  - name: Hill Outline 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3901
+      width: 1920
+      height: 382
+    spriteID: 762dbe86104a8334fbf5b1e98d3d86c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3901}
+    spritePosition: {x: 0, y: 239}
+  - name: Hill Outline 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3499
+      width: 1920
+      height: 392
+    spriteID: 63fd5d38d84a67a47bef8ef7e3d5af03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3499}
+    spritePosition: {x: 0, y: 233}
+  - name: Hill Outline 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 3499
+      width: 1920
+      height: 389
+    spriteID: 2e6ba0400457d8e47b0905500da328b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 3499}
+    spritePosition: {x: 0, y: 232}
+  - name: Hill Outline 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4920
+      y: 2901
+      width: 1920
+      height: 405
+    spriteID: 44390d86be27c5b4da1f0acc4f8564f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4920, y: 2901}
+    spritePosition: {x: 0, y: 224}
+  - name: Hill Outline 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 3901
+      width: 1920
+      height: 369
+    spriteID: ec806fb0972e787449b4c3c26cbeaf7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 3901}
+    spritePosition: {x: 0, y: 258}
+  - name: Hill Outline  3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5282
+      y: 2311
+      width: 1920
+      height: 395
+    spriteID: 1a9595c719b4ad84bbbe4dfb4c0238df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5282, y: 2311}
+    spritePosition: {x: 0, y: 225}
+  - name: Hill Outline 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5788
+      y: 3499
+      width: 1920
+      height: 388
+    spriteID: af1f8e83ecb657442bb1b10168250541
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5788, y: 3499}
+    spritePosition: {x: 0, y: 233}
+  - name: Hill Outline 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3354
+      y: 2311
+      width: 1920
+      height: 398
+    spriteID: bb405ee93f6de194ab3208924a46e0ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3354, y: 2311}
+    spritePosition: {x: 0, y: 225}
+  - name: Hillside 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 615
+    spriteID: 3bd11e7aeda2bad4488b3e5668e229c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Hillside 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1092
+      width: 1920
+      height: 615
+    spriteID: 644f1d9aa595a2d4eae17d5f88d64da9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Hillside 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 1092
+      width: 1920
+      height: 615
+    spriteID: 8c217e489d2d9be4a9f6e004db34f6d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Night Sky 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: d144d5242447a634cb33dc218056257f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Night Skly 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5788
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 40158818c7e0163409c45e581d860d79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5788, y: 4}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: Quit Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3136
+      y: 6934
+      width: 581
+      height: 325
+    spriteID: 07b46dd7a9fe0af4f8ef590217e13997
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3136, y: 6934}
+    spritePosition: {x: 701, y: 3}
+  - name: Options Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 6934
+      width: 1196
+      height: 436
+    spriteID: 791c7946af885e14dacd6394438a7795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 6934}
+    spritePosition: {x: 573, y: 81}
+  - name: Play Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3611
+      y: 594
+      width: 448
+      height: 510
+    spriteID: 1d55bf3a8e185014ba8e2c2c84c0556c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3611, y: 594}
+    spritePosition: {x: 19, y: 19}
+  - name: Bright Red Overlay copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: fbf18021190669e45a0cec13549f257c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Smoke 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4029
+      y: 5785
+      width: 50
+      height: 241
+    spriteID: e40545b1ce139614d94e4975007a477b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4029, y: 5785}
+    spritePosition: {x: 258, y: 719}
+  - name: Smoke 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3998
+      y: 6175
+      width: 58
+      height: 250
+    spriteID: 35047dda4848d5f47a41f968f07851eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3998, y: 6175}
+    spritePosition: {x: 252, y: 728}
+  - name: Smoke 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3913
+      y: 5389
+      width: 42
+      height: 253
+    spriteID: 5a3afce661a593940addcb51f65efcb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3913, y: 5389}
+    spritePosition: {x: 249, y: 730}
+  - name: Smoke 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3927
+      y: 6175
+      width: 63
+      height: 249
+    spriteID: 947021b66723ca748a7d8c7a356a4784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3927, y: 6175}
+    spritePosition: {x: 225, y: 724}
+  - name: Smoke 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3977
+      y: 5785
+      width: 44
+      height: 276
+    spriteID: 0fe49ee74ed86284e8d693625ed26efa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3977, y: 5785}
+    spritePosition: {x: 253, y: 724}
+  - name: Smoke 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4016
+      y: 6557
+      width: 65
+      height: 275
+    spriteID: 183487706dbbd094ba3453f21e757c8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4016, y: 6557}
+    spritePosition: {x: 250, y: 724}
+  - name: Smoke 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 5785
+      width: 52
+      height: 272
+    spriteID: ead9529cb1d60524c9e9fec650791978
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 5785}
+    spritePosition: {x: 240, y: 727}
+  - name: Smoke 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6175
+      width: 59
+      height: 281
+    spriteID: a598f79a3420fcc4d93a206036818d16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6175}
+    spritePosition: {x: 227, y: 734}
+  - name: Smoke 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3920
+      y: 5785
+      width: 49
+      height: 259
+    spriteID: a4d9c74a9c809be4ea532d0e3ec2c449
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3920, y: 5785}
+    spritePosition: {x: 239, y: 733}
+  - name: Smoke 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 5389
+      width: 45
+      height: 258
+    spriteID: 52c161a0a1da6974a9db3d67fe63bb8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 5389}
+    spritePosition: {x: 244, y: 733}
+  - name: Orange Window 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6823
+      width: 73
+      height: 29
+    spriteID: 38b292776f2f60f4ba1da87794549a9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6823}
+    spritePosition: {x: 198, y: 636}
+  - name: Orange Window 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4016
+      y: 6882
+      width: 74
+      height: 33
+    spriteID: d71e24a26ada5e041a2b59cdb3d6f2ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4016, y: 6882}
+    spritePosition: {x: 197, y: 637}
+  - name: Orange Window 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6712
+      width: 75
+      height: 29
+    spriteID: b51161f50a1cb4b4d85a68a0f741e1db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6712}
+    spritePosition: {x: 196, y: 639}
+  - name: Orange Window 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3998
+      y: 6433
+      width: 81
+      height: 31
+    spriteID: 07a8f63b5c07d5c439affb8225b582f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3998, y: 6433}
+    spritePosition: {x: 194, y: 637}
+  - name: Orange Window 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3998
+      y: 6510
+      width: 75
+      height: 30
+    spriteID: b271bb83289e96d44847efadf0fc043d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3998, y: 6510}
+    spritePosition: {x: 196, y: 635}
+  - name: Orange Window 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4016
+      y: 6840
+      width: 75
+      height: 34
+    spriteID: f0090838f1474114d8bded826e31b8e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4016, y: 6840}
+    spritePosition: {x: 197, y: 637}
+  - name: Orange Window 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6749
+      width: 75
+      height: 29
+    spriteID: 3a16d0c04407a2848b17a2845de2ac19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6749}
+    spritePosition: {x: 196, y: 639}
+  - name: Orange Window 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3998
+      y: 6472
+      width: 77
+      height: 30
+    spriteID: ae2975c16a110844b99943418a1164da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3998, y: 6472}
+    spritePosition: {x: 198, y: 639}
+  - name: Orange Window 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6786
+      width: 74
+      height: 29
+    spriteID: 45d06dcd04283b7498abb1ebd1484af9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6786}
+    spritePosition: {x: 199, y: 638}
+  - name: Orange Window 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6860
+      width: 75
+      height: 28
+    spriteID: 4662bcb3015c1d5468a5cc348e296522
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6860}
+    spritePosition: {x: 199, y: 639}
+  - name: House
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 6557
+      width: 148
+      height: 147
+    spriteID: 6217a331a2c2f0d4daf61618e2f40ca1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3860, y: 6557}
+    spritePosition: {x: 164, y: 573}
+  - name: River 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 594
+      width: 1671
+      height: 578
+    spriteID: 36f75ae025c527c499f089850c3867db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 594}
+    spritePosition: {x: 249, y: 0}
+  - name: River 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1663
+      height: 582
+    spriteID: aaaff6590bc1e4642b321b53e03b958d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 249, y: 0}
+  - name: River 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5137
+      width: 1667
+      height: 589
+    spriteID: 82f629d5bccaefe41a39cdf5248142f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5137}
+    spritePosition: {x: 253, y: 0}
+  - name: River 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6330
+      width: 1673
+      height: 584
+    spriteID: 4cf515b1dc2afe948a1e78ea75735410
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6330}
+    spritePosition: {x: 247, y: 0}
+  - name: River 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6922
+      width: 1658
+      height: 587
+    spriteID: a55bd0dc70540744cbf83ab58f123239
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6922}
+    spritePosition: {x: 245, y: 0}
+  - name: River 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1180
+      width: 1634
+      height: 590
+    spriteID: 86f54f487d8f96d45830c1efce2a9c25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1180}
+    spritePosition: {x: 250, y: 0}
+  - name: River 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1778
+      width: 1631
+      height: 589
+    spriteID: f3d9b88f24f2d7640a33d0db3d53e338
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1778}
+    spritePosition: {x: 257, y: 0}
+  - name: River 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5734
+      width: 1666
+      height: 588
+    spriteID: 31892ac56d6094b4faf6c00f4147843f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5734}
+    spritePosition: {x: 254, y: 0}
+  - name: River 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7517
+      width: 1665
+      height: 583
+    spriteID: 7dfbdc9c3e19a60449560573afad8ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7517}
+    spritePosition: {x: 255, y: 0}
+  - name: River 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2375
+      width: 1627
+      height: 585
+    spriteID: b00453b2dc2398a44834a3e6e9b2c933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2375}
+    spritePosition: {x: 246, y: 0}
+  - name: Hill Outline 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4190
+      width: 1920
+      height: 394
+    spriteID: b345d3f83fa4ea744927f0fbc0beba93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4190}
+    spritePosition: {x: 0, y: 240}
+  - name: Hill Outline 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 6175
+      width: 1920
+      height: 374
+    spriteID: e3d779e7383cdd14485026b05913da80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 6175}
+    spritePosition: {x: 0, y: 249}
+  - name: Hill Outline 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 5785
+      width: 1920
+      height: 382
+    spriteID: b322de67a5904bd4a9192195621d2b5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 5785}
+    spritePosition: {x: 0, y: 239}
+  - name: Hill Outline 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4592
+      width: 1920
+      height: 392
+    spriteID: 2e3a4de6519e8b84b82a339ead166c7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4592}
+    spritePosition: {x: 0, y: 233}
+  - name: Hill Outline 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4992
+      width: 1920
+      height: 389
+    spriteID: f336bb31aa479d34ea227e17e6750a95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4992}
+    spritePosition: {x: 0, y: 232}
+  - name: Hill Outline 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2968
+      width: 1920
+      height: 405
+    spriteID: ddeb01c53d1c57c47947665081d7909b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 2968}
+    spritePosition: {x: 0, y: 224}
+  - name: Hill Outline 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 6557
+      width: 1920
+      height: 369
+    spriteID: fa5da7adfd2cd4a41911adfad879b2be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 6557}
+    spritePosition: {x: 0, y: 258}
+  - name: Hill Outline  3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3787
+      width: 1920
+      height: 395
+    spriteID: 7ad79bb3ce01d1f4e96612f3e6050748
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3787}
+    spritePosition: {x: 0, y: 225}
+  - name: Hill Outline 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 5389
+      width: 1920
+      height: 388
+    spriteID: 6800b55d757422b41a05f93b26dd089e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 5389}
+    spritePosition: {x: 0, y: 233}
+  - name: Hill Outline 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3381
+      width: 1920
+      height: 398
+    spriteID: df1f6595e2cc43043b62b956d911ed1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 3381}
+    spritePosition: {x: 0, y: 225}
+  - name: Hill Colour 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3268
+      width: 1920
+      height: 615
+    spriteID: 635ed21bc11910d46915461535098ccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3268}
+    spritePosition: {x: 0, y: 0}
+  - name: Hill Colour 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3891
+      width: 1920
+      height: 615
+    spriteID: 2b78e15f3b2572b41afad70c056f2835
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3891}
+    spritePosition: {x: 0, y: 0}
+  - name: Hill Colour Version 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4514
+      width: 1920
+      height: 615
+    spriteID: 265621601ae342d48bbff2286922b6b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4514}
+    spritePosition: {x: 0, y: 0}
+  - name: Night Sky 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: de4401cc9008ddb4d8d0ccd97660a4a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  - name: Night Sky 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1920
+      height: 1080
+    spriteID: b3fc4239511f61a47b8ff260ddb9e208
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2180}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Buttons
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 93c0f1e431b20f3498b162b6d61c6a94
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Quit Button
+    spriteName: Quit Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e5e3da8469fb33c48a45f92b4dea289b
+    layerID: 16
+    mosaicPosition: {x: 7210, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Options Button
+    spriteName: Options Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7e4a0669ba58f36419048f336d7fece1
+    layerID: 14
+    mosaicPosition: {x: 6848, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Play Button
+    spriteName: Play Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c3d79424557cba8458eb69d8578879bc
+    layerID: 13
+    mosaicPosition: {x: 7463, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bright Red Overlay copy
+    spriteName: Bright Red Overlay copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 74bc1cee110137c4d94a1d88dc890438
+    layerID: 137
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Orange
+    spriteName: Orange
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47446bfdd95ff8b49be279add61fad75
+    layerID: 12
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Smoke
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 2857321372b1b064bb8b7f53f886bc00
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Smoke 10
+    spriteName: Smoke 10
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e6c5524b3a4c14544ab39090d60272f9
+    layerID: 148
+    mosaicPosition: {x: 7919, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 9
+    spriteName: Smoke 9
+    isGroup: 0
+    parentIndex: 6
+    spriteID: d59960da70e887846b0b189a85654bff
+    layerID: 147
+    mosaicPosition: {x: 8052, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 8
+    spriteName: Smoke 8
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 88657c84f9ba19345b4926c4a2f29ad6
+    layerID: 146
+    mosaicPosition: {x: 7977, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 7
+    spriteName: Smoke 7
+    isGroup: 0
+    parentIndex: 6
+    spriteID: a22af5439831d8944ad81c8b6b79358a
+    layerID: 145
+    mosaicPosition: {x: 8095, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 6
+    spriteName: Smoke 6
+    isGroup: 0
+    parentIndex: 6
+    spriteID: df64134754e6e65499da2c28c7620a49
+    layerID: 144
+    mosaicPosition: {x: 8118, y: 3168}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 5
+    spriteName: Smoke 5
+    isGroup: 0
+    parentIndex: 6
+    spriteID: d35182721d020dd48aa81510066a5e2e
+    layerID: 143
+    mosaicPosition: {x: 7955, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 4
+    spriteName: Smoke 4
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 500d6ff4f83e79e4e8ca516072edd5d8
+    layerID: 142
+    mosaicPosition: {x: 8052, y: 3159}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 3
+    spriteName: Smoke 3
+    isGroup: 0
+    parentIndex: 6
+    spriteID: bf3713e8454dcba47993c4ee7351a951
+    layerID: 141
+    mosaicPosition: {x: 8028, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 2
+    spriteName: Smoke 2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 948f3d8727aa9864e9431ccbc5993d2e
+    layerID: 149
+    mosaicPosition: {x: 8118, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 1
+    spriteName: Smoke 1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e32fba92474ecaa409fc7b09dc2b896d
+    layerID: 139
+    mosaicPosition: {x: 7919, y: 1341}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a26cdbeec38607142a76a3be9f3b4dd4
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Orange Windows 10
+    spriteName: Orange Windows 10
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 30291d88e22049f4796352e6f5c42213
+    layerID: 162
+    mosaicPosition: {x: 8118, y: 3452}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 9
+    spriteName: Orange Windows 9
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 8021762863e91ed4c855241aee652a1f
+    layerID: 161
+    mosaicPosition: {x: 7799, y: 2505}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 8
+    spriteName: Orange Windows 8
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 943c933bcdbef0d4ea61879425e72d7d
+    layerID: 160
+    mosaicPosition: {x: 7463, y: 1610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 7
+    spriteName: Orange Windows 7
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 362e1f9c914645a478789d750ffd48b8
+    layerID: 159
+    mosaicPosition: {x: 7799, y: 2466}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 6
+    spriteName: Orange Windows 6
+    isGroup: 0
+    parentIndex: 17
+    spriteID: f5c2ab2cd0c41a24bb881a3ef2851300
+    layerID: 158
+    mosaicPosition: {x: 7799, y: 2584}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 5
+    spriteName: Orange Windows 5
+    isGroup: 0
+    parentIndex: 17
+    spriteID: c022b7450ee4ec34fabb5437a64661db
+    layerID: 157
+    mosaicPosition: {x: 8095, y: 2568}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 4
+    spriteName: Orange Windows 4
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 561ef0742afbeca45951956091e1ca17
+    layerID: 156
+    mosaicPosition: {x: 7546, y: 1610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 3
+    spriteName: Orange Windows 3
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 92fd81fcf4f78c7449a2dfbc0e838bed
+    layerID: 155
+    mosaicPosition: {x: 7799, y: 2546}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 2
+    spriteName: Orange Windows 2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 7e297faeb41c43a48b8c9c3218c4ecae
+    layerID: 154
+    mosaicPosition: {x: 7629, y: 1610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Windows 1
+    spriteName: Orange Windows 1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: a8782585cfba5bb479077d33fb2e105d
+    layerID: 140
+    mosaicPosition: {x: 7711, y: 1610}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: House
+    spriteName: House
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dceb9a44f72b87640894b8a18ededdaa
+    layerID: 4
+    mosaicPosition: {x: 7799, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7b61e8b70ac4a83438ee8227c3d57686
+    layerID: 86
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: River 10
+    spriteName: River 10
+    isGroup: 0
+    parentIndex: 29
+    spriteID: d5f3cbe29e4b2bf41be72b153d3777fb
+    layerID: 138
+    mosaicPosition: {x: 1675, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 9
+    spriteName: River 9
+    isGroup: 0
+    parentIndex: 29
+    spriteID: ffe6044ecffeed4439bcb5326dc501d4
+    layerID: 136
+    mosaicPosition: {x: 4, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 8
+    spriteName: River 8
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 246200862be5d9441a74eb49cda2df97
+    layerID: 127
+    mosaicPosition: {x: 5788, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 7
+    spriteName: River 7
+    isGroup: 0
+    parentIndex: 29
+    spriteID: d31729b98efc4a94588c3bfac9a7ab0a
+    layerID: 135
+    mosaicPosition: {x: 1678, y: 1715}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 6
+    spriteName: River 6
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 654a4f7d62cdb0241ade963abc489177
+    layerID: 134
+    mosaicPosition: {x: 3359, y: 1715}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 5
+    spriteName: River 5
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 09ab755e6db786846b49df17cd30db62
+    layerID: 133
+    mosaicPosition: {x: 4, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 4
+    spriteName: River 4
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 70628d718df022a48822393981d9b9e3
+    layerID: 130
+    mosaicPosition: {x: 1646, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 3
+    spriteName: River 3
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 219913bb759764245995aaf7e4e52cb6
+    layerID: 129
+    mosaicPosition: {x: 4, y: 1715}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 2
+    spriteName: River 2
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 4686f9ca5213c654f949d7d7ae513a26
+    layerID: 128
+    mosaicPosition: {x: 5025, y: 1715}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 1 REAL  copy
+    spriteName: River 1 REAL  copy
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 76edb40039b734e439ca67f6c34ed3a2
+    layerID: 167
+    mosaicPosition: {x: 3285, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d1b78e17604ff894499945f43aa28d28
+    layerID: 73
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Hill Outline 10
+    spriteName: Hill Outline 10
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 727c5a37dbfb28d4ca25e1ccbe6ed15b
+    layerID: 84
+    mosaicPosition: {x: 4, y: 3499}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 9
+    spriteName: Hill Outline 9
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 4119b1a4766699b4c8e309fa2c2f705d
+    layerID: 83
+    mosaicPosition: {x: 1932, y: 3901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 8
+    spriteName: Hill Outline 8
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 762dbe86104a8334fbf5b1e98d3d86c3
+    layerID: 82
+    mosaicPosition: {x: 4, y: 3901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 7
+    spriteName: Hill Outline 7
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 63fd5d38d84a67a47bef8ef7e3d5af03
+    layerID: 81
+    mosaicPosition: {x: 1932, y: 3499}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 6
+    spriteName: Hill Outline 6
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 2e6ba0400457d8e47b0905500da328b0
+    layerID: 80
+    mosaicPosition: {x: 3860, y: 3499}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 5
+    spriteName: Hill Outline 5
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 44390d86be27c5b4da1f0acc4f8564f5
+    layerID: 79
+    mosaicPosition: {x: 4920, y: 2901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 4
+    spriteName: Hill Outline 4
+    isGroup: 0
+    parentIndex: 40
+    spriteID: ec806fb0972e787449b4c3c26cbeaf7b
+    layerID: 78
+    mosaicPosition: {x: 3860, y: 3901}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline  3
+    spriteName: Hill Outline  3
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 1a9595c719b4ad84bbbe4dfb4c0238df
+    layerID: 77
+    mosaicPosition: {x: 5282, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 2
+    spriteName: Hill Outline 2
+    isGroup: 0
+    parentIndex: 40
+    spriteID: af1f8e83ecb657442bb1b10168250541
+    layerID: 72
+    mosaicPosition: {x: 5788, y: 3499}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 1
+    spriteName: Hill Outline 1
+    isGroup: 0
+    parentIndex: 40
+    spriteID: bb405ee93f6de194ab3208924a46e0ce
+    layerID: 7
+    mosaicPosition: {x: 3354, y: 2311}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hillside 3
+    spriteName: Hillside 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3bd11e7aeda2bad4488b3e5668e229c7
+    layerID: 152
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hillside 2
+    spriteName: Hillside 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 644f1d9aa595a2d4eae17d5f88d64da9
+    layerID: 164
+    mosaicPosition: {x: 1932, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hillside 1
+    spriteName: Hillside 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c217e489d2d9be4a9f6e004db34f6d7
+    layerID: 165
+    mosaicPosition: {x: 3860, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Night Sky 2
+    spriteName: Night Sky 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d144d5242447a634cb33dc218056257f
+    layerID: 163
+    mosaicPosition: {x: 3860, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Night Skly 1
+    spriteName: Night Skly 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40158818c7e0163409c45e581d860d79
+    layerID: 166
+    mosaicPosition: {x: 5788, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Buttons
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c6ce1aeaea69b7e4399ae19316eaa252
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Quit Button
+    spriteName: Quit Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 07b46dd7a9fe0af4f8ef590217e13997
+    layerID: 16
+    mosaicPosition: {x: 3136, y: 6934}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Options Button
+    spriteName: Options Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 791c7946af885e14dacd6394438a7795
+    layerID: 14
+    mosaicPosition: {x: 1932, y: 6934}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Play Button
+    spriteName: Play Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d55bf3a8e185014ba8e2c2c84c0556c
+    layerID: 13
+    mosaicPosition: {x: 3611, y: 594}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bright Red Overlay copy
+    spriteName: Bright Red Overlay copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fbf18021190669e45a0cec13549f257c
+    layerID: 69
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c86eed0a4bbe87f4f9c8bb8555637a57
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Smoke
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0297acc602ce9aa409e8a413a612c037
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Smoke 10
+    spriteName: Smoke 10
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e40545b1ce139614d94e4975007a477b
+    layerID: 43
+    mosaicPosition: {x: 4029, y: 5785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 9
+    spriteName: Smoke 9
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 35047dda4848d5f47a41f968f07851eb
+    layerID: 42
+    mosaicPosition: {x: 3998, y: 6175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 8
+    spriteName: Smoke 8
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 5a3afce661a593940addcb51f65efcb6
+    layerID: 41
+    mosaicPosition: {x: 3913, y: 5389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 7
+    spriteName: Smoke 7
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 947021b66723ca748a7d8c7a356a4784
+    layerID: 40
+    mosaicPosition: {x: 3927, y: 6175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 6
+    spriteName: Smoke 6
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 0fe49ee74ed86284e8d693625ed26efa
+    layerID: 39
+    mosaicPosition: {x: 3977, y: 5785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 5
+    spriteName: Smoke 5
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 183487706dbbd094ba3453f21e757c8c
+    layerID: 38
+    mosaicPosition: {x: 4016, y: 6557}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 4
+    spriteName: Smoke 4
+    isGroup: 0
+    parentIndex: 6
+    spriteID: ead9529cb1d60524c9e9fec650791978
+    layerID: 37
+    mosaicPosition: {x: 3860, y: 5785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 2
+    spriteName: Smoke 2
+    isGroup: 0
+    parentIndex: 6
+    spriteID: a598f79a3420fcc4d93a206036818d16
+    layerID: 33
+    mosaicPosition: {x: 3860, y: 6175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 3
+    spriteName: Smoke 3
+    isGroup: 0
+    parentIndex: 6
+    spriteID: a4d9c74a9c809be4ea532d0e3ec2c449
+    layerID: 36
+    mosaicPosition: {x: 3920, y: 5785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smoke 1
+    spriteName: Smoke 1
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 52c161a0a1da6974a9db3d67fe63bb8a
+    layerID: 20
+    mosaicPosition: {x: 3860, y: 5389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 83a9bc0fefd326f40804ffe257aaa25a
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Orange Window 10
+    spriteName: Orange Window 10
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 38b292776f2f60f4ba1da87794549a9c
+    layerID: 55
+    mosaicPosition: {x: 3860, y: 6823}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 9
+    spriteName: Orange Window 9
+    isGroup: 0
+    parentIndex: 17
+    spriteID: d71e24a26ada5e041a2b59cdb3d6f2ea
+    layerID: 54
+    mosaicPosition: {x: 4016, y: 6882}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 8
+    spriteName: Orange Window 8
+    isGroup: 0
+    parentIndex: 17
+    spriteID: b51161f50a1cb4b4d85a68a0f741e1db
+    layerID: 53
+    mosaicPosition: {x: 3860, y: 6712}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 7
+    spriteName: Orange Window 7
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 07a8f63b5c07d5c439affb8225b582f8
+    layerID: 52
+    mosaicPosition: {x: 3998, y: 6433}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 6
+    spriteName: Orange Window 6
+    isGroup: 0
+    parentIndex: 17
+    spriteID: b271bb83289e96d44847efadf0fc043d
+    layerID: 51
+    mosaicPosition: {x: 3998, y: 6510}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 5
+    spriteName: Orange Window 5
+    isGroup: 0
+    parentIndex: 17
+    spriteID: f0090838f1474114d8bded826e31b8e5
+    layerID: 50
+    mosaicPosition: {x: 4016, y: 6840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 4
+    spriteName: Orange Window 4
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 3a16d0c04407a2848b17a2845de2ac19
+    layerID: 49
+    mosaicPosition: {x: 3860, y: 6749}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 3
+    spriteName: Orange Window 3
+    isGroup: 0
+    parentIndex: 17
+    spriteID: ae2975c16a110844b99943418a1164da
+    layerID: 48
+    mosaicPosition: {x: 3998, y: 6472}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 2
+    spriteName: Orange Window 2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 45d06dcd04283b7498abb1ebd1484af9
+    layerID: 44
+    mosaicPosition: {x: 3860, y: 6786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orange Window 1
+    spriteName: Orange Window 1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 4662bcb3015c1d5468a5cc348e296522
+    layerID: 10
+    mosaicPosition: {x: 3860, y: 6860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: House
+    spriteName: House
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6217a331a2c2f0d4daf61618e2f40ca1
+    layerID: 4
+    mosaicPosition: {x: 3860, y: 6557}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cef1b6d1dada59041bd3aa86bcc34501
+    layerID: 86
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: River 10
+    spriteName: River 10
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 36f75ae025c527c499f089850c3867db
+    layerID: 123
+    mosaicPosition: {x: 1932, y: 594}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 9
+    spriteName: River 9
+    isGroup: 0
+    parentIndex: 29
+    spriteID: aaaff6590bc1e4642b321b53e03b958d
+    layerID: 122
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 8
+    spriteName: River 8
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 82f629d5bccaefe41a39cdf5248142f5
+    layerID: 121
+    mosaicPosition: {x: 4, y: 5137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 7
+    spriteName: River 7
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 4cf515b1dc2afe948a1e78ea75735410
+    layerID: 120
+    mosaicPosition: {x: 4, y: 6330}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 6
+    spriteName: River 6
+    isGroup: 0
+    parentIndex: 29
+    spriteID: a55bd0dc70540744cbf83ab58f123239
+    layerID: 117
+    mosaicPosition: {x: 4, y: 6922}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 5
+    spriteName: River 5
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 86f54f487d8f96d45830c1efce2a9c25
+    layerID: 116
+    mosaicPosition: {x: 1932, y: 1180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 4
+    spriteName: River 4
+    isGroup: 0
+    parentIndex: 29
+    spriteID: f3d9b88f24f2d7640a33d0db3d53e338
+    layerID: 115
+    mosaicPosition: {x: 1932, y: 1778}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 3
+    spriteName: River 3
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 31892ac56d6094b4faf6c00f4147843f
+    layerID: 114
+    mosaicPosition: {x: 4, y: 5734}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 2
+    spriteName: River 2
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 7dfbdc9c3e19a60449560573afad8ff4
+    layerID: 113
+    mosaicPosition: {x: 4, y: 7517}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: River 1
+    spriteName: River 1
+    isGroup: 0
+    parentIndex: 29
+    spriteID: b00453b2dc2398a44834a3e6e9b2c933
+    layerID: 110
+    mosaicPosition: {x: 1932, y: 2375}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 23d4b0b796d1aff49bfb165e9d860cf1
+    layerID: 73
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Hill Outline 10
+    spriteName: Hill Outline 10
+    isGroup: 0
+    parentIndex: 40
+    spriteID: b345d3f83fa4ea744927f0fbc0beba93
+    layerID: 84
+    mosaicPosition: {x: 1932, y: 4190}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 9
+    spriteName: Hill Outline 9
+    isGroup: 0
+    parentIndex: 40
+    spriteID: e3d779e7383cdd14485026b05913da80
+    layerID: 83
+    mosaicPosition: {x: 1932, y: 6175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 8
+    spriteName: Hill Outline 8
+    isGroup: 0
+    parentIndex: 40
+    spriteID: b322de67a5904bd4a9192195621d2b5b
+    layerID: 82
+    mosaicPosition: {x: 1932, y: 5785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 7
+    spriteName: Hill Outline 7
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 2e3a4de6519e8b84b82a339ead166c7c
+    layerID: 81
+    mosaicPosition: {x: 1932, y: 4592}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 6
+    spriteName: Hill Outline 6
+    isGroup: 0
+    parentIndex: 40
+    spriteID: f336bb31aa479d34ea227e17e6750a95
+    layerID: 80
+    mosaicPosition: {x: 1932, y: 4992}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 5
+    spriteName: Hill Outline 5
+    isGroup: 0
+    parentIndex: 40
+    spriteID: ddeb01c53d1c57c47947665081d7909b
+    layerID: 79
+    mosaicPosition: {x: 1932, y: 2968}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 4
+    spriteName: Hill Outline 4
+    isGroup: 0
+    parentIndex: 40
+    spriteID: fa5da7adfd2cd4a41911adfad879b2be
+    layerID: 78
+    mosaicPosition: {x: 1932, y: 6557}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline  3
+    spriteName: Hill Outline  3
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 7ad79bb3ce01d1f4e96612f3e6050748
+    layerID: 77
+    mosaicPosition: {x: 1932, y: 3787}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 2
+    spriteName: Hill Outline 2
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 6800b55d757422b41a05f93b26dd089e
+    layerID: 72
+    mosaicPosition: {x: 1932, y: 5389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Outline 1
+    spriteName: Hill Outline 1
+    isGroup: 0
+    parentIndex: 40
+    spriteID: df1f6595e2cc43043b62b956d911ed1e
+    layerID: 7
+    mosaicPosition: {x: 1932, y: 3381}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Colour 3
+    spriteName: Hill Colour 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 635ed21bc11910d46915461535098ccf
+    layerID: 3
+    mosaicPosition: {x: 4, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Colour 2
+    spriteName: Hill Colour 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2b78e15f3b2572b41afad70c056f2835
+    layerID: 71
+    mosaicPosition: {x: 4, y: 3891}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hill Colour Version 1
+    spriteName: Hill Colour Version 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 265621601ae342d48bbff2286922b6b3
+    layerID: 70
+    mosaicPosition: {x: 4, y: 4514}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Night Sky 2
+    spriteName: Night Sky 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de4401cc9008ddb4d8d0ccd97660a4a3
+    layerID: 68
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Night Sky 1
+    spriteName: Night Sky 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3fc4239511f61a47b8ff260ddb9e208
+    layerID: 2
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638505238411255734
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
