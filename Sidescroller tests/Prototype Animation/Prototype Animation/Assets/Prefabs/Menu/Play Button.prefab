@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3530898541801627792}
   - component: {fileID: 2479338451087553919}
   - component: {fileID: 6058802196806588685}
+  - component: {fileID: 2774140356889992335}
   m_Layer: 5
   m_Name: Play Button
   m_TagString: Untagged
@@ -119,4 +120,30 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2479338451087553919}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2774140356889992335}
+        m_TargetAssemblyTypeName: PlayButton, Assembly-CSharp
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+--- !u!114 &2774140356889992335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4249055814064596875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec6e7639f7cc4d40968e43cb3770e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nextScene: Loading
+  folder: v0.3

@@ -408,6 +408,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 801383895418460075, guid: c546d1e3ce6e03a49855fb37e9d42629, type: 3}
   m_PrefabInstance: {fileID: 2306732630430056937}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &990856520 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2774140356889992335, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+  m_PrefabInstance: {fileID: 7480879508871740772}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec6e7639f7cc4d40968e43cb3770e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1098028956
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,6 +1446,26 @@ PrefabInstance:
     - target: {fileID: 4249055814064596875, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
       propertyPath: m_Name
       value: Play Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058802196806588685, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058802196806588685, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058802196806588685, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 990856520}
+    - target: {fileID: 6058802196806588685, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058802196806588685, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Play
       objectReference: {fileID: 0}
     - target: {fileID: 8106201276139595562, guid: 67d16d6b6965ce54ba015130bfa920a9, type: 3}
       propertyPath: m_Pivot.x
