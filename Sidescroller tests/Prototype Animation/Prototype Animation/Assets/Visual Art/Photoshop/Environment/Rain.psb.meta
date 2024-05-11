@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 062beaeaacf2ca44e9afeffd3302d981
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Rain  10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 6481
+      width: 4010
+      height: 2108
+    spriteID: b16176fc78ab6f442825d5ef8d42bc64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 6481}
+    spritePosition: {x: 42, y: 0}
+  - name: Rain  9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6493
+      width: 4026
+      height: 2154
+    spriteID: 1ee59d24ddd6ef449824a17573d36b98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6493}
+    spritePosition: {x: 28, y: 0}
+  - name: Rain  8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10823
+      width: 4008
+      height: 2151
+    spriteID: 1507cbead9c6ae443b2864c99a34adae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 10823}
+    spritePosition: {x: 50, y: 2}
+  - name: Rain  7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8655
+      width: 4013
+      height: 2160
+    spriteID: dbeba092f7342b84fb252014f79d7dee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 8655}
+    spritePosition: {x: 42, y: 0}
+  - name: Rain 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 2172
+      width: 3994
+      height: 2151
+    spriteID: c6d3f42353793fe49a91607c36bd150c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 2172}
+    spritePosition: {x: 41, y: 0}
+  - name: Rain 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4340
+      width: 4060
+      height: 2145
+    spriteID: 9ea9842586a3d864589b2b8c5e46efc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4340}
+    spritePosition: {x: 29, y: 0}
+  - name: Rain 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 4
+      width: 4040
+      height: 2156
+    spriteID: 84feb8a391e261a45a57de51c77f6778
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 4}
+    spritePosition: {x: 38, y: 4}
+  - name: Rain 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12982
+      width: 4009
+      height: 2149
+    spriteID: 605383823a735c44a86d7ccb8e5fbc2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 12982}
+    spritePosition: {x: 47, y: 0}
+  - name: Rain 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 4331
+      width: 3987
+      height: 2142
+    spriteID: 8f0eae965b3c01c4798ac5a91f9a3c9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 4331}
+    spritePosition: {x: 56, y: 0}
+  - name: Rain 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 8597
+      width: 3987
+      height: 2106
+    spriteID: a9f7fa3b557a7294f931d4891dfede37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 8597}
+    spritePosition: {x: 45, y: 20}
+  - name: Layer 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 12879
+      width: 1556
+      height: 2160
+    spriteID: 276ea30aeb111854a9637ec42ba02a7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 12879}
+    spritePosition: {x: 62, y: 0}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 10711
+      width: 3673
+      height: 2160
+    spriteID: 7f4b3169aba1825488c9c274889f42bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 10711}
+    spritePosition: {x: 169, y: 0}
+  - name: Curves 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 15047
+      width: 0
+      height: 0
+    spriteID: a52b2b46ad606f24d91ba301b5e50007
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 15047}
+    spritePosition: {x: 0, y: 2160}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4096
+      height: 2160
+    spriteID: b20bb3e42c90cc7488c9fc000eca122c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 4096
+      height: 2160
+    spriteID: d504edb2f5b33724e95d643f5ac293d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: Rain  10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 4313
+      width: 4010
+      height: 2108
+    spriteID: 697a261c805a5a84b85042525c704c1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 4313}
+    spritePosition: {x: 42, y: 0}
+  - name: Rain  9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6489
+      width: 4026
+      height: 2154
+    spriteID: d8daa262823dcd647ba7a984847d048c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6489}
+    spritePosition: {x: 28, y: 0}
+  - name: Rain  8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10819
+      width: 4008
+      height: 2151
+    spriteID: 9e96539bfad620e4a9d1cddc8fb93e82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 10819}
+    spritePosition: {x: 50, y: 2}
+  - name: Rain  7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8651
+      width: 4013
+      height: 2160
+    spriteID: 7ab166d173e8ba34e92556f3ad578b58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 8651}
+    spritePosition: {x: 42, y: 0}
+  - name: Rain 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 4
+      width: 3994
+      height: 2151
+    spriteID: 6783a1107e8b07342aeaa36ba2ae8c55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 4}
+    spritePosition: {x: 41, y: 0}
+  - name: Rain 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4336
+      width: 4060
+      height: 2145
+    spriteID: 6683ac8af39cd8d46b3e9e986a8269fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4336}
+    spritePosition: {x: 29, y: 0}
+  - name: Rain 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 4040
+      height: 2156
+    spriteID: 368cd1be8d5ea2f4fbb1c32f801eafee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2172}
+    spritePosition: {x: 38, y: 4}
+  - name: Rain 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12978
+      width: 4009
+      height: 2149
+    spriteID: 74ed5c6ee7686a54280eb47167b502c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 12978}
+    spritePosition: {x: 47, y: 0}
+  - name: Rain 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 2163
+      width: 3987
+      height: 2142
+    spriteID: 2122ae7c8bd8f8c4ba0b118c565c6d63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 2163}
+    spritePosition: {x: 56, y: 0}
+  - name: Rain 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 6429
+      width: 3987
+      height: 2106
+    spriteID: cee07949771286144be41498e4168666
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4108, y: 6429}
+    spritePosition: {x: 45, y: 20}
+  - name: Curves 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8126
+      y: 4313
+      width: 0
+      height: 0
+    spriteID: d534af5584e89b8478d56b2a95afacd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8126, y: 4313}
+    spritePosition: {x: 0, y: 2160}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4096
+      height: 2160
+    spriteID: 0e41146d5f13ab6418e139c450eeb79c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Video Group 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cafaa991776a871429d9e02501f4a645
+    layerID: 11
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rain  10
+    spriteName: Rain  10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b16176fc78ab6f442825d5ef8d42bc64
+    layerID: 22
+    mosaicPosition: {x: 4108, y: 6481}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  9
+    spriteName: Rain  9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1ee59d24ddd6ef449824a17573d36b98
+    layerID: 21
+    mosaicPosition: {x: 4, y: 6493}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  8
+    spriteName: Rain  8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1507cbead9c6ae443b2864c99a34adae
+    layerID: 20
+    mosaicPosition: {x: 4, y: 10823}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  7
+    spriteName: Rain  7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dbeba092f7342b84fb252014f79d7dee
+    layerID: 19
+    mosaicPosition: {x: 4, y: 8655}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 6
+    spriteName: Rain 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c6d3f42353793fe49a91607c36bd150c
+    layerID: 16
+    mosaicPosition: {x: 4108, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 5
+    spriteName: Rain 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9ea9842586a3d864589b2b8c5e46efc6
+    layerID: 15
+    mosaicPosition: {x: 4, y: 4340}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 4
+    spriteName: Rain 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 84feb8a391e261a45a57de51c77f6778
+    layerID: 14
+    mosaicPosition: {x: 4108, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 3
+    spriteName: Rain 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 605383823a735c44a86d7ccb8e5fbc2b
+    layerID: 13
+    mosaicPosition: {x: 4, y: 12982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 2
+    spriteName: Rain 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8f0eae965b3c01c4798ac5a91f9a3c9d
+    layerID: 10
+    mosaicPosition: {x: 4108, y: 4331}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 1
+    spriteName: Rain 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9f7fa3b557a7294f931d4891dfede37
+    layerID: 9
+    mosaicPosition: {x: 4108, y: 8597}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 4
+    spriteName: Layer 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 276ea30aeb111854a9637ec42ba02a7f
+    layerID: 8
+    mosaicPosition: {x: 4108, y: 12879}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 2
+    spriteName: Layer 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7f4b3169aba1825488c9c274889f42bf
+    layerID: 5
+    mosaicPosition: {x: 4108, y: 10711}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Video Group 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 71821757789a7594b91fcbe0ea1a90cd
+    layerID: 3
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Curves 1
+    spriteName: Curves 1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: a52b2b46ad606f24d91ba301b5e50007
+    layerID: 6
+    mosaicPosition: {x: 4108, y: 15047}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: b20bb3e42c90cc7488c9fc000eca122c
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d504edb2f5b33724e95d643f5ac293d4
+    layerID: 7
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Video Group 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e6c275cf32589494897797b750339113
+    layerID: 11
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rain  10
+    spriteName: Rain  10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 697a261c805a5a84b85042525c704c1c
+    layerID: 22
+    mosaicPosition: {x: 4108, y: 4313}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  9
+    spriteName: Rain  9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d8daa262823dcd647ba7a984847d048c
+    layerID: 21
+    mosaicPosition: {x: 4, y: 6489}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  8
+    spriteName: Rain  8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9e96539bfad620e4a9d1cddc8fb93e82
+    layerID: 20
+    mosaicPosition: {x: 4, y: 10819}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain  7
+    spriteName: Rain  7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7ab166d173e8ba34e92556f3ad578b58
+    layerID: 19
+    mosaicPosition: {x: 4, y: 8651}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 6
+    spriteName: Rain 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6783a1107e8b07342aeaa36ba2ae8c55
+    layerID: 16
+    mosaicPosition: {x: 4108, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 5
+    spriteName: Rain 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6683ac8af39cd8d46b3e9e986a8269fc
+    layerID: 15
+    mosaicPosition: {x: 4, y: 4336}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 4
+    spriteName: Rain 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 368cd1be8d5ea2f4fbb1c32f801eafee
+    layerID: 14
+    mosaicPosition: {x: 4, y: 2172}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 3
+    spriteName: Rain 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 74ed5c6ee7686a54280eb47167b502c0
+    layerID: 13
+    mosaicPosition: {x: 4, y: 12978}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 2
+    spriteName: Rain 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2122ae7c8bd8f8c4ba0b118c565c6d63
+    layerID: 10
+    mosaicPosition: {x: 4108, y: 2163}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rain 1
+    spriteName: Rain 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cee07949771286144be41498e4168666
+    layerID: 9
+    mosaicPosition: {x: 4108, y: 6429}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f13f81ce75a91fa48897323b8140f473
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 881fc8296dfbc1140af229e0cfcc7a29
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Video Group 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 83fca3e2564a1f1408790bb7de3fc7b5
+    layerID: 3
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Curves 1
+    spriteName: Curves 1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: d534af5584e89b8478d56b2a95afacd6
+    layerID: 6
+    mosaicPosition: {x: 8126, y: 4313}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 597a6b8b63a74d84493efe509a212196
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0e41146d5f13ab6418e139c450eeb79c
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638510394847331225
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
