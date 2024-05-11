@@ -45,8 +45,14 @@ TagManager:
   - name: Background
     uniqueID: 3248273229
     locked: 0
+  - name: Rain
+    uniqueID: 4064596903
+    locked: 0
   - name: Middleground
     uniqueID: 2472312455
+    locked: 0
+  - name: Furniture
+    uniqueID: 2642772091
     locked: 0
   - name: Player
     uniqueID: 641526547
