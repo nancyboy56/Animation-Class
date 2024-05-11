@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb4b772797da9440885e8bd939e9560, type: 3}
   m_Name: ColorCurves
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   master:
     m_OverrideState: 1
     m_Value:
@@ -79,8 +79,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.058636077
-          value: 0.11643833
+          time: 0.08946878
+          value: 0.19793826
           inSlope: 0.8772716
           outSlope: 0.8772716
           tangentMode: 0
@@ -284,7 +284,7 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.9718082, y: 0.8473091, z: 1, w: -0.00000020479219}
+    m_Value: {x: 0.9196891, y: 0.733469, z: 1, w: -0.00000020479219}
   midtones:
     m_OverrideState: 1
     m_Value: {x: 0.9900969, y: 0.9425741, z: 1, w: 0}
