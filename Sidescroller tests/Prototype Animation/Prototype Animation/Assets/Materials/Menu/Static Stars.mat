@@ -37,9 +37,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast: -6.13
+    - _Contrast: 2.26
     - _Scale: 10000
-    - _Step: 0.94
+    - _Step: 1.45
     m_Colors:
     - _Colour: {r: 0.81886786, g: 0.67208964, b: 0.6838795, a: 0}
     - _Offset: {r: 6.31, g: 3, b: 0, a: 0}

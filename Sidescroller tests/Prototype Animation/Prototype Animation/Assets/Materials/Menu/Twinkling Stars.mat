@@ -42,7 +42,7 @@ Material:
     - _Step: 1.03
     m_Colors:
     - _Colour: {r: 1, g: 1, b: 1, a: 0}
-    - _Offset: {r: 3, g: 3, b: 0, a: 0}
+    - _Offset: {r: -28, g: 1.65, b: 0, a: 0}
     - _StarsTime: {r: 0.00001, g: 0, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
