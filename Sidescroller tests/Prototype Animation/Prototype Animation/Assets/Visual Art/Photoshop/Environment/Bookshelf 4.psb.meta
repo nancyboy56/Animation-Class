@@ -1,0 +1,2831 @@
+fileFormatVersion: 2
+guid: bbbb5f6341fcce54781437f7e3e8d22f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Moving Book 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1982
+      width: 370
+      height: 199
+    spriteID: 28176cd8c6396e8469769cb04400fae0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1982}
+    spritePosition: {x: 689, y: 414}
+  - name: Moving Book 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1130
+      y: 1982
+      width: 366
+      height: 192
+    spriteID: 4edd11aad6b9ccb45b9557c9189d1da0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1130, y: 1982}
+    spritePosition: {x: 690, y: 419}
+  - name: Moving Book 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2786
+      width: 360
+      height: 186
+    spriteID: 957e6d8356095594a9c548cee0a5ca3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2786}
+    spritePosition: {x: 694, y: 425}
+  - name: Moving Book 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 2189
+      width: 361
+      height: 190
+    spriteID: 448379a2bf2e5e04b9c38c0ac3ae7537
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1106, y: 2189}
+    spritePosition: {x: 698, y: 417}
+  - name: Moving Book 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 1982
+      width: 368
+      height: 198
+    spriteID: bdd4b553cefcb9c4e8b8baa98224f322
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 1982}
+    spritePosition: {x: 693, y: 418}
+  - name: Moving Book 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 2786
+      width: 360
+      height: 183
+    spriteID: 1576daabff86fb54cad0cf59585e916a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 2786}
+    spritePosition: {x: 699, y: 426}
+  - name: Moving Book 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2595
+      width: 366
+      height: 183
+    spriteID: cf5a82796038cc6418ea47f47d0a0580
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2595}
+    spritePosition: {x: 693, y: 422}
+  - name: Moving Book 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 739
+      y: 2397
+      width: 356
+      height: 189
+    spriteID: 3d89955f53d86cc4f9cc08f44f1e1a4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 739, y: 2397}
+    spritePosition: {x: 697, y: 419}
+  - name: Moving Book 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 2786
+      width: 363
+      height: 184
+    spriteID: 42a54fa8da7286246970dbca943335b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 2786}
+    spritePosition: {x: 688, y: 426}
+  - name: Moving Book 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2397
+      width: 361
+      height: 190
+    spriteID: 15fee1fb1a7b6f949880b7b2c9a1461f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2397}
+    spritePosition: {x: 692, y: 419}
+  - name: Moving Book 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 2397
+      width: 358
+      height: 188
+    spriteID: 76204f16822b7f64283c3d6b3cf263c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 2397}
+    spritePosition: {x: 698, y: 422}
+  - name: Moving Book 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 739
+      y: 2189
+      width: 359
+      height: 192
+    spriteID: 2702cf8df20b27a45b251f338ad190ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 739, y: 2189}
+    spritePosition: {x: 702, y: 411}
+  - name: Moving Book 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2397
+      width: 359
+      height: 187
+    spriteID: cd1650249f2eb0a4aad3d1df26430506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1103, y: 2397}
+    spritePosition: {x: 698, y: 419}
+  - name: Moving Book 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2189
+      width: 358
+      height: 200
+    spriteID: acbef5bb32e7ce343a331f926f1394c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2189}
+    spritePosition: {x: 699, y: 416}
+  - name: Moving Book 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2980
+      width: 354
+      height: 188
+    spriteID: 05992d808c57c454282bd3139474c565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2980}
+    spritePosition: {x: 701, y: 422}
+  - name: Moving Book 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 758
+      y: 1982
+      width: 364
+      height: 199
+    spriteID: ec194e3c27d84fc408cb78ff76702336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 758, y: 1982}
+    spritePosition: {x: 698, y: 411}
+  - name: Moving Book 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 2189
+      width: 361
+      height: 194
+    spriteID: 737e8f91aa217214d96324855698b11b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 2189}
+    spritePosition: {x: 696, y: 413}
+  - name: Moving Book 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 726
+      y: 2980
+      width: 340
+      height: 188
+    spriteID: a127d02227a591a4299fbd558bff38d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 726, y: 2980}
+    spritePosition: {x: 714, y: 423}
+  - name: Moving Book 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1111
+      y: 2786
+      width: 345
+      height: 178
+    spriteID: 88e095c361ed119489f0f321660f6c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1111, y: 2786}
+    spritePosition: {x: 704, y: 427}
+  - name: Moving Book 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 2980
+      width: 352
+      height: 188
+    spriteID: 1cda1385969e8254f8197858a035e908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 2980}
+    spritePosition: {x: 701, y: 421}
+  - name: Layer 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 3598
+      width: 197
+      height: 192
+    spriteID: 1503efbda24c978438ecadb7791edee2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 3598}
+    spritePosition: {x: 1261, y: 757}
+  - name: Layer 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 827
+      y: 3389
+      width: 196
+      height: 195
+    spriteID: d80117ad8d1b6014993b72b82f315e85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 827, y: 3389}
+    spritePosition: {x: 1258, y: 761}
+  - name: Layer 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3389
+      width: 195
+      height: 201
+    spriteID: a16bc1b599ffe8544be1b69e5e4957ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3389}
+    spritePosition: {x: 1260, y: 753}
+  - name: Layer 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1031
+      y: 3389
+      width: 198
+      height: 193
+    spriteID: 15782b2afb824a54f8650b99e9e42b79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1031, y: 3389}
+    spritePosition: {x: 1261, y: 758}
+  - name: Layer 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 624
+      y: 3389
+      width: 195
+      height: 197
+    spriteID: 7960041430700c747990b9a95e5f7fcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 624, y: 3389}
+    spritePosition: {x: 1264, y: 760}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3801
+      width: 192
+      height: 196
+    spriteID: a56363a328fa48d46b27edc4d532e422
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3801}
+    spritePosition: {x: 1266, y: 767}
+  - name: Layer 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1237
+      y: 3389
+      width: 192
+      height: 199
+    spriteID: 7f9b4a8d7bc32fa498c50b61e33c4726
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1237, y: 3389}
+    spritePosition: {x: 1268, y: 758}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1308
+      y: 3176
+      width: 196
+      height: 201
+    spriteID: 3c23261f35322e94da1bbea3daf52f2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1308, y: 3176}
+    spritePosition: {x: 1261, y: 754}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 3598
+      width: 194
+      height: 192
+    spriteID: 2ffbfd0a3ce5b3545a5f13e5e3118a23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 3598}
+    spritePosition: {x: 1263, y: 761}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1074
+      y: 2980
+      width: 195
+      height: 187
+    spriteID: 058fc604da75e2a48805b278da7713a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1074, y: 2980}
+    spritePosition: {x: 1261, y: 769}
+  - name: Orb Outline 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 3389
+      width: 201
+      height: 193
+    spriteID: dba3ba22bdb4b4d44a2a0cb81c8821da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 3389}
+    spritePosition: {x: 1256, y: 767}
+  - name: Orb Outline 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 3176
+      width: 214
+      height: 201
+    spriteID: 93cc0674d4c61c4429fe9578e8aa4d1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 3176}
+    spritePosition: {x: 1255, y: 757}
+  - name: Orb Outline 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 3389
+      width: 200
+      height: 193
+    spriteID: 9bfff15df71c6304f8150effd4496f63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 3389}
+    spritePosition: {x: 1263, y: 767}
+  - name: Orb Outline 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 668
+      y: 3176
+      width: 204
+      height: 204
+    spriteID: fbd3b3fac876e524cb01b42f5e2524f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 668, y: 3176}
+    spritePosition: {x: 1252, y: 747}
+  - name: Orb Outline 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3176
+      width: 222
+      height: 205
+    spriteID: 6975e371204181744ac7b19331026344
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3176}
+    spritePosition: {x: 1256, y: 751}
+  - name: Orb Outline 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1277
+      y: 2980
+      width: 188
+      height: 184
+    spriteID: 5d1da2895a64c0e4f8e18f9fd40b47d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1277, y: 2980}
+    spritePosition: {x: 1258, y: 768}
+  - name: Orb Outline 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 880
+      y: 3176
+      width: 208
+      height: 198
+    spriteID: 646c4a61fdde1e44e90cc7a51dba542d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 880, y: 3176}
+    spritePosition: {x: 1253, y: 753}
+  - name: Orb Outline 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 3176
+      width: 204
+      height: 205
+    spriteID: 7d64eb74abd358c429244f187ec0868d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 3176}
+    spritePosition: {x: 1254, y: 759}
+  - name: Orb Outline 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3598
+      width: 195
+      height: 195
+    spriteID: 5478dc4baa20d2040aae662c999f3e96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3598}
+    spritePosition: {x: 1259, y: 761}
+  - name: Orb Outline 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1096
+      y: 3176
+      width: 204
+      height: 196
+    spriteID: 7be0844af7a27084ca26489bafc8a3f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1096, y: 3176}
+    spritePosition: {x: 1258, y: 760}
+  - name: Book 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1558
+      height: 1970
+    spriteID: 840576a8ede2d094aa45f5a0d5918503
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 160, y: 25}
+  rigSpriteImportData:
+  - name: Moving Book 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1982
+      width: 370
+      height: 199
+    spriteID: 77a29c936e5884e4b968b5cbdaf1dfad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1982}
+    spritePosition: {x: 689, y: 414}
+  - name: Moving Book 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1130
+      y: 1982
+      width: 366
+      height: 192
+    spriteID: 4d92861583711e8468b6522327bea6bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1130, y: 1982}
+    spritePosition: {x: 690, y: 419}
+  - name: Moving Book 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2786
+      width: 360
+      height: 186
+    spriteID: ca4383effbb6f18448d09d88bf2ca531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2786}
+    spritePosition: {x: 694, y: 425}
+  - name: Moving Book 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 2189
+      width: 361
+      height: 190
+    spriteID: 4417e09e89a33d94eb0659d2e7f366a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1106, y: 2189}
+    spritePosition: {x: 698, y: 417}
+  - name: Moving Book 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 1982
+      width: 368
+      height: 198
+    spriteID: 06f695f4e8db80c4d8cebd7c8cf6b310
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 1982}
+    spritePosition: {x: 693, y: 418}
+  - name: Moving Book 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 2786
+      width: 360
+      height: 183
+    spriteID: c9de85a410f32e0479b3d3f71b0df97d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 2786}
+    spritePosition: {x: 699, y: 426}
+  - name: Moving Book 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2595
+      width: 366
+      height: 183
+    spriteID: dfe7f5256f83e1f4fa25cd7107e9275a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2595}
+    spritePosition: {x: 693, y: 422}
+  - name: Moving Book 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 739
+      y: 2397
+      width: 356
+      height: 189
+    spriteID: c6aabda426ac6ff408f932d2d37e943e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 739, y: 2397}
+    spritePosition: {x: 697, y: 419}
+  - name: Moving Book 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 372
+      y: 2786
+      width: 363
+      height: 184
+    spriteID: 0128691c3ddea6347a8149a35e3fcadc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 2786}
+    spritePosition: {x: 688, y: 426}
+  - name: Moving Book 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2397
+      width: 361
+      height: 190
+    spriteID: b6f9c485c82880840a513d0e2b960dfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2397}
+    spritePosition: {x: 692, y: 419}
+  - name: Moving Book 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 2397
+      width: 358
+      height: 188
+    spriteID: 17a0aacb704678f45887e9c2c7d49463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 2397}
+    spritePosition: {x: 698, y: 422}
+  - name: Moving Book 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 739
+      y: 2189
+      width: 359
+      height: 192
+    spriteID: 7142ce62540f686458635cdf0f4a034d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 739, y: 2189}
+    spritePosition: {x: 702, y: 411}
+  - name: Moving Book 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1103
+      y: 2397
+      width: 359
+      height: 187
+    spriteID: 1a2f5a8243f8222449152afd18842ebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1103, y: 2397}
+    spritePosition: {x: 698, y: 419}
+  - name: Moving Book 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2189
+      width: 358
+      height: 200
+    spriteID: f10506c2710958b44ac34bb19d8507bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2189}
+    spritePosition: {x: 699, y: 416}
+  - name: Moving Book 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2980
+      width: 354
+      height: 188
+    spriteID: 80b9ef95e872d85418f8f15df7ba38d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2980}
+    spritePosition: {x: 701, y: 422}
+  - name: Moving Book 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 758
+      y: 1982
+      width: 364
+      height: 199
+    spriteID: a885ca4b0b3545b47a8ff809ba922efe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 758, y: 1982}
+    spritePosition: {x: 698, y: 411}
+  - name: Moving Book 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 2189
+      width: 361
+      height: 194
+    spriteID: b786bb14183dbfb4a94909d848745dc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 370, y: 2189}
+    spritePosition: {x: 696, y: 413}
+  - name: Moving Book 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 726
+      y: 2980
+      width: 340
+      height: 188
+    spriteID: fca85d165d1eaa54cb27367048e234eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 726, y: 2980}
+    spritePosition: {x: 714, y: 423}
+  - name: Moving Book 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1111
+      y: 2786
+      width: 345
+      height: 178
+    spriteID: ef733f4ef6007aa469f5b65d66d7bca9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1111, y: 2786}
+    spritePosition: {x: 704, y: 427}
+  - name: Moving Book 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 2980
+      width: 352
+      height: 188
+    spriteID: 612ce0e382b51974190e00dda5fbdc21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 2980}
+    spritePosition: {x: 701, y: 421}
+  - name: Layer 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 3598
+      width: 197
+      height: 192
+    spriteID: fa02a200170c0d14ca94c41d257c98d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 3598}
+    spritePosition: {x: 1261, y: 757}
+  - name: Layer 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 827
+      y: 3389
+      width: 196
+      height: 195
+    spriteID: 85ee2d7e0e6352944beba005600ee15e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 827, y: 3389}
+    spritePosition: {x: 1258, y: 761}
+  - name: Layer 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3389
+      width: 195
+      height: 201
+    spriteID: 356481eb646997e4aa95d4965c921d68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3389}
+    spritePosition: {x: 1260, y: 753}
+  - name: Layer 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1031
+      y: 3389
+      width: 198
+      height: 193
+    spriteID: 9198446262b206a49925a80b76d085a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1031, y: 3389}
+    spritePosition: {x: 1261, y: 758}
+  - name: Layer 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 624
+      y: 3389
+      width: 195
+      height: 197
+    spriteID: 03bbac20ae8d85c4b91d449b4e5ccc7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 624, y: 3389}
+    spritePosition: {x: 1264, y: 760}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3801
+      width: 192
+      height: 196
+    spriteID: 47335a5c8485183418f18f1aaafe29ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3801}
+    spritePosition: {x: 1266, y: 767}
+  - name: Layer 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1237
+      y: 3389
+      width: 192
+      height: 199
+    spriteID: f90d0ec0ae1cdf74b866e1319b279413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1237, y: 3389}
+    spritePosition: {x: 1268, y: 758}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1308
+      y: 3176
+      width: 196
+      height: 201
+    spriteID: 2202d471897ba494f88ea2470b3f44b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1308, y: 3176}
+    spritePosition: {x: 1261, y: 754}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 3598
+      width: 194
+      height: 192
+    spriteID: 8babae7264e5a00458cfa2e1ac6e5f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 3598}
+    spritePosition: {x: 1263, y: 761}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1074
+      y: 2980
+      width: 195
+      height: 187
+    spriteID: bc3a7512bb5d5a641af90979d0dedd06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1074, y: 2980}
+    spritePosition: {x: 1261, y: 769}
+  - name: Orb Outline 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 3389
+      width: 201
+      height: 193
+    spriteID: b1a45f0149d0ea94898ff44a18f1ece7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 3389}
+    spritePosition: {x: 1256, y: 767}
+  - name: Orb Outline 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 234
+      y: 3176
+      width: 214
+      height: 201
+    spriteID: 73e7ab1aa9ddddd48976b63aba7544be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 3176}
+    spritePosition: {x: 1255, y: 757}
+  - name: Orb Outline 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 3389
+      width: 200
+      height: 193
+    spriteID: a618953d3c15f1a4a9b27a675436f62c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 3389}
+    spritePosition: {x: 1263, y: 767}
+  - name: Orb Outline 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 668
+      y: 3176
+      width: 204
+      height: 204
+    spriteID: 69f8def2ad4e905469e5e66ba362d933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 668, y: 3176}
+    spritePosition: {x: 1252, y: 747}
+  - name: Orb Outline 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3176
+      width: 222
+      height: 205
+    spriteID: 007031ce1e6cf2c4988c6144f0b509b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3176}
+    spritePosition: {x: 1256, y: 751}
+  - name: Orb Outline 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1277
+      y: 2980
+      width: 188
+      height: 184
+    spriteID: 6dc0e21c08a818f4395f361f3ba12e44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1277, y: 2980}
+    spritePosition: {x: 1258, y: 768}
+  - name: Orb Outline 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 880
+      y: 3176
+      width: 208
+      height: 198
+    spriteID: a168114baea7d9745921810ff2b64b9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 880, y: 3176}
+    spritePosition: {x: 1253, y: 753}
+  - name: Orb Outline 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 3176
+      width: 204
+      height: 205
+    spriteID: 59fa079368082d043a15d9e82af88e7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 3176}
+    spritePosition: {x: 1254, y: 759}
+  - name: Orb Outline 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3598
+      width: 195
+      height: 195
+    spriteID: cf84477c40e925c4ba95e25c5e149a98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3598}
+    spritePosition: {x: 1259, y: 761}
+  - name: Orb Outline 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1096
+      y: 3176
+      width: 204
+      height: 196
+    spriteID: 870858af72b33c649965a5348681e2e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1096, y: 3176}
+    spritePosition: {x: 1258, y: 760}
+  - name: Book 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1558
+      height: 1970
+    spriteID: f7a8f2dec87917f469cc7c3d4c8ea423
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 160, y: 25}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Book Flip Outline
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a4065aaa855a6104591480b00db84bcf
+    layerID: 178
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Moving Book 20
+    spriteName: Moving Book 20
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 28176cd8c6396e8469769cb04400fae0
+    layerID: 177
+    mosaicPosition: {x: 4, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 19
+    spriteName: Moving Book 19
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4edd11aad6b9ccb45b9557c9189d1da0
+    layerID: 176
+    mosaicPosition: {x: 1130, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 18
+    spriteName: Moving Book 18
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 957e6d8356095594a9c548cee0a5ca3a
+    layerID: 175
+    mosaicPosition: {x: 4, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 17
+    spriteName: Moving Book 17
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 448379a2bf2e5e04b9c38c0ac3ae7537
+    layerID: 174
+    mosaicPosition: {x: 1106, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 16
+    spriteName: Moving Book 16
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bdd4b553cefcb9c4e8b8baa98224f322
+    layerID: 173
+    mosaicPosition: {x: 382, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 15
+    spriteName: Moving Book 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1576daabff86fb54cad0cf59585e916a
+    layerID: 172
+    mosaicPosition: {x: 743, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 14
+    spriteName: Moving Book 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cf5a82796038cc6418ea47f47d0a0580
+    layerID: 171
+    mosaicPosition: {x: 4, y: 2595}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 13
+    spriteName: Moving Book 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3d89955f53d86cc4f9cc08f44f1e1a4c
+    layerID: 170
+    mosaicPosition: {x: 739, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 12
+    spriteName: Moving Book 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 42a54fa8da7286246970dbca943335b8
+    layerID: 169
+    mosaicPosition: {x: 372, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 11
+    spriteName: Moving Book 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 15fee1fb1a7b6f949880b7b2c9a1461f
+    layerID: 168
+    mosaicPosition: {x: 4, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 10
+    spriteName: Moving Book 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 76204f16822b7f64283c3d6b3cf263c4
+    layerID: 167
+    mosaicPosition: {x: 373, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 9
+    spriteName: Moving Book 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2702cf8df20b27a45b251f338ad190ee
+    layerID: 166
+    mosaicPosition: {x: 739, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 8
+    spriteName: Moving Book 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cd1650249f2eb0a4aad3d1df26430506
+    layerID: 165
+    mosaicPosition: {x: 1103, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 7
+    spriteName: Moving Book 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: acbef5bb32e7ce343a331f926f1394c6
+    layerID: 164
+    mosaicPosition: {x: 4, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 6
+    spriteName: Moving Book 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 05992d808c57c454282bd3139474c565
+    layerID: 163
+    mosaicPosition: {x: 4, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 5
+    spriteName: Moving Book 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ec194e3c27d84fc408cb78ff76702336
+    layerID: 162
+    mosaicPosition: {x: 758, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 4
+    spriteName: Moving Book 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 737e8f91aa217214d96324855698b11b
+    layerID: 161
+    mosaicPosition: {x: 370, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 3
+    spriteName: Moving Book 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a127d02227a591a4299fbd558bff38d9
+    layerID: 160
+    mosaicPosition: {x: 726, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 2
+    spriteName: Moving Book 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 88e095c361ed119489f0f321660f6c36
+    layerID: 159
+    mosaicPosition: {x: 1111, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 1
+    spriteName: Moving Book 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1cda1385969e8254f8197858a035e908
+    layerID: 158
+    mosaicPosition: {x: 366, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bookflip Colours Red
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c13c5788bcee7d749a195d60c5ecc1a6
+    layerID: 156
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Orb Purple
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a27acc0dc1ec0e34a872f41452408b7a
+    layerID: 134
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 10
+    spriteName: Layer 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 1503efbda24c978438ecadb7791edee2
+    layerID: 133
+    mosaicPosition: {x: 207, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 9
+    spriteName: Layer 9
+    isGroup: 0
+    parentIndex: 22
+    spriteID: d80117ad8d1b6014993b72b82f315e85
+    layerID: 132
+    mosaicPosition: {x: 827, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 8
+    spriteName: Layer 8
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a16bc1b599ffe8544be1b69e5e4957ad
+    layerID: 131
+    mosaicPosition: {x: 4, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 7
+    spriteName: Layer 7
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 15782b2afb824a54f8650b99e9e42b79
+    layerID: 130
+    mosaicPosition: {x: 1031, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 6
+    spriteName: Layer 6
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7960041430700c747990b9a95e5f7fcf
+    layerID: 129
+    mosaicPosition: {x: 624, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a56363a328fa48d46b27edc4d532e422
+    layerID: 128
+    mosaicPosition: {x: 4, y: 3801}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 4
+    spriteName: Layer 4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7f9b4a8d7bc32fa498c50b61e33c4726
+    layerID: 127
+    mosaicPosition: {x: 1237, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 3c23261f35322e94da1bbea3daf52f2b
+    layerID: 126
+    mosaicPosition: {x: 1308, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 2
+    spriteName: Layer 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 2ffbfd0a3ce5b3545a5f13e5e3118a23
+    layerID: 125
+    mosaicPosition: {x: 412, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 058fc604da75e2a48805b278da7713a3
+    layerID: 124
+    mosaicPosition: {x: 1074, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 10
+    spriteName: Orb Outline 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: dba3ba22bdb4b4d44a2a0cb81c8821da
+    layerID: 123
+    mosaicPosition: {x: 207, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 9
+    spriteName: Orb Outline 9
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 93cc0674d4c61c4429fe9578e8aa4d1c
+    layerID: 122
+    mosaicPosition: {x: 234, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 8
+    spriteName: Orb Outline 8
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9bfff15df71c6304f8150effd4496f63
+    layerID: 121
+    mosaicPosition: {x: 416, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 7
+    spriteName: Orb Outline 7
+    isGroup: 0
+    parentIndex: 22
+    spriteID: fbd3b3fac876e524cb01b42f5e2524f6
+    layerID: 120
+    mosaicPosition: {x: 668, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 6
+    spriteName: Orb Outline 6
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6975e371204181744ac7b19331026344
+    layerID: 119
+    mosaicPosition: {x: 4, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 5
+    spriteName: Orb Outline 5
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5d1da2895a64c0e4f8e18f9fd40b47d8
+    layerID: 118
+    mosaicPosition: {x: 1277, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 4
+    spriteName: Orb Outline 4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 646c4a61fdde1e44e90cc7a51dba542d
+    layerID: 117
+    mosaicPosition: {x: 880, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 3
+    spriteName: Orb Outline 3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7d64eb74abd358c429244f187ec0868d
+    layerID: 116
+    mosaicPosition: {x: 456, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 2
+    spriteName: Orb Outline 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5478dc4baa20d2040aae662c999f3e96
+    layerID: 115
+    mosaicPosition: {x: 4, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 1
+    spriteName: Orb Outline 1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 7be0844af7a27084ca26489bafc8a3f8
+    layerID: 114
+    mosaicPosition: {x: 1096, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Colour
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 18dbae230f0517043b7e083667182b05
+    layerID: 112
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Book 4
+    spriteName: Book 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 840576a8ede2d094aa45f5a0d5918503
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b9365721cf965da4b9ed3d76c433b45b
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  rigPSDLayers:
+  - name: Book Flip Outline
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c63af787037c7094d8b35ac04924b20b
+    layerID: 178
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Moving Book 20
+    spriteName: Moving Book 20
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 77a29c936e5884e4b968b5cbdaf1dfad
+    layerID: 177
+    mosaicPosition: {x: 4, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 19
+    spriteName: Moving Book 19
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4d92861583711e8468b6522327bea6bc
+    layerID: 176
+    mosaicPosition: {x: 1130, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 18
+    spriteName: Moving Book 18
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ca4383effbb6f18448d09d88bf2ca531
+    layerID: 175
+    mosaicPosition: {x: 4, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 17
+    spriteName: Moving Book 17
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4417e09e89a33d94eb0659d2e7f366a5
+    layerID: 174
+    mosaicPosition: {x: 1106, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 16
+    spriteName: Moving Book 16
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 06f695f4e8db80c4d8cebd7c8cf6b310
+    layerID: 173
+    mosaicPosition: {x: 382, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 15
+    spriteName: Moving Book 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c9de85a410f32e0479b3d3f71b0df97d
+    layerID: 172
+    mosaicPosition: {x: 743, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 14
+    spriteName: Moving Book 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dfe7f5256f83e1f4fa25cd7107e9275a
+    layerID: 171
+    mosaicPosition: {x: 4, y: 2595}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 13
+    spriteName: Moving Book 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c6aabda426ac6ff408f932d2d37e943e
+    layerID: 170
+    mosaicPosition: {x: 739, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 12
+    spriteName: Moving Book 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0128691c3ddea6347a8149a35e3fcadc
+    layerID: 169
+    mosaicPosition: {x: 372, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 11
+    spriteName: Moving Book 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b6f9c485c82880840a513d0e2b960dfc
+    layerID: 168
+    mosaicPosition: {x: 4, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 10
+    spriteName: Moving Book 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 17a0aacb704678f45887e9c2c7d49463
+    layerID: 167
+    mosaicPosition: {x: 373, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 9
+    spriteName: Moving Book 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7142ce62540f686458635cdf0f4a034d
+    layerID: 166
+    mosaicPosition: {x: 739, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 8
+    spriteName: Moving Book 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1a2f5a8243f8222449152afd18842ebd
+    layerID: 165
+    mosaicPosition: {x: 1103, y: 2397}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 7
+    spriteName: Moving Book 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f10506c2710958b44ac34bb19d8507bb
+    layerID: 164
+    mosaicPosition: {x: 4, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 6
+    spriteName: Moving Book 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 80b9ef95e872d85418f8f15df7ba38d1
+    layerID: 163
+    mosaicPosition: {x: 4, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 5
+    spriteName: Moving Book 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a885ca4b0b3545b47a8ff809ba922efe
+    layerID: 162
+    mosaicPosition: {x: 758, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 4
+    spriteName: Moving Book 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b786bb14183dbfb4a94909d848745dc0
+    layerID: 161
+    mosaicPosition: {x: 370, y: 2189}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 3
+    spriteName: Moving Book 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fca85d165d1eaa54cb27367048e234eb
+    layerID: 160
+    mosaicPosition: {x: 726, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 2
+    spriteName: Moving Book 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ef733f4ef6007aa469f5b65d66d7bca9
+    layerID: 159
+    mosaicPosition: {x: 1111, y: 2786}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Moving Book 1
+    spriteName: Moving Book 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 612ce0e382b51974190e00dda5fbdc21
+    layerID: 158
+    mosaicPosition: {x: 366, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bookflip Colours Red
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 062d9b2b834a4f74a960b54d274d5f42
+    layerID: 156
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Orb Purple
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 49da99843e6be4547b70a3275151424e
+    layerID: 134
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 10
+    spriteName: Layer 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: fa02a200170c0d14ca94c41d257c98d5
+    layerID: 133
+    mosaicPosition: {x: 207, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 9
+    spriteName: Layer 9
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 85ee2d7e0e6352944beba005600ee15e
+    layerID: 132
+    mosaicPosition: {x: 827, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 8
+    spriteName: Layer 8
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 356481eb646997e4aa95d4965c921d68
+    layerID: 131
+    mosaicPosition: {x: 4, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 7
+    spriteName: Layer 7
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9198446262b206a49925a80b76d085a1
+    layerID: 130
+    mosaicPosition: {x: 1031, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 6
+    spriteName: Layer 6
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 03bbac20ae8d85c4b91d449b4e5ccc7e
+    layerID: 129
+    mosaicPosition: {x: 624, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 47335a5c8485183418f18f1aaafe29ec
+    layerID: 128
+    mosaicPosition: {x: 4, y: 3801}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 4
+    spriteName: Layer 4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: f90d0ec0ae1cdf74b866e1319b279413
+    layerID: 127
+    mosaicPosition: {x: 1237, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 2202d471897ba494f88ea2470b3f44b4
+    layerID: 126
+    mosaicPosition: {x: 1308, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 2
+    spriteName: Layer 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 8babae7264e5a00458cfa2e1ac6e5f53
+    layerID: 125
+    mosaicPosition: {x: 412, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: bc3a7512bb5d5a641af90979d0dedd06
+    layerID: 124
+    mosaicPosition: {x: 1074, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 10
+    spriteName: Orb Outline 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: b1a45f0149d0ea94898ff44a18f1ece7
+    layerID: 123
+    mosaicPosition: {x: 207, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 9
+    spriteName: Orb Outline 9
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 73e7ab1aa9ddddd48976b63aba7544be
+    layerID: 122
+    mosaicPosition: {x: 234, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 8
+    spriteName: Orb Outline 8
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a618953d3c15f1a4a9b27a675436f62c
+    layerID: 121
+    mosaicPosition: {x: 416, y: 3389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 7
+    spriteName: Orb Outline 7
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 69f8def2ad4e905469e5e66ba362d933
+    layerID: 120
+    mosaicPosition: {x: 668, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 6
+    spriteName: Orb Outline 6
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 007031ce1e6cf2c4988c6144f0b509b8
+    layerID: 119
+    mosaicPosition: {x: 4, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 5
+    spriteName: Orb Outline 5
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 6dc0e21c08a818f4395f361f3ba12e44
+    layerID: 118
+    mosaicPosition: {x: 1277, y: 2980}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 4
+    spriteName: Orb Outline 4
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a168114baea7d9745921810ff2b64b9a
+    layerID: 117
+    mosaicPosition: {x: 880, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 3
+    spriteName: Orb Outline 3
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 59fa079368082d043a15d9e82af88e7a
+    layerID: 116
+    mosaicPosition: {x: 456, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 2
+    spriteName: Orb Outline 2
+    isGroup: 0
+    parentIndex: 22
+    spriteID: cf84477c40e925c4ba95e25c5e149a98
+    layerID: 115
+    mosaicPosition: {x: 4, y: 3598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Outline 1
+    spriteName: Orb Outline 1
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 870858af72b33c649965a5348681e2e2
+    layerID: 114
+    mosaicPosition: {x: 1096, y: 3176}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Orb Colour
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8df187dfc6753c048bc2a1d51e7f93c9
+    layerID: 112
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Book 4
+    spriteName: Book 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f7a8f2dec87917f469cc7c3d4c8ea423
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c20f0131ee6089458a6654a70f1fc4b
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638517530071012133
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
