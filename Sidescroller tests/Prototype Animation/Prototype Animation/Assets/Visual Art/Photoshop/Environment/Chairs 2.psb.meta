@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: bed0c7b3b673f6040b77e5de336abd2a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Purple Chair Full
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 467
+      height: 627
+    spriteID: ce5fd9286d268374e893d687378fd9ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 268, y: 227}
+  - name: Left Outline Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 639
+      width: 467
+      height: 627
+    spriteID: cac2bc8bd1ecdfa45b353fcc6db7b828
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 639}
+    spritePosition: {x: 268, y: 227}
+  - name: Purple Chair Colour Brighter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1274
+      width: 465
+      height: 625
+    spriteID: 48a0995d640497b46af1ea02d2f8de2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1274}
+    spritePosition: {x: 268, y: 227}
+  - name: Purple Chair Colour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 4
+      width: 465
+      height: 625
+    spriteID: 9fe381caed9c25645a33c2536baf070c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 4}
+    spritePosition: {x: 268, y: 227}
+  - name: White And Gray Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 637
+      width: 465
+      height: 625
+    spriteID: 0e75068a3ae782044964e5d63c40b9fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 637}
+    spritePosition: {x: 268, y: 227}
+  - name: Red Chair Full
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 1270
+      width: 449
+      height: 602
+    spriteID: c4fceaf4270c44c4d83000ac7857aea6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 1270}
+    spritePosition: {x: 812, y: 227}
+  - name: Right Outline Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 4
+      width: 449
+      height: 602
+    spriteID: 3138ab384e7634d42a21b4bb1d497ac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 4}
+    spritePosition: {x: 812, y: 227}
+  - name: Dark Red Chair copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 614
+      width: 447
+      height: 601
+    spriteID: 8209bc3ef1a449a4287ad61feae265c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 614}
+    spritePosition: {x: 812, y: 227}
+  - name: Dark Red Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 1223
+      width: 447
+      height: 601
+    spriteID: 8bb9000e973cc0f47a60c496ae536a2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 1223}
+    spritePosition: {x: 812, y: 227}
+  - name: White and gray Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 4
+      width: 447
+      height: 601
+    spriteID: f8a7899ca042fdb48af313d349220be4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 4}
+    spritePosition: {x: 812, y: 227}
+  rigSpriteImportData:
+  - name: Purple Chair Full
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 467
+      height: 627
+    spriteID: 97b3c1e2a89a5ff40924273f054cbff0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 268, y: 227}
+  - name: Left Outline Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 639
+      width: 467
+      height: 627
+    spriteID: a263234249d8653438dcd1a324a76a35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 639}
+    spritePosition: {x: 268, y: 227}
+  - name: Purple Chair Colour Brighter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1274
+      width: 465
+      height: 625
+    spriteID: 2b7a9372e9fe2364691d0f1920398f22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1274}
+    spritePosition: {x: 268, y: 227}
+  - name: Purple Chair Colour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 4
+      width: 465
+      height: 625
+    spriteID: f7b0923f685c2794caefe7ce8236b4b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 4}
+    spritePosition: {x: 268, y: 227}
+  - name: White And Gray Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 637
+      width: 465
+      height: 625
+    spriteID: 1fc43ec831d1c3a4a9e6c10d456dd203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 637}
+    spritePosition: {x: 268, y: 227}
+  - name: Red Chair Full
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 1270
+      width: 449
+      height: 602
+    spriteID: 4938313a09141684e9d7cd5a18adcdca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 1270}
+    spritePosition: {x: 812, y: 227}
+  - name: Right Outline Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 4
+      width: 449
+      height: 602
+    spriteID: 22c013178c2dbeb4dad2e901da855e35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 4}
+    spritePosition: {x: 812, y: 227}
+  - name: Dark Red Chair copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 614
+      width: 447
+      height: 601
+    spriteID: dc09562f726a7ec40b0efe63b1c43b30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 614}
+    spritePosition: {x: 812, y: 227}
+  - name: Dark Red Chair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 952
+      y: 1223
+      width: 447
+      height: 601
+    spriteID: 96b2175a00332e24aa8e257a0451daa5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 952, y: 1223}
+    spritePosition: {x: 812, y: 227}
+  - name: White and gray Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 4
+      width: 447
+      height: 601
+    spriteID: 452de701841f2c44e8a4f9c2e56a391a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 4}
+    spritePosition: {x: 812, y: 227}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Chairs
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ac6fe56eea275ad4c8583f29e7107320
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Left Chair
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 52aeedd058c7ada4da7c82b998d0c241
+    layerID: 14
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Purple Chair Full
+    spriteName: Purple Chair Full
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ce5fd9286d268374e893d687378fd9ab
+    layerID: 16
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Outline Chair
+    spriteName: Left Outline Chair
+    isGroup: 0
+    parentIndex: 1
+    spriteID: cac2bc8bd1ecdfa45b353fcc6db7b828
+    layerID: 13
+    mosaicPosition: {x: 4, y: 639}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Purple Chair Colour Brighter
+    spriteName: Purple Chair Colour Brighter
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 48a0995d640497b46af1ea02d2f8de2d
+    layerID: 12
+    mosaicPosition: {x: 4, y: 1274}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Purple Chair Colour
+    spriteName: Purple Chair Colour
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9fe381caed9c25645a33c2536baf070c
+    layerID: 11
+    mosaicPosition: {x: 479, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White And Gray Base
+    spriteName: White And Gray Base
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0e75068a3ae782044964e5d63c40b9fd
+    layerID: 10
+    mosaicPosition: {x: 479, y: 637}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Chair
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: cf97cc9208a62ad4fbf13af6e61f3f82
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Red Chair Full
+    spriteName: Red Chair Full
+    isGroup: 0
+    parentIndex: 7
+    spriteID: c4fceaf4270c44c4d83000ac7857aea6
+    layerID: 17
+    mosaicPosition: {x: 479, y: 1270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Outline Chair
+    spriteName: Right Outline Chair
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 3138ab384e7634d42a21b4bb1d497ac1
+    layerID: 7
+    mosaicPosition: {x: 952, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dark Red Chair copy
+    spriteName: Dark Red Chair copy
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 8209bc3ef1a449a4287ad61feae265c5
+    layerID: 6
+    mosaicPosition: {x: 952, y: 614}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dark Red Chair
+    spriteName: Dark Red Chair
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 8bb9000e973cc0f47a60c496ae536a2b
+    layerID: 5
+    mosaicPosition: {x: 952, y: 1223}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White and gray Base
+    spriteName: White and gray Base
+    isGroup: 0
+    parentIndex: 7
+    spriteID: f8a7899ca042fdb48af313d349220be4
+    layerID: 4
+    mosaicPosition: {x: 1409, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Chairs
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1a32d95bbc37ffe4abad1bf87326cbcf
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Left Chair
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: d223443d85b4dae4eabf23f6bf916b4c
+    layerID: 14
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Purple Chair Full
+    spriteName: Purple Chair Full
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 97b3c1e2a89a5ff40924273f054cbff0
+    layerID: 16
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Outline Chair
+    spriteName: Left Outline Chair
+    isGroup: 0
+    parentIndex: 1
+    spriteID: a263234249d8653438dcd1a324a76a35
+    layerID: 13
+    mosaicPosition: {x: 4, y: 639}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Purple Chair Colour Brighter
+    spriteName: Purple Chair Colour Brighter
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2b7a9372e9fe2364691d0f1920398f22
+    layerID: 12
+    mosaicPosition: {x: 4, y: 1274}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Purple Chair Colour
+    spriteName: Purple Chair Colour
+    isGroup: 0
+    parentIndex: 1
+    spriteID: f7b0923f685c2794caefe7ce8236b4b9
+    layerID: 11
+    mosaicPosition: {x: 479, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White And Gray Base
+    spriteName: White And Gray Base
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 1fc43ec831d1c3a4a9e6c10d456dd203
+    layerID: 10
+    mosaicPosition: {x: 479, y: 637}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Chair
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: cd65b381e48ba3c4c9daf4293b65c40d
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Red Chair Full
+    spriteName: Red Chair Full
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 4938313a09141684e9d7cd5a18adcdca
+    layerID: 17
+    mosaicPosition: {x: 479, y: 1270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Outline Chair
+    spriteName: Right Outline Chair
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 22c013178c2dbeb4dad2e901da855e35
+    layerID: 7
+    mosaicPosition: {x: 952, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dark Red Chair copy
+    spriteName: Dark Red Chair copy
+    isGroup: 0
+    parentIndex: 7
+    spriteID: dc09562f726a7ec40b0efe63b1c43b30
+    layerID: 6
+    mosaicPosition: {x: 952, y: 614}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dark Red Chair
+    spriteName: Dark Red Chair
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 96b2175a00332e24aa8e257a0451daa5
+    layerID: 5
+    mosaicPosition: {x: 952, y: 1223}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: White and gray Base
+    spriteName: White and gray Base
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 452de701841f2c44e8a4f9c2e56a391a
+    layerID: 4
+    mosaicPosition: {x: 1409, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638517963324127635
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

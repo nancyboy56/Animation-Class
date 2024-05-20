@@ -1,0 +1,2397 @@
+fileFormatVersion: 2
+guid: b5674ae7d1c0f2f42952d5bcddd3bfa6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Bat Motion 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 4
+      width: 747
+      height: 662
+    spriteID: cb0005117752fea4bb5bce0b74b96831
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 4}
+    spritePosition: {x: 249, y: 198}
+  - name: Bat Motion 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 2810
+      width: 636
+      height: 511
+    spriteID: af9d68f943f487948bdb26b1bd1f122d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 2810}
+    spritePosition: {x: 435, y: 208}
+  - name: Bat Motion 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 3135
+      width: 1043
+      height: 388
+    spriteID: e9a7931d109272742b65cffaa2f75aba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 3135}
+    spritePosition: {x: 119, y: 181}
+  - name: Bat Motion 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 3531
+      width: 1006
+      height: 395
+    spriteID: 4160d1dcdaaf44b40b24e8a592295976
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 3531}
+    spritePosition: {x: 184, y: 84}
+  - name: Bat Motion 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2556
+      y: 4
+      width: 836
+      height: 388
+    spriteID: 425c816780356cb4fac45a2af63ed0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2556, y: 4}
+    spritePosition: {x: 355, y: 68}
+  - name: Bat Motion 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 5645
+      width: 594
+      height: 487
+    spriteID: 578eb4469dc99de4ebce1a34afef1308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 5645}
+    spritePosition: {x: 647, y: 163}
+  - name: Bat Motion 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3320
+      width: 606
+      height: 722
+    spriteID: 78bcc2052f1458a458fe75b2aae7c02e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3320}
+    spritePosition: {x: 789, y: 192}
+  - name: Bat Motion 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5510
+      width: 642
+      height: 681
+    spriteID: 49c6dbb358b0dfa4bbb9a2b2de5d389c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5510}
+    spritePosition: {x: 831, y: 240}
+  - name: Bat Motion 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7539
+      width: 604
+      height: 637
+    spriteID: 3c8bc3da83a040e41ba2bd060b6865e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7539}
+    spritePosition: {x: 882, y: 284}
+  - name: Bat Motion 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 6940
+      width: 548
+      height: 622
+    spriteID: f696d02354c7dc64b85bc9168e4b5c43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 6940}
+    spritePosition: {x: 931, y: 294}
+  - name: Bat Motion 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 5251
+      width: 625
+      height: 555
+    spriteID: 1e61e8a49589b0c4db701956804c305d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 5251}
+    spritePosition: {x: 878, y: 259}
+  - name: Bat Motion 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 1602
+      width: 826
+      height: 503
+    spriteID: 6f8400ce433b99e42a0c0ee2e12a3d6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 1602}
+    spritePosition: {x: 694, y: 226}
+  - name: Bat Motion 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 3934
+      width: 846
+      height: 431
+    spriteID: 7354013d6a55f2741bdb901ee7761bd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 3934}
+    spritePosition: {x: 681, y: 213}
+  - name: Bat Motion 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 4367
+      width: 713
+      height: 418
+    spriteID: f2ac4abfe56628e4bbe59cda73df1223
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 4367}
+    spritePosition: {x: 849, y: 201}
+  - name: Bat Motion 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 1304
+      width: 681
+      height: 494
+    spriteID: 19373d95b17cd414cbb1ec84f9798c79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 1304}
+    spritePosition: {x: 1121, y: 233}
+  - name: Bat Flying 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6199
+      width: 589
+      height: 662
+    spriteID: 705a11fe2180dd24282ef6b8cb46ccaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6199}
+    spritePosition: {x: 895, y: 242}
+  - name: Bat Flying 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 3329
+      width: 636
+      height: 511
+    spriteID: 1880ef1b449475145958736371352cf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 3329}
+    spritePosition: {x: 859, y: 236}
+  - name: Bat Flying 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 4
+      width: 1139
+      height: 388
+    spriteID: d34a6dfcac2ba914d9e5e0a0f52bdcd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 4}
+    spritePosition: {x: 429, y: 142}
+  - name: Bat Flying 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 796
+      width: 1106
+      height: 395
+    spriteID: 79865ec01040a73489249e929a3c6422
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 796}
+    spritePosition: {x: 404, y: 102}
+  - name: Bat Flying 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2556
+      y: 400
+      width: 826
+      height: 388
+    spriteID: 368602fe3f1b5e644bd685f673115be6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2556, y: 400}
+    spritePosition: {x: 607, y: 104}
+  - name: Bat Flying 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 6140
+      width: 594
+      height: 487
+    spriteID: 8a5852ef628fb5d4aa34856088ac27ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 6140}
+    spritePosition: {x: 829, y: 125}
+  - name: Bat Flying 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4050
+      width: 606
+      height: 722
+    spriteID: 5874a01d1e962a5449793609c58e6fa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4050}
+    spritePosition: {x: 907, y: 139}
+  - name: Bat Flying 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 642
+      height: 876
+    spriteID: 55f43240fa7094247b3e994c11c2bf3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 909, y: 180}
+  - name: Bat Flying 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1772
+      width: 640
+      height: 766
+    spriteID: 022531a56130d3f4b85d2fd83e14b884
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1772}
+    spritePosition: {x: 908, y: 204}
+  - name: Bat Flying 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1965
+      y: 6940
+      width: 548
+      height: 622
+    spriteID: 1a4816514472aa449a2014e6f16e5fad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1965, y: 6940}
+    spritePosition: {x: 903, y: 208}
+  - name: Bat Flying 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 5814
+      width: 625
+      height: 555
+    spriteID: 4832389c577e5384dae75afa0c0c6500
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 5814}
+    spritePosition: {x: 812, y: 159}
+  - name: Bat Flying 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 2113
+      width: 826
+      height: 503
+    spriteID: 00056e476e824f64dac5ac01e41badf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 2113}
+    spritePosition: {x: 561, y: 79}
+  - name: Bat Flying 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 4373
+      width: 846
+      height: 431
+    spriteID: 7f6e48833933dbf4cb5c1340f819740d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 4373}
+    spritePosition: {x: 519, y: 73}
+  - name: Bat Flying 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 4793
+      width: 713
+      height: 418
+    spriteID: fde4a52f97c91a14e9050e833caed42c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 4793}
+    spritePosition: {x: 653, y: 83}
+  - name: Bat Flying 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 1806
+      width: 681
+      height: 494
+    spriteID: 22ca00c37f9cac44988db529c399af68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 1806}
+    spritePosition: {x: 875, y: 93}
+  - name: Bat Red Eye 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6869
+      width: 589
+      height: 662
+    spriteID: 327d1d3ae6df4b7409801920f9d74a95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6869}
+    spritePosition: {x: 895, y: 242}
+  - name: Bat Red Eye 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 3848
+      width: 636
+      height: 511
+    spriteID: 62afa11c7252de4439f2c442db73d3c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 3848}
+    spritePosition: {x: 859, y: 236}
+  - name: Bat Red Eye 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 400
+      width: 1139
+      height: 388
+    spriteID: 4ed0de31759a85249bead03e27260c28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 400}
+    spritePosition: {x: 429, y: 142}
+  - name: Bat Red Eye 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 1199
+      width: 1106
+      height: 395
+    spriteID: 065c1705ce75d2a4b87d6a24674e5956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 1199}
+    spritePosition: {x: 404, y: 102}
+  - name: Bat Red Eye 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2556
+      y: 796
+      width: 826
+      height: 388
+    spriteID: fd0eadc3b2fe03842829ed9bbf20492d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2556, y: 796}
+    spritePosition: {x: 607, y: 104}
+  - name: Bat Red Eye 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 6635
+      width: 594
+      height: 487
+    spriteID: a59981ae831d26749a5833d38bd19d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 6635}
+    spritePosition: {x: 829, y: 125}
+  - name: Bat Red Eye 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4780
+      width: 606
+      height: 722
+    spriteID: 257d5e8d6cb27f345a3444d07a2dfb7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4780}
+    spritePosition: {x: 907, y: 139}
+  - name: Bat Red Eye 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 888
+      width: 642
+      height: 876
+    spriteID: 2f649779f4ee91740bf0b4be89ff6612
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 888}
+    spritePosition: {x: 909, y: 180}
+  - name: Bat Red Eye 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2546
+      width: 640
+      height: 766
+    spriteID: 503b00c1f7a10bb449b790582beaa80b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2546}
+    spritePosition: {x: 908, y: 204}
+  - name: Bat Red Eye 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 674
+      width: 548
+      height: 622
+    spriteID: ca8484d8d83f9a44db50bea6f0ed75bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 674}
+    spritePosition: {x: 903, y: 208}
+  - name: Bat Red Eye 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 6377
+      width: 625
+      height: 555
+    spriteID: d15d3bfd12988c444ad5b7b6619bbf80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 6377}
+    spritePosition: {x: 812, y: 159}
+  - name: Bat Red Eye 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 2624
+      width: 826
+      height: 503
+    spriteID: 71f700c136c2be54eb9bf06a70956e35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 2624}
+    spritePosition: {x: 561, y: 79}
+  - name: Bat Red Eye 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1409
+      y: 4812
+      width: 846
+      height: 431
+    spriteID: b665ed22e87c46e428b9d8125a932303
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1409, y: 4812}
+    spritePosition: {x: 519, y: 73}
+  - name: Bat Red Eye 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 5219
+      width: 713
+      height: 418
+    spriteID: 52b432682d5f5bd44beb7c36f0bb4ce2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 5219}
+    spritePosition: {x: 653, y: 83}
+  - name: Bat Red Eye 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 2308
+      width: 681
+      height: 494
+    spriteID: 317a01471a7a19a41a3236e944a4557c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 654, y: 2308}
+    spritePosition: {x: 875, y: 93}
+  rigSpriteImportData:
+  - name: Bat 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 747
+      height: 662
+    spriteID: 2f9583cbc4df12f4883abbde584ce309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 249, y: 198}
+  - name: Bat 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 2255
+      width: 636
+      height: 511
+    spriteID: b994282e63a1b3b45870ffe4c6a49a2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 2255}
+    spritePosition: {x: 435, y: 208}
+  - name: Bat 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 515
+      width: 1043
+      height: 388
+    spriteID: 7fd910690cc5f984e9d6b6bf4cbb6541
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 515}
+    spritePosition: {x: 119, y: 181}
+  - name: Bat 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 911
+      width: 1006
+      height: 395
+    spriteID: c73ca80ebbf8020459d4cc9bbd9c4352
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 911}
+    spritePosition: {x: 184, y: 84}
+  - name: Bat 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 2774
+      width: 836
+      height: 388
+    spriteID: d2dc2fb7cc8e51c4d85ce63cf7f761f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 2774}
+    spritePosition: {x: 355, y: 68}
+  - name: Bat 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1448
+      y: 1753
+      width: 594
+      height: 487
+    spriteID: 2e0432f0be2597e458defd55bad41d8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1448, y: 1753}
+    spritePosition: {x: 647, y: 163}
+  - name: Bat 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 674
+      width: 606
+      height: 722
+    spriteID: c3330e70530f3c3498f9c166f04ae746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 674}
+    spritePosition: {x: 789, y: 192}
+  - name: Bat 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1404
+      width: 642
+      height: 681
+    spriteID: 005133f2765291d48bd57af4dca5379e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1404}
+    spritePosition: {x: 831, y: 240}
+  - name: Bat 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2093
+      width: 604
+      height: 637
+    spriteID: 8ae0cc071c5d36d4183c98bf9ad97d6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2093}
+    spritePosition: {x: 882, y: 284}
+  - name: Bat 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3301
+      width: 548
+      height: 622
+    spriteID: f76c0af3ea2ca564996adaf3bcdc09f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3301}
+    spritePosition: {x: 931, y: 294}
+  - name: Bat 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2738
+      width: 625
+      height: 555
+    spriteID: 2c06e515c9c737043840b8c935f771e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2738}
+    spritePosition: {x: 878, y: 259}
+  - name: Bat 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 4
+      width: 826
+      height: 503
+    spriteID: 0c933a819480726458132c8a0272c86d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 4}
+    spritePosition: {x: 694, y: 226}
+  - name: Bat 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 1314
+      width: 846
+      height: 431
+    spriteID: a9fe9f2583a134f4ab06f22eff254fa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 1314}
+    spritePosition: {x: 681, y: 213}
+  - name: Bat 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 3170
+      width: 713
+      height: 418
+    spriteID: cb4e2692cadb8bc4e9b1f2a900de324c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 3170}
+    spritePosition: {x: 849, y: 201}
+  - name: Bat 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 1753
+      width: 681
+      height: 494
+    spriteID: 1f0f1f1eef4b13b45b23c557dad83908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 759, y: 1753}
+    spritePosition: {x: 1121, y: 233}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Bat Motion
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 2f58bf7472733304a960354363b98cf3
+    layerID: 70
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat Motion 15
+    spriteName: Bat Motion 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cb0005117752fea4bb5bce0b74b96831
+    layerID: 69
+    mosaicPosition: {x: 654, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 14
+    spriteName: Bat Motion 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: af9d68f943f487948bdb26b1bd1f122d
+    layerID: 68
+    mosaicPosition: {x: 654, y: 2810}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 13
+    spriteName: Bat Motion 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e9a7931d109272742b65cffaa2f75aba
+    layerID: 67
+    mosaicPosition: {x: 1409, y: 3135}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 12
+    spriteName: Bat Motion 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4160d1dcdaaf44b40b24e8a592295976
+    layerID: 66
+    mosaicPosition: {x: 1409, y: 3531}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 11
+    spriteName: Bat Motion 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 425c816780356cb4fac45a2af63ed0ef
+    layerID: 65
+    mosaicPosition: {x: 2556, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 10
+    spriteName: Bat Motion 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 578eb4469dc99de4ebce1a34afef1308
+    layerID: 64
+    mosaicPosition: {x: 654, y: 5645}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 9
+    spriteName: Bat Motion 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 78bcc2052f1458a458fe75b2aae7c02e
+    layerID: 63
+    mosaicPosition: {x: 4, y: 3320}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 8
+    spriteName: Bat Motion 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 49c6dbb358b0dfa4bbb9a2b2de5d389c
+    layerID: 62
+    mosaicPosition: {x: 4, y: 5510}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 7
+    spriteName: Bat Motion 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3c8bc3da83a040e41ba2bd060b6865e9
+    layerID: 61
+    mosaicPosition: {x: 4, y: 7539}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 6
+    spriteName: Bat Motion 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f696d02354c7dc64b85bc9168e4b5c43
+    layerID: 60
+    mosaicPosition: {x: 1409, y: 6940}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 5
+    spriteName: Bat Motion 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1e61e8a49589b0c4db701956804c305d
+    layerID: 59
+    mosaicPosition: {x: 1409, y: 5251}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 4
+    spriteName: Bat Motion 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6f8400ce433b99e42a0c0ee2e12a3d6f
+    layerID: 58
+    mosaicPosition: {x: 1409, y: 1602}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 3
+    spriteName: Bat Motion 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7354013d6a55f2741bdb901ee7761bd6
+    layerID: 57
+    mosaicPosition: {x: 1409, y: 3934}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 2
+    spriteName: Bat Motion 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f2ac4abfe56628e4bbe59cda73df1223
+    layerID: 56
+    mosaicPosition: {x: 654, y: 4367}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Motion 1
+    spriteName: Bat Motion 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 19373d95b17cd414cbb1ec84f9798c79
+    layerID: 55
+    mosaicPosition: {x: 654, y: 1304}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6c94321c149587442bdbe113ff842b61
+    layerID: 53
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bat Flying 15
+    spriteName: Bat Flying 15
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 705a11fe2180dd24282ef6b8cb46ccaa
+    layerID: 52
+    mosaicPosition: {x: 4, y: 6199}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 14
+    spriteName: Bat Flying 14
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 1880ef1b449475145958736371352cf3
+    layerID: 51
+    mosaicPosition: {x: 654, y: 3329}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 13
+    spriteName: Bat Flying 13
+    isGroup: 0
+    parentIndex: 16
+    spriteID: d34a6dfcac2ba914d9e5e0a0f52bdcd6
+    layerID: 50
+    mosaicPosition: {x: 1409, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 12
+    spriteName: Bat Flying 12
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 79865ec01040a73489249e929a3c6422
+    layerID: 49
+    mosaicPosition: {x: 1409, y: 796}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 11
+    spriteName: Bat Flying 11
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 368602fe3f1b5e644bd685f673115be6
+    layerID: 48
+    mosaicPosition: {x: 2556, y: 400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 10
+    spriteName: Bat Flying 10
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 8a5852ef628fb5d4aa34856088ac27ed
+    layerID: 47
+    mosaicPosition: {x: 654, y: 6140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 9
+    spriteName: Bat Flying 9
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 5874a01d1e962a5449793609c58e6fa6
+    layerID: 46
+    mosaicPosition: {x: 4, y: 4050}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 8
+    spriteName: Bat Flying 8
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 55f43240fa7094247b3e994c11c2bf3a
+    layerID: 45
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 7
+    spriteName: Bat Flying 7
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 022531a56130d3f4b85d2fd83e14b884
+    layerID: 44
+    mosaicPosition: {x: 4, y: 1772}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 6
+    spriteName: Bat Flying 6
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 1a4816514472aa449a2014e6f16e5fad
+    layerID: 43
+    mosaicPosition: {x: 1965, y: 6940}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 5
+    spriteName: Bat Flying 5
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4832389c577e5384dae75afa0c0c6500
+    layerID: 42
+    mosaicPosition: {x: 1409, y: 5814}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 4
+    spriteName: Bat Flying 4
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 00056e476e824f64dac5ac01e41badf2
+    layerID: 41
+    mosaicPosition: {x: 1409, y: 2113}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 3
+    spriteName: Bat Flying 3
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 7f6e48833933dbf4cb5c1340f819740d
+    layerID: 40
+    mosaicPosition: {x: 1409, y: 4373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 2
+    spriteName: Bat Flying 2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: fde4a52f97c91a14e9050e833caed42c
+    layerID: 39
+    mosaicPosition: {x: 654, y: 4793}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying 1
+    spriteName: Bat Flying 1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 22ca00c37f9cac44988db529c399af68
+    layerID: 38
+    mosaicPosition: {x: 654, y: 1806}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cc7a1beac596a7b45afe55519974d4c9
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bat Red Eye 15
+    spriteName: Bat Red Eye 15
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 327d1d3ae6df4b7409801920f9d74a95
+    layerID: 35
+    mosaicPosition: {x: 4, y: 6869}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 14
+    spriteName: Bat Red Eye 14
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 62afa11c7252de4439f2c442db73d3c1
+    layerID: 34
+    mosaicPosition: {x: 654, y: 3848}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 13
+    spriteName: Bat Red Eye 13
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 4ed0de31759a85249bead03e27260c28
+    layerID: 33
+    mosaicPosition: {x: 1409, y: 400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 12
+    spriteName: Bat Red Eye 12
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 065c1705ce75d2a4b87d6a24674e5956
+    layerID: 32
+    mosaicPosition: {x: 1409, y: 1199}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 11
+    spriteName: Bat Red Eye 11
+    isGroup: 0
+    parentIndex: 32
+    spriteID: fd0eadc3b2fe03842829ed9bbf20492d
+    layerID: 31
+    mosaicPosition: {x: 2556, y: 796}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 10
+    spriteName: Bat Red Eye 10
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a59981ae831d26749a5833d38bd19d8c
+    layerID: 30
+    mosaicPosition: {x: 654, y: 6635}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 9
+    spriteName: Bat Red Eye 9
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 257d5e8d6cb27f345a3444d07a2dfb7c
+    layerID: 29
+    mosaicPosition: {x: 4, y: 4780}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 8
+    spriteName: Bat Red Eye 8
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 2f649779f4ee91740bf0b4be89ff6612
+    layerID: 28
+    mosaicPosition: {x: 4, y: 888}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 7
+    spriteName: Bat Red Eye 7
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 503b00c1f7a10bb449b790582beaa80b
+    layerID: 27
+    mosaicPosition: {x: 4, y: 2546}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 6
+    spriteName: Bat Red Eye 6
+    isGroup: 0
+    parentIndex: 32
+    spriteID: ca8484d8d83f9a44db50bea6f0ed75bf
+    layerID: 26
+    mosaicPosition: {x: 654, y: 674}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 5
+    spriteName: Bat Red Eye 5
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d15d3bfd12988c444ad5b7b6619bbf80
+    layerID: 25
+    mosaicPosition: {x: 1409, y: 6377}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 4
+    spriteName: Bat Red Eye 4
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 71f700c136c2be54eb9bf06a70956e35
+    layerID: 24
+    mosaicPosition: {x: 1409, y: 2624}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 3
+    spriteName: Bat Red Eye 3
+    isGroup: 0
+    parentIndex: 32
+    spriteID: b665ed22e87c46e428b9d8125a932303
+    layerID: 23
+    mosaicPosition: {x: 1409, y: 4812}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 2
+    spriteName: Bat Red Eye 2
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 52b432682d5f5bd44beb7c36f0bb4ce2
+    layerID: 22
+    mosaicPosition: {x: 654, y: 5219}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Red Eye 1
+    spriteName: Bat Red Eye 1
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 317a01471a7a19a41a3236e944a4557c
+    layerID: 21
+    mosaicPosition: {x: 654, y: 2308}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Bat Motion
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 166644238bcc96f46b7b2775158fc4bd
+    layerID: 70
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 15
+    spriteName: Bat 15
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2f9583cbc4df12f4883abbde584ce309
+    layerID: 69
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 14
+    spriteName: Bat 14
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b994282e63a1b3b45870ffe4c6a49a2e
+    layerID: 68
+    mosaicPosition: {x: 759, y: 2255}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 13
+    spriteName: Bat 13
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7fd910690cc5f984e9d6b6bf4cbb6541
+    layerID: 67
+    mosaicPosition: {x: 759, y: 515}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 12
+    spriteName: Bat 12
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c73ca80ebbf8020459d4cc9bbd9c4352
+    layerID: 66
+    mosaicPosition: {x: 759, y: 911}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 11
+    spriteName: Bat 11
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d2dc2fb7cc8e51c4d85ce63cf7f761f2
+    layerID: 65
+    mosaicPosition: {x: 759, y: 2774}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 10
+    spriteName: Bat 10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2e0432f0be2597e458defd55bad41d8f
+    layerID: 64
+    mosaicPosition: {x: 1448, y: 1753}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 9
+    spriteName: Bat 9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c3330e70530f3c3498f9c166f04ae746
+    layerID: 63
+    mosaicPosition: {x: 4, y: 674}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 8
+    spriteName: Bat 8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 005133f2765291d48bd57af4dca5379e
+    layerID: 62
+    mosaicPosition: {x: 4, y: 1404}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 7
+    spriteName: Bat 7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8ae0cc071c5d36d4183c98bf9ad97d6e
+    layerID: 61
+    mosaicPosition: {x: 4, y: 2093}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 6
+    spriteName: Bat 6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f76c0af3ea2ca564996adaf3bcdc09f6
+    layerID: 60
+    mosaicPosition: {x: 4, y: 3301}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 5
+    spriteName: Bat 5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2c06e515c9c737043840b8c935f771e6
+    layerID: 59
+    mosaicPosition: {x: 4, y: 2738}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 4
+    spriteName: Bat 4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0c933a819480726458132c8a0272c86d
+    layerID: 58
+    mosaicPosition: {x: 759, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 3
+    spriteName: Bat 3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9fe9f2583a134f4ab06f22eff254fa6
+    layerID: 57
+    mosaicPosition: {x: 759, y: 1314}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 2
+    spriteName: Bat 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cb4e2692cadb8bc4e9b1f2a900de324c
+    layerID: 56
+    mosaicPosition: {x: 759, y: 3170}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat 1
+    spriteName: Bat 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1f0f1f1eef4b13b45b23c557dad83908
+    layerID: 55
+    mosaicPosition: {x: 759, y: 1753}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bat Flying
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 64f16d77cf5f9d54092007290e640981
+    layerID: 53
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bat 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 43377c24e22b1464fa68be04954684b1
+    layerID: 52
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ca4470092ec5495449b9286627f3a2d3
+    layerID: 51
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: aa5f20b38ee7e03419ca39a8e2d10bef
+    layerID: 50
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 44855d7bc8b30ac40ae193a0cbbb550b
+    layerID: 49
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 7878c64b10b7ef2479b8da83613fc3e4
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: bf55442776ad3b54e9e7c7809be23066
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ee3db033dd37bd94da7542785eece4d4
+    layerID: 46
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 439693f6aac8b0e49b9644fd0324fc4a
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 5b1830f8b415e1e4584f00e460ecadbf
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 53a5bcc9d686bfb41a1affde541c0222
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 42c247ed423f53e44b2f848669a6fd42
+    layerID: 42
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: b5f44a142370d964caf915ed8b2d100e
+    layerID: 41
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: a7c446c97412dd54ba1d4849442bc216
+    layerID: 40
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ac4b1eb068a19014a90d9bb3066a3acb
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 16
+    spriteID: f28d7295c66ba114ea3cadb7ae9519fd
+    layerID: 38
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bat Red Eye
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: fe1aaa0e132b6354bb07d5596152a95f
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d1d128d27ab47d94396c71fb28b97747
+    layerID: 35
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 3d82290652c88d543b39f0a025c24f24
+    layerID: 34
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 14e6d7d21f653b24b9781ab96aaa16b6
+    layerID: 33
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 33c865d78a307d64bb19605cdb227f2d
+    layerID: 32
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: c90c031e40c7ecd4f8bbbb2afe422b27
+    layerID: 31
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 0a8a9634d17cf184c88766da0a189a4b
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 46729cb8a62a84b4f86a52e8502f0dce
+    layerID: 29
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 204ceb66749877d4fad12f8d6fdf9de4
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: d584bc5939030864db81f05f409f7056
+    layerID: 27
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 980bc829b5415ab4b98b826ee01945ab
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: e1e5bf90fd510eb49b2e9329762d15dd
+    layerID: 25
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: a17e0c77df4c64c4bb7f1de51f67c0b4
+    layerID: 24
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 12b596933e9e5534bbca95e92f75dda1
+    layerID: 23
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 38fc4f2958b8bdc4ba693957a84bcda5
+    layerID: 22
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 32
+    spriteID: 59104fc6c2d4bfc46a1264954e1a0b82
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

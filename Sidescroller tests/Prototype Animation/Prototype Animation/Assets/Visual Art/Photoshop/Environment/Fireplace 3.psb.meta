@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 6a40e9425bedb7a48abbcf72f8eccdc3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Fire Place v1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1473
+      width: 1920
+      height: 1198
+    spriteID: 3164e20c2001a594eb99843b805c0570
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1473}
+    spritePosition: {x: 0, y: 174}
+  - name: Bricks Fireplace
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1135
+      width: 1548
+      height: 1093
+    spriteID: 4c359b84b458f7948a254b518375daef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1135}
+    spritePosition: {x: 142, y: 178}
+  - name: Wood Outline
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3277
+      y: 2791
+      width: 504
+      height: 204
+    spriteID: 562f24cb48c6a674a97f43aa262d63cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3277, y: 2791}
+    spritePosition: {x: 684, y: 244}
+  - name: Fire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3277
+      y: 2236
+      width: 689
+      height: 547
+    spriteID: 69dc58cf4f359224d948b84b7515367e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3277, y: 2236}
+    spritePosition: {x: 636, y: 242}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6464
+      width: 1663
+      height: 1164
+    spriteID: 08019ff1e6c0d4d47a4a52ca2d1fa1b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6464}
+    spritePosition: {x: 130, y: 199}
+  - name: Fireplace Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5270
+      width: 1693
+      height: 1186
+    spriteID: 16caf2b3b2e80fd4887788d6c2c6a4e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5270}
+    spritePosition: {x: 114, y: 179}
+  - name: Colours
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4064
+      width: 1704
+      height: 1198
+    spriteID: d747f167dd5c8c14d991242134075457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4064}
+    spritePosition: {x: 107, y: 174}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3311
+      width: 1126
+      height: 940
+    spriteID: 4ea9e627e8262a245b92d82748e3cf06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1930, y: 3311}
+    spritePosition: {x: 400, y: 0}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2236
+      width: 1337
+      height: 1067
+    spriteID: 3e330219dd80a614284641cdf3649799
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1930, y: 2236}
+    spritePosition: {x: 292, y: 0}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1707
+      height: 1123
+    spriteID: 398628c2fb40efe419296b64e08b80ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 109, y: 171}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2679
+      width: 1596
+      height: 1377
+    spriteID: f1b69edca0da29047ac4224b9fac42fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2679}
+    spritePosition: {x: 247, y: 84}
+  - name: Ground Line
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7636
+      width: 1920
+      height: 22
+    spriteID: 850a21d4d71a4dd4a90e6b8df565a1eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7636}
+    spritePosition: {x: 0, y: 181}
+  - name: Layer 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1461
+    spriteID: ea63ab6bcad032f438eb6f439084fd60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: Fire Place v1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1473
+      width: 1920
+      height: 1198
+    spriteID: 951c759bddfce4b40b12400388e541d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1473}
+    spritePosition: {x: 0, y: 174}
+  - name: Bricks Fireplace
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1135
+      width: 1548
+      height: 1093
+    spriteID: 153823d276a7fb444985ff2242796421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1135}
+    spritePosition: {x: 142, y: 178}
+  - name: Wood Outline
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3277
+      y: 2791
+      width: 504
+      height: 204
+    spriteID: 9f5095099bad57a41b16a372e1ba70f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3277, y: 2791}
+    spritePosition: {x: 684, y: 244}
+  - name: Fire
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3277
+      y: 2236
+      width: 689
+      height: 547
+    spriteID: 24f762eebcc8c0742b438d0760f43843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3277, y: 2236}
+    spritePosition: {x: 636, y: 242}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6464
+      width: 1663
+      height: 1164
+    spriteID: f79f4b78762a0064999d373b6d9eb75e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6464}
+    spritePosition: {x: 130, y: 199}
+  - name: Fireplace Box
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5270
+      width: 1693
+      height: 1186
+    spriteID: b0bd88b40ef2e934c8e3647c6fa2cd33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5270}
+    spritePosition: {x: 114, y: 179}
+  - name: Colours
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4064
+      width: 1704
+      height: 1198
+    spriteID: 7fa254be4e332524bba6782de0bed7df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4064}
+    spritePosition: {x: 107, y: 174}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3311
+      width: 1126
+      height: 940
+    spriteID: 4e818d6e366c2de49baaa8760ede29de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1930, y: 3311}
+    spritePosition: {x: 400, y: 0}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2236
+      width: 1337
+      height: 1067
+    spriteID: 1b526e9071eed724899784af31853850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1930, y: 2236}
+    spritePosition: {x: 292, y: 0}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1707
+      height: 1123
+    spriteID: 1c915406d752bdb4e8d2dcee3b6f4269
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 109, y: 171}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2679
+      width: 1596
+      height: 1377
+    spriteID: 18a3811c7dd689b42bfa628276ce0ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2679}
+    spritePosition: {x: 247, y: 84}
+  - name: Ground Line
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7636
+      width: 1920
+      height: 22
+    spriteID: 67ed2c39828382c499b60cce6aef84c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7636}
+    spritePosition: {x: 0, y: 181}
+  - name: Layer 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1461
+    spriteID: af2afff169078fa468fc8e55d64c1134
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Fire Place v1
+    spriteName: Fire Place v1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3164e20c2001a594eb99843b805c0570
+    layerID: 23
+    mosaicPosition: {x: 4, y: 1473}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bricks Fireplace
+    spriteName: Bricks Fireplace
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c359b84b458f7948a254b518375daef
+    layerID: 17
+    mosaicPosition: {x: 1932, y: 1135}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wood Outline
+    spriteName: Wood Outline
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 562f24cb48c6a674a97f43aa262d63cb
+    layerID: 20
+    mosaicPosition: {x: 3277, y: 2791}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fire
+    spriteName: Fire
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 69dc58cf4f359224d948b84b7515367e
+    layerID: 14
+    mosaicPosition: {x: 3277, y: 2236}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 08019ff1e6c0d4d47a4a52ca2d1fa1b8
+    layerID: 19
+    mosaicPosition: {x: 4, y: 6464}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fireplace Box
+    spriteName: Fireplace Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 16caf2b3b2e80fd4887788d6c2c6a4e7
+    layerID: 15
+    mosaicPosition: {x: 4, y: 5270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Colours
+    spriteName: Colours
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d747f167dd5c8c14d991242134075457
+    layerID: 18
+    mosaicPosition: {x: 4, y: 4064}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: References
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8bdfad025b56e014cb6eae9e91855214
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 4ea9e627e8262a245b92d82748e3cf06
+    layerID: 13
+    mosaicPosition: {x: 1932, y: 3311}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 3e330219dd80a614284641cdf3649799
+    layerID: 11
+    mosaicPosition: {x: 1932, y: 2236}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 398628c2fb40efe419296b64e08b80ac
+    layerID: 2
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: f1b69edca0da29047ac4224b9fac42fa
+    layerID: 10
+    mosaicPosition: {x: 4, y: 2679}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Ground Line
+    spriteName: Ground Line
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 850a21d4d71a4dd4a90e6b8df565a1eb
+    layerID: 4
+    mosaicPosition: {x: 4, y: 7636}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 0
+    spriteName: Layer 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea63ab6bcad032f438eb6f439084fd60
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  rigPSDLayers:
+  - name: Fire Place v1
+    spriteName: Fire Place v1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 951c759bddfce4b40b12400388e541d6
+    layerID: 23
+    mosaicPosition: {x: 4, y: 1473}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bricks Fireplace
+    spriteName: Bricks Fireplace
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 153823d276a7fb444985ff2242796421
+    layerID: 17
+    mosaicPosition: {x: 1932, y: 1135}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wood Outline
+    spriteName: Wood Outline
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9f5095099bad57a41b16a372e1ba70f2
+    layerID: 20
+    mosaicPosition: {x: 3277, y: 2791}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fire
+    spriteName: Fire
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 24f762eebcc8c0742b438d0760f43843
+    layerID: 14
+    mosaicPosition: {x: 3277, y: 2236}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f79f4b78762a0064999d373b6d9eb75e
+    layerID: 19
+    mosaicPosition: {x: 4, y: 6464}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fireplace Box
+    spriteName: Fireplace Box
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b0bd88b40ef2e934c8e3647c6fa2cd33
+    layerID: 15
+    mosaicPosition: {x: 4, y: 5270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Colours
+    spriteName: Colours
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7fa254be4e332524bba6782de0bed7df
+    layerID: 18
+    mosaicPosition: {x: 4, y: 4064}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: References
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 362dc28055c1b274bbc68f7062a8f0a0
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 4e818d6e366c2de49baaa8760ede29de
+    layerID: 13
+    mosaicPosition: {x: 1932, y: 3311}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1b526e9071eed724899784af31853850
+    layerID: 11
+    mosaicPosition: {x: 1932, y: 2236}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1c915406d752bdb4e8d2dcee3b6f4269
+    layerID: 2
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 18a3811c7dd689b42bfa628276ce0ffe
+    layerID: 10
+    mosaicPosition: {x: 4, y: 2679}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Ground Line
+    spriteName: Ground Line
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 67ed2c39828382c499b60cce6aef84c3
+    layerID: 4
+    mosaicPosition: {x: 4, y: 7636}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 0
+    spriteName: Layer 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af2afff169078fa468fc8e55d64c1134
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638517963791108153
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

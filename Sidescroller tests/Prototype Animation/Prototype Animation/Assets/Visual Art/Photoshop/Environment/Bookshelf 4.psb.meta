@@ -513,7 +513,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 366, y: 2980}
     spritePosition: {x: 701, y: 421}
-  - name: Layer 10
+  - name: Orb 20
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -534,7 +534,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 207, y: 3598}
     spritePosition: {x: 1261, y: 757}
-  - name: Layer 9
+  - name: Orb 19
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -555,7 +555,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 827, y: 3389}
     spritePosition: {x: 1258, y: 761}
-  - name: Layer 8
+  - name: Orb 18
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -576,7 +576,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3389}
     spritePosition: {x: 1260, y: 753}
-  - name: Layer 7
+  - name: Orb 17
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -597,7 +597,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 1031, y: 3389}
     spritePosition: {x: 1261, y: 758}
-  - name: Layer 6
+  - name: Orb 16
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -618,7 +618,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 624, y: 3389}
     spritePosition: {x: 1264, y: 760}
-  - name: Layer 5
+  - name: Orb 15
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -639,7 +639,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3801}
     spritePosition: {x: 1266, y: 767}
-  - name: Layer 4
+  - name: Orb 14
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -660,7 +660,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 1237, y: 3389}
     spritePosition: {x: 1268, y: 758}
-  - name: Layer 3
+  - name: Orb 13
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -681,7 +681,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 1308, y: 3176}
     spritePosition: {x: 1261, y: 754}
-  - name: Layer 2
+  - name: Orb 12
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -702,7 +702,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 412, y: 3598}
     spritePosition: {x: 1263, y: 761}
-  - name: Layer 1
+  - name: Orb 11
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -723,7 +723,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 1074, y: 2980}
     spritePosition: {x: 1261, y: 769}
-  - name: Orb Outline 10
+  - name: Orb 10
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -744,7 +744,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 207, y: 3389}
     spritePosition: {x: 1256, y: 767}
-  - name: Orb Outline 9
+  - name: Orb 9
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -765,7 +765,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 234, y: 3176}
     spritePosition: {x: 1255, y: 757}
-  - name: Orb Outline 8
+  - name: Orb 8
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -786,7 +786,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 416, y: 3389}
     spritePosition: {x: 1263, y: 767}
-  - name: Orb Outline 7
+  - name: Orb 7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -807,7 +807,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 668, y: 3176}
     spritePosition: {x: 1252, y: 747}
-  - name: Orb Outline 6
+  - name: Orb 6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -828,7 +828,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3176}
     spritePosition: {x: 1256, y: 751}
-  - name: Orb Outline 5
+  - name: Orb 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -849,7 +849,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 1277, y: 2980}
     spritePosition: {x: 1258, y: 768}
-  - name: Orb Outline 4
+  - name: Orb 4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -870,7 +870,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 880, y: 3176}
     spritePosition: {x: 1253, y: 753}
-  - name: Orb Outline 3
+  - name: Orb 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -891,7 +891,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 456, y: 3176}
     spritePosition: {x: 1254, y: 759}
-  - name: Orb Outline 2
+  - name: Orb 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -912,7 +912,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3598}
     spritePosition: {x: 1259, y: 761}
-  - name: Orb Outline 1
+  - name: Orb 1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -2127,8 +2127,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 0
     isVisible: 1
-  - name: Layer 10
-    spriteName: Layer 10
+  - name: Orb 20
+    spriteName: Orb 20
     isGroup: 0
     parentIndex: 22
     spriteID: 1503efbda24c978438ecadb7791edee2
@@ -2137,8 +2137,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 9
-    spriteName: Layer 9
+  - name: Orb 19
+    spriteName: Orb 19
     isGroup: 0
     parentIndex: 22
     spriteID: d80117ad8d1b6014993b72b82f315e85
@@ -2147,8 +2147,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 8
-    spriteName: Layer 8
+  - name: Orb 18
+    spriteName: Orb 18
     isGroup: 0
     parentIndex: 22
     spriteID: a16bc1b599ffe8544be1b69e5e4957ad
@@ -2157,8 +2157,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 7
-    spriteName: Layer 7
+  - name: Orb 17
+    spriteName: Orb 17
     isGroup: 0
     parentIndex: 22
     spriteID: 15782b2afb824a54f8650b99e9e42b79
@@ -2167,8 +2167,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 6
-    spriteName: Layer 6
+  - name: Orb 16
+    spriteName: Orb 16
     isGroup: 0
     parentIndex: 22
     spriteID: 7960041430700c747990b9a95e5f7fcf
@@ -2177,8 +2177,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 5
-    spriteName: Layer 5
+  - name: Orb 15
+    spriteName: Orb 15
     isGroup: 0
     parentIndex: 22
     spriteID: a56363a328fa48d46b27edc4d532e422
@@ -2187,8 +2187,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 4
-    spriteName: Layer 4
+  - name: Orb 14
+    spriteName: Orb 14
     isGroup: 0
     parentIndex: 22
     spriteID: 7f9b4a8d7bc32fa498c50b61e33c4726
@@ -2197,8 +2197,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 3
-    spriteName: Layer 3
+  - name: Orb 13
+    spriteName: Orb 13
     isGroup: 0
     parentIndex: 22
     spriteID: 3c23261f35322e94da1bbea3daf52f2b
@@ -2207,8 +2207,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 2
-    spriteName: Layer 2
+  - name: Orb 12
+    spriteName: Orb 12
     isGroup: 0
     parentIndex: 22
     spriteID: 2ffbfd0a3ce5b3545a5f13e5e3118a23
@@ -2217,8 +2217,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer 1
-    spriteName: Layer 1
+  - name: Orb 11
+    spriteName: Orb 11
     isGroup: 0
     parentIndex: 22
     spriteID: 058fc604da75e2a48805b278da7713a3
@@ -2227,8 +2227,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 10
-    spriteName: Orb Outline 10
+  - name: Orb 10
+    spriteName: Orb 10
     isGroup: 0
     parentIndex: 22
     spriteID: dba3ba22bdb4b4d44a2a0cb81c8821da
@@ -2237,8 +2237,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 9
-    spriteName: Orb Outline 9
+  - name: Orb 9
+    spriteName: Orb 9
     isGroup: 0
     parentIndex: 22
     spriteID: 93cc0674d4c61c4429fe9578e8aa4d1c
@@ -2247,8 +2247,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 8
-    spriteName: Orb Outline 8
+  - name: Orb 8
+    spriteName: Orb 8
     isGroup: 0
     parentIndex: 22
     spriteID: 9bfff15df71c6304f8150effd4496f63
@@ -2257,8 +2257,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 7
-    spriteName: Orb Outline 7
+  - name: Orb 7
+    spriteName: Orb 7
     isGroup: 0
     parentIndex: 22
     spriteID: fbd3b3fac876e524cb01b42f5e2524f6
@@ -2267,8 +2267,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 6
-    spriteName: Orb Outline 6
+  - name: Orb 6
+    spriteName: Orb 6
     isGroup: 0
     parentIndex: 22
     spriteID: 6975e371204181744ac7b19331026344
@@ -2277,8 +2277,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 5
-    spriteName: Orb Outline 5
+  - name: Orb 5
+    spriteName: Orb 5
     isGroup: 0
     parentIndex: 22
     spriteID: 5d1da2895a64c0e4f8e18f9fd40b47d8
@@ -2287,8 +2287,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 4
-    spriteName: Orb Outline 4
+  - name: Orb 4
+    spriteName: Orb 4
     isGroup: 0
     parentIndex: 22
     spriteID: 646c4a61fdde1e44e90cc7a51dba542d
@@ -2297,8 +2297,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 3
-    spriteName: Orb Outline 3
+  - name: Orb 3
+    spriteName: Orb 3
     isGroup: 0
     parentIndex: 22
     spriteID: 7d64eb74abd358c429244f187ec0868d
@@ -2307,8 +2307,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 2
-    spriteName: Orb Outline 2
+  - name: Orb 2
+    spriteName: Orb 2
     isGroup: 0
     parentIndex: 22
     spriteID: 5478dc4baa20d2040aae662c999f3e96
@@ -2317,8 +2317,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Orb Outline 1
-    spriteName: Orb Outline 1
+  - name: Orb 1
+    spriteName: Orb 1
     isGroup: 0
     parentIndex: 22
     spriteID: 7be0844af7a27084ca26489bafc8a3f8
