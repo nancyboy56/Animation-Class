@@ -77,7 +77,7 @@ public class Movement : MonoBehaviour
         {
             MoveWithPosition();
             FlipSprite();
-            //print("moving");
+            print("moving");
 
         }
 
