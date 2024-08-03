@@ -1,2 +1,2 @@
 # Animation-Class
- 2d sidescroller for photoshop animation class
+ 2D adventure game with light platforming and puzzle set in a vampire mansion. Created initially for my 2D animation class in photoshop during art school.
